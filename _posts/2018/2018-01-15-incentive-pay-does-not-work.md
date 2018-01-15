@@ -37,7 +37,7 @@ As the Kohn article notes,
 
 Not only that, rewards often have an outcome that seems positive but is overall a negative. An analogy from the world of sports might make this point clear.
 
-![Image of Leo Messi by Luis Salas via Wikimedia Commons cc-by-2.0 ](https://user-images.githubusercontent.com/19977/34910008-948a956c-f861-11e7-9ed9-b33a991509df.png)
+![Image of Leo Messi by Luis Salas via Wikimedia Commons cc-by-2.0 ](https://user-images.githubusercontent.com/19977/34957483-afc6cbc0-f9e2-11e7-83ea-e41336b0978c.png)
 
 [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi) is the best soccer player in the world today, if not all time (I know I'm inviting argument here, feel free to write your rebuttal on your own blog, but for now, bear with me). He is the leading scorer in La Liga (the top Spanish soccer league where he plays for FC Barcelona) with 17 goals this season so far. In fact, because I've sat upon this draft, I've had to change this figure already. The player in second place is far behind with 13 and happens to be his teammate.
 
