@@ -1,0 +1,6 @@
+id: dsq-1240932699
+date: 2014-02-12T03:59:15.0000000-08:00
+author: Anand
+email: anandarajt@syncfusion.com
+gravatar: 8e015330a2410ee7589facdbbee118cf
+message: "<p>Is this fixed or not, because same issue occurs in MVC5 too.<br>Replication procedure:<br>$.ajax({<br>type:'post',<br>url: '/Home/Index'<br>data: SomeData',<br>dataType: 'html'<br>});</p><p>Note: Double value not bound to my object only if ajax request type is post<br>Thanks.</p>"

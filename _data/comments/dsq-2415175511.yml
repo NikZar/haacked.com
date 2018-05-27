@@ -1,0 +1,6 @@
+id: dsq-2415175511
+date: 2015-12-17T17:56:27.0000000-08:00
+author: Eric Richards
+email: ericrrichards@gmail.com
+gravatar: e2ee249250660ad8a7d94d2899b238c9
+message: <p>I sorta wish that DateTime was a reference type, instead of a value type.  Then I wouldn't have to fool around with Nullable&lt;datetime&gt;'s as much when I want to represent something that might have a date, or might have not date.  Particularly when those things go into databases, where the range of the .Net DateTime doesn't match up with the T-SQL datetime.</p>

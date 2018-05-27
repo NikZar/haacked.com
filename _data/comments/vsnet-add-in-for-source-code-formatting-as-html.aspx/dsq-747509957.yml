@@ -1,0 +1,6 @@
+id: dsq-747509957
+date: 2004-10-13T06:03:00.0000000-07:00
+author: Colin
+email: colin@wordpress.disqus.net
+gravatar: f8d4410f8a39dc62453f8069cf162bdd
+message: <p>It look like the angle brackets in the XML comments in your snippet weren't replaced with HTML entities.  Did you edit the HTML in something that would have reformatted it?</p>

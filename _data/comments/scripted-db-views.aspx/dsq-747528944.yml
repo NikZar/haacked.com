@@ -1,0 +1,6 @@
+id: dsq-747528944
+date: 2010-07-28T01:11:04.0000000-07:00
+author: Andrew Siemer
+email: asiemer@hotmail.com
+gravatar: 0eea711030d863eb12821b4a87722d2b
+message: <p>Phil, this is exactly what I was hoping to find (without actually looking for it).  I am under way creating a new multi-tenant CMS app (don't ask why) and was going to use NVelocity for dynamic view content in my views across multiple sites.  Given that NVelocity hasn't been updated in years...I was really hoping for another language - and Ruby is super popular!  Now I need to figure out a way to pull routes and controllers from the db and dynamically compile/load controllers...  Thoughts on this last piece?</p>

@@ -1,0 +1,6 @@
+id: dsq-747533484
+date: 2010-11-08T22:41:35.0000000-08:00
+author: Levi
+email: levib@microsoft.com
+gravatar: f572448c9c0fb88d39fcb95769b931af
+message: <p>Craig - yes, the attribute is limited to just controller classes for now.  Allowing it to be applied directly to actions would require a massive rearchitecture of the MVC pipeline, and that it something we didn't have time for this go around.</p>

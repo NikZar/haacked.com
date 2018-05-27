@@ -1,0 +1,6 @@
+id: dsq-747534446
+date: 2011-02-13T18:06:37.0000000-08:00
+author: Marc
+email: mezzacca@yahoo.com
+gravatar: 93e01156de20ba63d60d5535c8f5d48d
+message: <p>Phil,<br>Very cool stuff going on here.  Quick question... Is there currently a way in NuGet packages to select the version you want to use or download?<br>For example, some users were having issues with WebHelpers 1.1 where 1.0 worked fine...  As it is now I don't think there is a way to allow them to choose which version ?</p>

@@ -1,0 +1,6 @@
+id: dsq-747530670
+date: 2009-11-19T17:01:00.0000000-08:00
+author: Ali
+email: ali@wordpress.disqus.net
+gravatar: 4781a1a464f4605b15a6fd51ad595b6d
+message: <p>don't forget to add this line of code to Aplication_Start method in global.asax.cs  or your custom validation wont work (client side)<br> DataAnnotationsModelValidatorProvider.RegisterAdapter(typeof(PriceAttribute), typeof(PriceValidator));</p>

@@ -1,0 +1,6 @@
+id: dsq-3503167516
+date: 2017-09-05T08:59:58.0000000-07:00
+author: Nikolaj Jørgensen
+email: nikolaj@loftjoer.dk
+gravatar: 063f61c65355ab98a863c5509310f5d8
+message: "<p>Are you aware of Git Worktree, which was added in v2.5? (released 2 years ago)</p><p>Might be a more clean way, than the current alternative, when stash doesn't suits you \U0001F604</p><p>As for rebase, I do hope you're fully aware what it does and what side-effects it actually can have \U0001F914</p>"

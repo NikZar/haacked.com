@@ -1,0 +1,6 @@
+id: dsq-747511650
+date: 2006-06-05T12:39:00.0000000-07:00
+author: Craig Turner
+email: craig_turner@wordpress.disqus.net
+gravatar: 93310a710550440fb74263579afebe25
+message: <p>In my instance I think this was caused because I'd copied a directory including the CVS directory for it and the repository got confused because the CVS data in the subdirectory was wrong. Thanks for pointing me in the right direction.</p>

@@ -1,0 +1,6 @@
+id: dsq-747528550
+date: 2009-04-02T07:58:47.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Alex yeah, I read your post and forgot to link to it. Keep in mind that my point was that out of the box, ViewStateUserKey works. In your case, you'd have to disable ViewStateMac and not use PostBack. <br>In the code I wrote, we rely on a button click event which relies on post back.</p>

@@ -1,0 +1,6 @@
+id: dsq-747528064
+date: 2009-02-15T23:09:47.0000000-08:00
+author: Aaron Erickson
+email: aarone@magenic.com
+gravatar: 0ca81c3fe682af6771d4f9d942c1f877
+message: <p>I've been saying for over a year to anyone that would listen that C# and Linq is the gateway drug that will lead you to shooting up F# in a dark alley in a couple of months :)<br>Most complexity in our code comes down to loops, conditionals, and transformations, which is exactly what functional approaches make simple.</p>

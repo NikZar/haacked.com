@@ -1,0 +1,6 @@
+id: dsq-770074022
+date: 2013-01-16T07:30:31.0000000-08:00
+author: Tobias Zürcher
+email: tobias.zuercher@gmail.com
+gravatar: 0d4253fba45cb01f0019de404c6f98b4
+message: '<p>nice article! but remember: fxcop will complain about catch (Exception) {} </p>'

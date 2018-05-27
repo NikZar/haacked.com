@@ -1,0 +1,6 @@
+id: dsq-747507923
+date: 2011-12-20T16:19:15.0000000-08:00
+author: Martin V
+email: martin_v@wordpress.disqus.net
+gravatar: 1dcfa99ae66d403b7175da835bac096c
+message: "<p>Hi,<br>I'm not so deep into SQL, so I might have missed something here. But shouldn't @FirstName<br>in the line: <br>SELECT @FirstName = FirstName + ',' + @FirstName<br>actually be @FirstNames? (i.e. the thing that was declared at the beginning as: DECLARE @FirstNames VARCHAR(8000))<br>Thanks for clarifying.</p>"

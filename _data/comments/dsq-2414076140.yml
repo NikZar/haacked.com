@@ -1,0 +1,6 @@
+id: dsq-2414076140
+date: 2015-12-17T05:04:41.0000000-08:00
+author: Chris
+email: disqus@kribensa.com
+gravatar: 04fcddfad0f21b8d8395b87c0f20bb3e
+message: <p>"String" forces you to include "using System;" at the top<br>"string" helps you reduce namespace bloat (albeit a little)</p>

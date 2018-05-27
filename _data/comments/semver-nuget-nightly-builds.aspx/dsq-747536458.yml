@@ -1,0 +1,6 @@
+id: dsq-747536458
+date: 2011-10-25T04:51:38.0000000-07:00
+author: Brad Wilson
+email: dotnetguy@gmail.com
+gravatar: 2560112a578efab82a5fddd7284ef4f2
+message: <p>By the way, my vote is for "Stick with the previous version number and change labels just before release" because it follows SemVer's semantics. Going against the grain seems like a bad idea. Either support SemVer properly, or don't support it at all.</p>

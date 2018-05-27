@@ -1,0 +1,6 @@
+id: dsq-747510207
+date: 2007-06-14T22:08:57.0000000-07:00
+author: Shail
+email: spatel@emmis.com
+gravatar: d5d3587142b9156a4e12615bd0f42a05
+message: <p>I am not strong in regular express.  I am stuck while validation one string.  Actually I want <a>test</a> or <b>test</b> or <i>test</i> or any string.  Can you help me to generate regex for this validation.  Thaxs</p>

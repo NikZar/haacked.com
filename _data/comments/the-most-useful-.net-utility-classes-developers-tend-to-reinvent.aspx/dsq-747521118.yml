@@ -1,0 +1,6 @@
+id: dsq-747521118
+date: 2007-06-21T22:50:53.0000000-07:00
+author: Josh Stodola
+email: josh420@josh420.com
+gravatar: ac11bb0472c37bf41ca166ec849d3a02
+message: <p>Is VirtualPathUtility.ToAbsolutePath the same as ResolveUrl?<br>I have always just used ResolveUrl, should I change?  Why?</p>

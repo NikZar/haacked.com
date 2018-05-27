@@ -1,0 +1,6 @@
+id: dsq-2505208334
+date: 2016-02-09T15:40:33.0000000-08:00
+author: Peter
+email: mail@anotherfutureproduct.com
+gravatar: 1c9e04c6a4cbe6e2510cf686e29006dc
+message: <p>I am having all manner of trouble getting it to work on Windows 10 Pro joined into a domain.</p><p>Works perfectly on 3389, I have added an alternate port in addition to this and it quickly refuses to connect on that alternate port.</p><p>Also then tried just changing the port (rather than having an additional one) and it still refuses.</p><p>Local Windows 10 firewall profiles are ALL disabled via group policy.</p><p>Any thoughts from other Windows 10 users who may have this working on alternate ports greatly appreciated..</p>

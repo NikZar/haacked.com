@@ -1,0 +1,6 @@
+id: dsq-747508250
+date: 2005-03-30T23:10:00.0000000-08:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>That's a static property, so place the call somewhere that you know will execute before your http request code does.  For example you could set it just before your http request.  Or you could put it in a static constructor.</p>

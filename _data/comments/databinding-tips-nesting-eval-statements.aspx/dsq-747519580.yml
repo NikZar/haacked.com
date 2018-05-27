@@ -1,0 +1,6 @@
+id: dsq-747519580
+date: 2007-04-12T04:01:39.0000000-07:00
+author: Scott Muc
+email: scott_muc@cbcradio3.com
+gravatar: a8bda867c9f6f53176036c7bccb70402
+message: <p>A CSSUnit would be a godsend! Imagine writing CSSUnit tests that spec out a layout and dimensions and then a test would fail because you forgot a child element inherited some padding you placed on some outer element. One can dream I guess...</p>

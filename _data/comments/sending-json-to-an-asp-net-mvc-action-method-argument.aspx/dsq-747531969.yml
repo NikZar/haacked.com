@@ -1,0 +1,6 @@
+id: dsq-747531969
+date: 2010-04-15T00:30:16.0000000-07:00
+author: Mike Sampson (Sampy)
+email: sampy@sampy.com
+gravatar: ea22b9150bb854c6f4585aeb18d57d96
+message: <p>I just wrote a custom value provider earlier this week actually. Mine offers up properties of the HttpRequest object (referrer, ip address, and user agent) for binding to anything that ends with the right string (so that way it can cheat a little bit for deeply nested objects that need those properties).<br>I use it to collect data for anonymous comments as well as for forum posts so we can do things like IP bans and looking for people with multiple accounts.<br>Handy new feature!</p>

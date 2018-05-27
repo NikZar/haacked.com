@@ -1,0 +1,6 @@
+id: dsq-747528666
+date: 2009-04-21T03:22:00.0000000-07:00
+author: Andrey
+email: andrey@wordpress.disqus.net
+gravatar: a4dbfe8698ab74af93e7260d140edd7e
+message: <p>Everyone, please be aware that jqGrid number pages from 1, not from 0!<br>So page parameter for the first page is actually 1.<br>If you utilize, for example class PagedList - it accepts as input page index which is assumed to be zero-based.</p>

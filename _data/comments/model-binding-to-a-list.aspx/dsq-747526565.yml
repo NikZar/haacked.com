@@ -1,0 +1,6 @@
+id: dsq-747526565
+date: 2008-11-18T15:00:27.0000000-08:00
+author: Hassan
+email: hassan.live@hotmail.com
+gravatar: 5e3c95e54f18f27c7e83e673c5cf85e2
+message: <p>How about if i use a HTML.ListBox that submit a List of EntityID and EntityName? Is there any way to do this with DefaultModelBinder without registering Custom Model Binder?</p>

@@ -1,0 +1,6 @@
+id: dsq-747531195
+date: 2009-12-29T10:25:49.0000000-08:00
+author: James Fuller
+email: jimminyfuller@gmail.com
+gravatar: 54d5f6dfddf118a512e1266b3b55921f
+message: '<p>I just wanted to point out, it looks like this code is switching the red and blue value, if you use the rgb values(120,120,240) your code returns #F07878 which is dominantly red, rather than dominantly blue, a fix to this is to remove the multiplier in front of the blue and multiply the red value by 65536. Just a quick analysis. Useful code otherwise.<br></p>'

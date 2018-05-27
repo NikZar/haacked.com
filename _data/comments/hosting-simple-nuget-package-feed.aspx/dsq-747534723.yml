@@ -1,0 +1,6 @@
+id: dsq-747534723
+date: 2011-04-10T17:58:56.0000000-07:00
+author: Damian Powell
+email: damian@shadow-angel.com
+gravatar: 4ccbd7d733274ae574b2c19a4fd631fe
+message: <p>It seems that WebActivator now depends upon Microsoft.Web.Infrastructure but it isn't included as a reference. Is that intentional?</p>

@@ -1,0 +1,6 @@
+id: dsq-889426210
+date: 2013-05-08T01:09:22.0000000-07:00
+author: JJ
+email: jj@ntlworld.com
+gravatar: 6f3088b99158808428795e669acc3c4f
+message: <p>You all need to be aware of the difference in the object initializer code which is produced in release / debug builds. This whole post relates to debug builds. Look at the code procued in relases mode, you will not get the temporary named object assignment.</p>

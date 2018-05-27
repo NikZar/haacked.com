@@ -1,0 +1,6 @@
+id: dsq-747526594
+date: 2010-03-08T17:55:47.0000000-08:00
+author: Robert Koritnik
+email: robert.koritnik@gmail.com
+gravatar: eb12cd42a3508351122a02dbc0c4f186
+message: <p>Anyone asking about MVC 2 here's the answer. I'm working on an app that uses <a href="http://Asp.net" rel="nofollow noopener" title="Asp.net">Asp.net</a> MVC 2 RC2 and the BEST thing is, this technique still works as in previous version. I'm able to bind complex objects to a List&lt;T&gt;.</p>

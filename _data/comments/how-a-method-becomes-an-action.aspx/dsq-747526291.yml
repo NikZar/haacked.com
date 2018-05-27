@@ -1,0 +1,6 @@
+id: dsq-747526291
+date: 2008-08-29T04:27:15.0000000-07:00
+author: shawn
+email: shawn@wordpress.disqus.net
+gravatar: 3903eb24f6608424b58153e26a953121
+message: <p>Great post Phil. <br>I agree completely with the "action is just a logical construct" concept as it enforces loose coupling from View to Controller. <br>I'm relieved to see the ASP.NET MVC architects finally help express this for developers via these new additions in preview 5.<br>Frankly, while undeniably tempting, I consider controller lambda expressions being used in a view as a gross violation of the pattern! <br></p>

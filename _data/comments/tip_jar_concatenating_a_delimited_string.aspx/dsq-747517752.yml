@@ -1,0 +1,6 @@
+id: dsq-747517752
+date: 2006-11-23T16:01:48.0000000-08:00
+author: Truong Hong Thi
+email: thi1981@gmail.com
+gravatar: 7a64ed9293c645e5857255e8f2320a8d
+message: <p>Hi Tom, it is just my habit.<br>However, I think the compiler would generate the same code only if some optimization switch is turned on. Because, C# does not complain if you change fakes inside the loop, and, as the result, fakes.Length might vary.<br>I don't believe the compiler could examine the code and determine whether fakes.Length could change during the loop. If it does not know for sure fakes.Length won't change, it will have to invoke fakes.Length again and again.</p>

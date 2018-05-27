@@ -1,0 +1,6 @@
+id: dsq-1410207046
+date: 2014-05-29T08:40:10.0000000-07:00
+author: Eric J. Smith
+email: eric@codesmithtools.com
+gravatar: 81194aad798f05bd5b6dea181c24d06a
+message: <p>The entire pipeline is different. If you are doing anything other than simple controller actions then you will need to do work migrating your filters, message handlers, formatters, auth, constraints, action results and who knows what else. It will definitely be an effort to move to the new pipeline.</p>

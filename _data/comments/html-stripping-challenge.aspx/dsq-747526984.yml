@@ -1,0 +1,6 @@
+id: dsq-747526984
+date: 2008-11-11T17:33:36.0000000-08:00
+author: Steve Wagner
+email: accounts@lanwin.de
+gravatar: c5146b35444bddcc4057d2ec645fb6f0
+message: <p>You can also use the opensource <a href="http://wiki.developer.mindtouch.com/SgmlReader" rel="nofollow noopener" title="http://wiki.developer.mindtouch.com/SgmlReader">http://wiki.developer.mindtouch.com/SgmlReader</a>. It is an html reader which exposes the api of an xmlreader. So you can create an XmlDocument from any html.</p>

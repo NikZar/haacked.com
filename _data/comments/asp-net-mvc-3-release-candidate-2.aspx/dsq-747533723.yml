@@ -1,0 +1,6 @@
+id: dsq-747533723
+date: 2010-12-13T21:46:02.0000000-08:00
+author: hazzik
+email: hazzik@gmail.com
+gravatar: 849b5057cdc84934daae1942749f0270
+message: '<p>class dao { string SomeValue; }<br>class childDao : dao { }<br>&lt;%ViewPage&lt;childDao&gt;%&gt;<br>&lt;%= Html.Editor("SomeValue") %&gt; -- there ModelType is childDao<br>&lt;%= Html.EditorFor(x=&gt;x.SomaValue) %&gt; -- there ModelType is dao</p>'

@@ -1,0 +1,6 @@
+id: dsq-747520389
+date: 2009-01-23T01:16:58.0000000-08:00
+author: Dostoy
+email: dostoy@wordpress.disqus.net
+gravatar: c76d0aa7b0717af28557047e5e95a75b
+message: <p>Make sure whatever account the application pool is using for it's identity is a member of the IIS_WPG local group.</p>

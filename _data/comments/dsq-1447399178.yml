@@ -1,0 +1,6 @@
+id: dsq-1447399178
+date: 2014-06-21T03:30:20.0000000-07:00
+author: Igal Tabachnik
+email: hmemcpy@gmail.com
+gravatar: c12b67ddd060aa0abbb59da1b0da3530
+message: <p>Instead of adding the Asset line manually, you could have added it via the UI (double-click on the vsixmanifest file), but you have a point...</p>

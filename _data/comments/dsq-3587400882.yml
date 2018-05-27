@@ -1,0 +1,6 @@
+id: dsq-3587400882
+date: 2017-10-27T08:55:30.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>I'll be honest, I found the `xargs` part from some other alias and repurposed it here without digging into it too much. It looks like I could just remove the -r part entirely though, don't you think?</p>

@@ -1,0 +1,6 @@
+id: dsq-747535694
+date: 2011-07-14T20:44:33.0000000-07:00
+author: blowdart
+email: web@idunno.org
+gravatar: 7602472a3fff3c128dfa43a3093782d5
+message: <p>Yea, I'm with having assembly/namespace optionally in there, especially as my models live in a separate assembly, along with their metadata. Keeping it within a single assembly doesn't appear flexible enough.</p>

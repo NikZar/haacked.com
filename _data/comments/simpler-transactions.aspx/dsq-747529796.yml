@@ -1,0 +1,6 @@
+id: dsq-747529796
+date: 2009-08-31T02:20:00.0000000-07:00
+author: Rick Dailey
+email: rick_dailey@wordpress.disqus.net
+gravatar: 5f2a7a701e77ff46ea3e6df3174411bd
+message: <p>This reminds me of my DataBind helper (because for some reason, I feel like DataBind is a single op 90% of the time).<br>public static void DataBind(this BaseDataBoundControl control, object dataSource) {<br>    control.DataSource = dataSource;<br>    control.DataBind();<br>}</p>

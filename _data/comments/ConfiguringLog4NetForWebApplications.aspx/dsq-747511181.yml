@@ -1,0 +1,6 @@
+id: dsq-747511181
+date: 2008-11-05T21:12:25.0000000-08:00
+author: Kapil
+email: kapiljainindore@gmail.com
+gravatar: 0a0428bba8563d1fc5e78d27f692cf0f
+message: <p>I am following exact steps listed in the tutorial above but i am not getting log file generated untill i am granting write permission to &lt;machinename&gt;\USERS in my case (KAPIL\USERS)please note ErrorLog.txt is already having suitable write permission for  ASPNET account.<br>Please let me know why i need to grant permission to MACHINE\USER which not logical and vulnerable too.</p>

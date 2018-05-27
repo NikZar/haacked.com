@@ -1,0 +1,6 @@
+id: dsq-747509064
+date: 2004-07-06T03:46:00.0000000-07:00
+author: Brad Wilson
+email: brad_wilson@wordpress.disqus.net
+gravatar: e84a2060dfd6638f21cf3a4001b0087b
+message: <p>Yes, delegates are a hard reference. Yes, your object will stay alive. In fact, this can cause of some circular reference memory leaks.</p>

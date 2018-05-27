@@ -1,0 +1,6 @@
+id: dsq-747532528
+date: 2010-06-14T07:04:38.0000000-07:00
+author: Jimbo
+email: jd@thefarmdigital.com.au
+gravatar: afbc0429d2603c98ec8bca919dfb3de0
+message: <p>Seth,<br>Don't you mean .IsNotNullNorEmpty()?<br>Four negatives in an extension method makes me antsy.</p>

@@ -1,0 +1,6 @@
+id: dsq-747537239
+date: 2012-06-05T03:49:55.0000000-07:00
+author: Restuta
+email: restuta8@gmail.com
+gravatar: bca93b6f23e754fc5082789092e75b42
+message: <p>I guess your <br>"Install-Module Posh-Git –force"<br>should be replaced with Import-Module. I am unable to find "Install-Module" cmdlet.</p>

@@ -1,0 +1,6 @@
+id: dsq-747525939
+date: 2008-08-07T00:26:13.0000000-07:00
+author: Francois Ward
+email: francois_ward@wordpress.disqus.net
+gravatar: 02ef9f3d7712d6352c4fab643d5f3786
+message: <p>The "cheat" i think is the usage of a Context variable to keep track of the "state" of the loop operation.<br>My first reaction, too, was "Where's the cheat", since usually when people refer to cheating, they're talking about Reflection =P</p>

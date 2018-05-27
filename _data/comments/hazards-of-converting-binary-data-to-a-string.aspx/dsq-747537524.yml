@@ -1,0 +1,6 @@
+id: dsq-747537524
+date: 2012-01-30T06:12:09.0000000-08:00
+author: Bevan Coleman
+email: bevan.coleman@bistre.net
+gravatar: 7f1b91e17c4431d45a47a4636a83f23a
+message: <p>Wish I had seen this a month ago :)<br>In my case I had a legacy product streaming out 8-bit binary.<br>It took me me an embassingly long time to work out that the UTF-8 Encoding wasn't the same thing as 8-bit binary :/<br></p>

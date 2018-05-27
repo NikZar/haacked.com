@@ -1,0 +1,6 @@
+id: dsq-747534745
+date: 2011-05-10T22:18:45.0000000-07:00
+author: Mike
+email: mike@mike.com
+gravatar: 27b9aaca2520d605651e0314c557f662
+message: <p>You are missing a step to add the dependency on Microsoft.Web.Infrastructure, and that is not a NuGet package :(</p>

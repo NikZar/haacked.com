@@ -1,0 +1,6 @@
+id: dsq-747534568
+date: 2011-03-22T15:04:52.0000000-07:00
+author: Krzysiek Szczęsny
+email: krzysiek_szczsny@wordpress.disqus.net
+gravatar: 3587dee8dca5a2f993f60661987f82ac
+message: <p>I think you can work around the @&lt; issue with &lt;text&gt; tag - razor has this for "text only" nodes, so if my guess is correct, @&lt;text&gt;Html.TextBoxFor(...)&lt;/text&gt; should render the text box without a wrapper</p>

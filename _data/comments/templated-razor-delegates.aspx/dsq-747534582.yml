@@ -1,0 +1,6 @@
+id: dsq-747534582
+date: 2011-11-02T08:07:23.0000000-07:00
+author: Murray
+email: murray@roke.co.nz
+gravatar: bf667c2f33ec3a86b6ef2bdb55d3182a
+message: <p>should read:<br>WrapInAnchorOrNot(node, @&lt;span&gt;@otherObject.Title&lt;/span&gt;)</p>

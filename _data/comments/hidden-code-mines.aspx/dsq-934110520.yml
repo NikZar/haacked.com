@@ -1,0 +1,6 @@
+id: dsq-934110520
+date: 2013-06-18T03:25:47.0000000-07:00
+author: Leyu
+email: leyu_s@hotmail.com
+gravatar: b36858e93eea013987a825986ca271c9
+message: <p>Typo on second snnipet <br>//items.ToDictionary(item =&gt; item.Key);<br>items.ToDictionary(item =&gt; item.Id);</p>

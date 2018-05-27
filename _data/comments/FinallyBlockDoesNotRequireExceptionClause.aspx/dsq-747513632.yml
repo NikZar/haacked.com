@@ -1,0 +1,6 @@
+id: dsq-747513632
+date: 2006-01-09T12:28:00.0000000-08:00
+author: jayson knight
+email: jayson_knight@wordpress.disqus.net
+gravatar: a7881723f0a71d3de4bf6e8e5fc14567
+message: <p>Disregard the "using" portion of my post above, reflecting on FileSystem.Dispose shows that it only flushes the stream, and doesn't close it...I should do my homework first.</p>

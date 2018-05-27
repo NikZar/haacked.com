@@ -1,0 +1,6 @@
+id: dsq-747529752
+date: 2009-08-19T05:38:00.0000000-07:00
+author: Scott Bellware
+email: scott_bellware@wordpress.disqus.net
+gravatar: 89ed8e0d25266af1f261ef5d72e8a563
+message: <p>Tobin,<br>Throwing an exception in a using block is something that, while not verboten to the pattern, I would consider to stretch least surprise uncomfortably.</p>

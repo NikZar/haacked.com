@@ -1,0 +1,6 @@
+id: dsq-747528661
+date: 2009-04-20T04:06:00.0000000-07:00
+author: Andrey
+email: andrey@wordpress.disqus.net
+gravatar: a4dbfe8698ab74af93e7260d140edd7e
+message: <p>Guys (those how have problem with "jqGrid is not a function" error message), you need to go to jquery.jqGrid.js file and update the line:<br>&gt;&gt;    var pathtojsfiles = "js/"; // need to be ajusted<br>Update it to whatever your path to js files is.  For me, this action fixed the problem.<br></p>

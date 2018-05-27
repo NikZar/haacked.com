@@ -1,0 +1,6 @@
+id: dsq-747518180
+date: 2007-01-11T06:48:11.0000000-08:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Dude, the effetech http sniffer is nowhere *near* Fiddler. Have you played with Fiddler?<br>Do this, sniff some http requests. Then click on a request and click on the "Request Builder". Then drag a request from the left into the request builder, and tweak the request and then execute it.<br>How do you do that with effetech?</p>

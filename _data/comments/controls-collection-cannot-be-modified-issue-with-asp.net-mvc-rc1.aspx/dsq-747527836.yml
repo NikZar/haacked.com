@@ -1,0 +1,6 @@
+id: dsq-747527836
+date: 2009-01-27T06:12:22.0000000-08:00
+author: Some guy
+email: some_guy@wordpress.disqus.net
+gravatar: 3708eb839c4a7c76657078a06552f25a
+message: <p>I had come up with a work around that had been working for me so far. <br>\head runat="server" visible="false" /\<br>\head runat="server" \<br>\title\ /%=Page.Title ?? "Default Title"%/ \/title\<br>\/head\<br>/ are actually greater/less than, just don't know if they are going to be escaped or not...</p>

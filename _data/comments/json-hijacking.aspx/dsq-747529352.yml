@@ -1,0 +1,6 @@
+id: dsq-747529352
+date: 2009-06-25T08:52:00.0000000-07:00
+author: Louis
+email: louis@wordpress.disqus.net
+gravatar: 86446a3bc24a1b6a86b45448c6b65f94
+message: <p>Sounds good. I was thinking briefly you would still be exposed to state changes committed before for JsonResult throws, but that's moot because it's true for any script src where the target doesn't have AcceptVerbs POST.<br>So +1 on require POST by JsonResult. Or possibly only require POST when you attempt to return an array? It would be less impactful - unless that leaves other vulnerability concerns.<br></p>

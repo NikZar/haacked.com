@@ -1,0 +1,6 @@
+id: dsq-1734090110
+date: 2014-12-09T15:28:37.0000000-08:00
+author: Louise
+email: louisen@uncommonlogic.ca
+gravatar: c89a5e7b1ad1b420043b2ceeb68f84d3
+message: <p>I had the same issue but was able to resolve it by altering DecimalModelBinder() to conditionally return a nullable decimal. In my registration I have two seperate calls to <br>DecimalModelBinder(). Eg <br>ModelBinders.Binders.Add(typeof(decimal), new DecimalModelBinder()); and <br>ModelBinders.Binders.Add(typeof(decimal?), new DecimalModelBinder());</p>

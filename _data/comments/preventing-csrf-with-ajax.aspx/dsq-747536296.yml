@@ -1,0 +1,6 @@
+id: dsq-747536296
+date: 2011-10-10T21:28:29.0000000-07:00
+author: Enrique Allegretta
+email: eallegretta@gmail.com
+gravatar: bc1aef9e28aa7f8202b40a9dddb5dd74
+message: <p>Hi Phil, I think it would be better to create an attribute that support both scenarios, inside you should check if the request is ajax and do this new kind of black magic, otherwise you should leave it as it is.<br>Thx.</p>

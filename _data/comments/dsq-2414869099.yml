@@ -1,0 +1,6 @@
+id: dsq-2414869099
+date: 2015-12-17T13:31:39.0000000-08:00
+author: Chris Nielsen
+email: sliderhouserules@gmail.com
+gravatar: 5f078390954a57f4fed82d00e6ff7383
+message: <p>Another point to make, for those of us that prefer "string myValue = String.Empty;" ... I think I'm safe in saying that if C# had a lowercase synonym for DateTime, we would likely use it the same way. e.g. "datetime myValue = DateTime.Now;". That does look like it's begging for camel casing though, and dateTime as a type/keyword would just look weird. DateTime is also not one of those types that is semi-universal and is drummed into your head that it's a value type.</p>

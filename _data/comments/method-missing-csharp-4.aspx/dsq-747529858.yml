@@ -1,0 +1,6 @@
+id: dsq-747529858
+date: 2009-09-03T22:56:00.0000000-07:00
+author: George Mauer
+email: george_mauer@wordpress.disqus.net
+gravatar: ae64a2bbca18e27b09263db4720f600d
+message: <p>Or even better.<br>dynamicDictionary.Output = x =&gt; Console.Writeline(x);<br>dynamicDictionary.Output(x);</p>

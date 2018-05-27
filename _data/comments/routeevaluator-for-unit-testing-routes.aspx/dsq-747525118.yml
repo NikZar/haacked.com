@@ -1,0 +1,6 @@
+id: dsq-747525118
+date: 2011-04-21T21:01:23.0000000-07:00
+author: jasa backlink
+email: susucolostrum21@gmail.com
+gravatar: fc45d8d9355153b8d440dc4dfd93d4de
+message: <p>I have registered in my RouteCollection, and they're always excatly the same routes! It looks like the foreach in GetMatches is redundant, but then I can't see how it can find multiple routes that match the same rule?</p>

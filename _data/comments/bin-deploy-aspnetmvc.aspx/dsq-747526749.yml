@@ -1,0 +1,6 @@
+id: dsq-747526749
+date: 2012-05-14T03:58:05.0000000-07:00
+author: Jason Watmore
+email: cornflourblue@hotmail.com
+gravatar: d09c4d1cc2976c579b09badf14221452
+message: <p>Thanks very much!<br>For my MVC3 project I had to add references to these assemblies:<br>- System.Web.WebPages.Razor<br>- System.Web.Razor<br>- System.Web.WebPages.Deployment<br>And set Copy Local to True for these assemblies:<br>- System.Web.Helpers<br>- System.Web.Mvc<br>- System.Web.WebPages<br>- System.Web.WebPages.Razor<br>- System.Web.Razor<br>- System.Web.WebPages.Deployment<br></p>

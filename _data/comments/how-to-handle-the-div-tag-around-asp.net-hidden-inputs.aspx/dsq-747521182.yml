@@ -1,0 +1,6 @@
+id: dsq-747521182
+date: 2007-07-02T21:32:18.0000000-07:00
+author: opello
+email: opello@opello.org
+gravatar: 35d8f2b3e2651182fea52c8bfd4d06cd
+message: "<p>I'm reading a backlog of aggregated posts, and Mads hit the thought I was thinking while reading the bit about having to use child selectors or first-child pseudo classes.  Just using <code>form div { padding: 0; }</code> or whatever styles you would need to correct should indeed fix the 'problem.'</p>"

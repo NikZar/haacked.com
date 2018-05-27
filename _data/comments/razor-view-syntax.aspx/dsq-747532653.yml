@@ -1,0 +1,6 @@
+id: dsq-747532653
+date: 2010-09-28T22:50:54.0000000-07:00
+author: Guest
+email: anonymized-747532653@disqus.com
+gravatar: 21561fbe1cf56432899673d1ca8d6b76
+message: <p>Camiel - a workaround is to use dynamic instead, eg:<br>@inherits System.Web.Mvc.WebViewPage&lt;dynamic&gt;</p>

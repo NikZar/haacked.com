@@ -1,0 +1,6 @@
+id: dsq-747514826
+date: 2008-10-08T23:40:31.0000000-07:00
+author: SqlBackupAndFtp
+email: pad@sqlbackupandftp.com
+gravatar: 49ac6a342f16b8d3e552f29280b15ec2
+message: <p>If you need to backup SQL Server database you can use <a href="http://sqlbackupandftp.com/download/SqlBakSetup.exe" rel="nofollow noopener" title="http://sqlbackupandftp.com/download/SqlBakSetup.exe"> SQLBackupAndFtp</a> utility (which is free for 1-2 databases). <br>It zips the backups, stores them on a network or on a FTP server, removes old backups and sends an e-mail confirmation on job's success or failure.</p>

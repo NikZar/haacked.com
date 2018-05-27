@@ -1,0 +1,6 @@
+id: dsq-747535444
+date: 2011-10-03T14:39:54.0000000-07:00
+author: Paul
+email: paul@wordpress.disqus.net
+gravatar: cb483dbbdf7cfee35da9b13a325fa243
+message: <p>Got it to work after all - when you run devenv /installvstemplates from the VS2010 command prompt you need to right click and choose 'run as administrator'.</p>

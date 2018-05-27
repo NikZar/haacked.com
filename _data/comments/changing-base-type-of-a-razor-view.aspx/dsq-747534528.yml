@@ -1,0 +1,6 @@
+id: dsq-747534528
+date: 2011-04-24T01:26:32.0000000-07:00
+author: DrMsal
+email: drsamsal@gmail.com
+gravatar: a4c513e72b917c106c86507d7210c087
+message: <p>Got it finally. <br>when you set the base type in webconfig file it set itself as strongly type by default. So I put @inherits directive on view itself make non strongly type. that make it work. <br>Is it correct way??  or is there any other better way of doing the same ???</p>

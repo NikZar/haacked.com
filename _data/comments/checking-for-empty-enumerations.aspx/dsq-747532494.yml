@@ -1,0 +1,6 @@
+id: dsq-747532494
+date: 2010-06-09T20:11:31.0000000-07:00
+author: Carl H&#246;rberg
+email: carl.hoerberg@gmail.com
+gravatar: f0a3ce9ab4d65f2e2dad6cd0aa63c98a
+message: '<p>In Linq to SQL:<br>.Any(): select case when exists (select null [your query]) then 1 else 0 <br>.Count(): select count(*) where [your query]<br></p>'

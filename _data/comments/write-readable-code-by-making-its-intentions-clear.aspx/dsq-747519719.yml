@@ -1,0 +1,6 @@
+id: dsq-747519719
+date: 2007-04-19T14:46:39.0000000-07:00
+author: Andy
+email: comments@andymasters.co.uk
+gravatar: 20c73ffae4996aa8739adc1ccc8ae5c3
+message: <p>Which is best for readability?<br>Option a)<br>if (value)<br>{<br>  x=true;<br>  y=true;<br>  z=true;<br>}<br>else<br>  x=false;<br>  y=false;<br>  z=false;<br>}<br><br>Option b)<br>x = y= z = value;</p>

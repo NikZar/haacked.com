@@ -1,0 +1,6 @@
+id: dsq-747534549
+date: 2011-02-23T19:27:31.0000000-08:00
+author: Bradley Landis
+email: bradleylandis@bradleylandis.com
+gravatar: 93a85d566576093f5b7e6f16bad7cff9
+message: <p>Is there a way to deprecate packages in NuGet?  The update system could then be used to alert the users to the deprecation and point them toward the replacement package.</p>

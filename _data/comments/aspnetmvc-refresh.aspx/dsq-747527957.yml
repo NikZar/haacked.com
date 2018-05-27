@@ -1,0 +1,6 @@
+id: dsq-747527957
+date: 2009-01-31T19:49:26.0000000-08:00
+author: Emad Ibrahim
+email: eibrahim@gmail.com
+gravatar: 8b1ef784e84a8df191228a3a1f65c2e9
+message: <p>Cool, that's easy enough.  To cancel, set the results to null and return.<br>What if I wanted to check if the action has been canceled in a previous filter.  I have logic like this.<br>if (filterContext.Cancel)<br>   return;<br>Or am I using it wrong?  Do I even need to do that check?</p>

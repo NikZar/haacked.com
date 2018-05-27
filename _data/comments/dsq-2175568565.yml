@@ -1,0 +1,6 @@
+id: dsq-2175568565
+date: 2015-08-05T06:18:35.0000000-07:00
+author: sideshowcoder
+email: philipp.fehre@gmail.com
+gravatar: 101cc93c4d018c279e57a0e41acde156
+message: <p>This will actually fail if there are no branches to clean, a small additional tweak:</p><p>` bclean = "!f() { branches=$(git branch --merged ${1-master} | grep -v " ${1-master}$"); [ -z \"$branches\" ] || git branch -d $branches; }; f"`</p>

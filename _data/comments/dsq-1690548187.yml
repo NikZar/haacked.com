@@ -1,0 +1,6 @@
+id: dsq-1690548187
+date: 2014-11-12T17:22:39.0000000-08:00
+author: Rex Ng
+email: rexcfnghk@gmail.com
+gravatar: 75b35db6dc6eb2514b4d584e54443d30
+message: '<p>why not simply:</p><p>public static bool HasAttribute&lt;tattribute&gt;(this MethodInfo property) where TAttribute : Attribute<br>{<br>    return property.GetCustomAttribute&lt;tattribute&gt;() != null ;<br>}</p>'

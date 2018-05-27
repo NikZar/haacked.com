@@ -1,0 +1,6 @@
+id: dsq-747522097
+date: 2008-12-22T03:10:55.0000000-08:00
+author: manly
+email: manly@wordpress.disqus.net
+gravatar: dfa8e8505e7ed94aa49137dea6b56939
+message: <p>return System.Uri.IsWellFormedUriString("mailto:" + emailAddress, System.UriKind.Absolute);<br>seemed like a much simplier approach to the problem</p>

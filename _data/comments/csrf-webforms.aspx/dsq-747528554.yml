@@ -1,0 +1,6 @@
+id: dsq-747528554
+date: 2009-04-03T03:23:05.0000000-07:00
+author: Johnny
+email: johnny@wordpress.disqus.net
+gravatar: b982f535b0d2b06fc3f95d798a0f0a73
+message: <p>Doesn't this still assume that the user trusts their browser?  For example, if the ViewStateUserKey can be obtained from the viewstate, the hacker can proceed with the described forgery attack yes?<br></p>

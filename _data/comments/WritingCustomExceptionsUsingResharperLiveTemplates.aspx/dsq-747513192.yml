@@ -1,0 +1,6 @@
+id: dsq-747513192
+date: 2007-11-05T14:21:09.0000000-08:00
+author: Robert
+email: roberthoglund@gmail.com
+gravatar: 3e7b5f8596b9bb15e9635afb8ed45ce2
+message: '<p>I did download the zip file with the templates but the SimpleExceptionTemplate have an error in it. There are two constructors that take one string as an argument so I guess the last constructor should look like this:<br>protected $TYPE$Exception(SerializationInfo info, StreamingContext context) : base(info, context)<br>{}</p>'

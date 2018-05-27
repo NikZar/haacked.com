@@ -1,0 +1,6 @@
+id: dsq-747524475
+date: 2010-09-19T23:46:33.0000000-07:00
+author: Gary A.
+email: tintinium@gmail.com
+gravatar: c0a72bd7f83702c706515f0a76ffa22f
+message: <p>I realize that this is just a partial solution, but where do you catch the SecurityException? I define my routes in a Global.asax.cs file, but in the real world, I'd probably just redirect the user to a login page. Perhaps I'm missing something in my understanding of this?</p>

@@ -1,0 +1,6 @@
+id: dsq-2177678865
+date: 2015-08-06T07:47:16.0000000-07:00
+author: Stian
+email: stianolafsen@gmail.com
+gravatar: 5b9cd8dcc98afd547cbd8652a422d1a5
+message: <p>Is there any possibility to use this technique on a .Net 3.5 compact framework on a Pocket PC. I cant seem to find the referenced exception. All I get is a TypeLoadException.</p>

@@ -1,0 +1,6 @@
+id: dsq-747517667
+date: 2012-04-02T12:55:36.0000000-07:00
+author: Edwin
+email: edwin_jones@hotmail.co.uk
+gravatar: 96e2dd4265d00f537d3eccfb42c315cd
+message: <p>For anybody surfing on here through google who is getting the "because it is registered in web.config and lives in the same directory as the page." error, remember to put your user controls in a DIFFERENT FOLDER to your ASPX pages, that should fix the problem.<br>If you have user controls that other user controls use, also make sure these are in another folder.</p>

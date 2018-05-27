@@ -1,0 +1,6 @@
+id: dsq-747531710
+date: 2010-02-21T16:01:28.0000000-08:00
+author: Daniel Liuzzi
+email: dliuzzi@gmail.com
+gravatar: cfb258a7485930b72879277893580d03
+message: <p>I you don't want to hit the database twice, can you pass the whole object rather than just the ID?</p>

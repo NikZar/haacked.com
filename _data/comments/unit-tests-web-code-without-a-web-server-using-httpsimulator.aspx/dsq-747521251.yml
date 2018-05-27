@@ -1,0 +1,6 @@
+id: dsq-747521251
+date: 2007-06-23T09:42:11.0000000-07:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Joshua - How do you do this with the HostingEnvironment? <br>HttpContext.Current.Request.RawUrl</p>

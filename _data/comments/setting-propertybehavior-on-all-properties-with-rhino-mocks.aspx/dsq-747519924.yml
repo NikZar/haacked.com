@@ -1,0 +1,6 @@
+id: dsq-747519924
+date: 2007-06-13T20:00:20.0000000-07:00
+author: Thomas Hezel
+email: thezel@gmail.com
+gravatar: f4c0b72de80094f46e0d202baaf9a34b
+message: <p>This looks good, but what can we do with ReadOnly Properties; ie, ones with getters, no setters, but need to have a value when the Mocked instance is used in tests?</p>

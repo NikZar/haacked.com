@@ -1,0 +1,6 @@
+id: dsq-857632875
+date: 2013-04-09T07:55:08.0000000-07:00
+author: Luke Puplett
+email: lukepuplettak@gmail.com
+gravatar: 97338f28dbbda14737050eaafacdbb86
+message: <p>It now uses web.config instead of this class.</p><p>&lt;add key="RouteDebugger:Enabled" value="true"/&gt;</p>

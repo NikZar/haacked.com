@@ -1,0 +1,6 @@
+id: dsq-1100146401
+date: 2013-10-28T16:09:09.0000000-07:00
+author: bcs
+email: bcs@google.com
+gravatar: f2d485d809e88339a6f78e584ce760b3
+message: <p>When reviewing code, I often bring up the before and after in a diff tool and try to convert the one to the other. This works very well with re-factor heavy changes, as it allows me to deposes of "semantically null" changes first and then look at only the "real" changes later.</p>

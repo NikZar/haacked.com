@@ -1,0 +1,6 @@
+id: dsq-747535080
+date: 2011-04-25T01:11:11.0000000-07:00
+author: Gene
+email: xgene@hotmail.com
+gravatar: 4800169bd53acca0d0de406a62941ec9
+message: <p>So, following up:<br>"For example, suppose you want to apply an authorization filter to every action except the action that lets the user login."<br>How would you pass in an existing action filter?</p>

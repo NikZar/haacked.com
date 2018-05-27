@@ -1,0 +1,6 @@
+id: dsq-2457054220
+date: 2016-01-14T04:25:05.0000000-08:00
+author: Gabriel Garcia
+email: garciat@live.com
+gravatar: 7fc30dda4d05594a138c4083135ece37
+message: <p>All of your type declarations besides int, string, etc. are ambiguous, then. So this makes proper typing an impossible task for you. That is unfortunate.</p>

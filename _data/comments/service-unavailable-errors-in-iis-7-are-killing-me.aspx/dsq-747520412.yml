@@ -1,0 +1,6 @@
+id: dsq-747520412
+date: 2012-09-10T19:31:26.0000000-07:00
+author: full suppend
+email: fullsupp@aol.com
+gravatar: 01cb0188be0aef39e31bf9f8426e926f
+message: <p>Thanks to Dazx. I followed his advice. I went to IIS Manager and noticed that my DefaultAppPool is stopped. So I clicked Start and voila! It solved it!  I remember installing Zend Server and I guess that installation was the culprit.</p>

@@ -1,0 +1,6 @@
+id: dsq-2507769226
+date: 2016-02-11T01:40:37.0000000-08:00
+author: Phil Beresford
+email: philberesford@hotmail.com
+gravatar: 2071c0c546f0bb94103a9f18c2276bd0
+message: <p>I know this blog entry is a thousand years old now, but just the fact that you mentioned HTTP modules as a way of doing useful stuff got me out of a two day pit of abstraction mayhem.</p><p>When it comes down to it, we're just processing bits on the wire...something that HTTP Modules are pretty good at, so thank you!</p>

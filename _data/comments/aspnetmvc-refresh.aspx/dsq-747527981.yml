@@ -1,0 +1,6 @@
+id: dsq-747527981
+date: 2009-02-08T23:34:56.0000000-08:00
+author: darren
+email: darren@wordpress.disqus.net
+gravatar: 74abd8bcbd7b40364a33bd00818d78c7
+message: <p>I noticed the fatal execution error when I installed MVC RC.  I traced it down to an issue with that and AnkhSvn.  I turned off AnkhSvn as my source control closed the solution and then reopened it.  This seemed to have solved the problem temporarily because I need to use AnkhSvn and other addins.  Is there a fix out there for this??</p>

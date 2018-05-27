@@ -1,0 +1,6 @@
+id: dsq-747509877
+date: 2006-06-27T04:35:00.0000000-07:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>Well it sounds like what you want is Server.Execute() rather than Server.Transfer.</p>

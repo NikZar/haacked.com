@@ -1,0 +1,6 @@
+id: dsq-747513898
+date: 2006-08-12T15:42:17.0000000-07:00
+author: James Chen
+email: jamesvancouver@yahoo.ca
+gravatar: 60858f54a1837905ec9f2913f73d2e9e
+message: "<p>I've copied your code and pasted on my code behind of a user control. And then I ran the debug mode and found: Render() was called and CompliantHtmlTextWriter() was instantiated, but AddAttribute() was never called.<br>Eventually I still got: &lt;input language=\"javascript\"... on my site <a href=\"http://www.realtorstown.com/\" rel=\"nofollow noopener\" title=\"http://www.realtorstown.com/\">http://www.realtorstown.com/</a><br></p>"

@@ -1,0 +1,6 @@
+id: dsq-1441705063
+date: 2014-06-18T08:56:08.0000000-07:00
+author: Amused Norn
+email: hellsop@gmail.com
+gravatar: 98925cfc0dbdbce50e882c926cd84cc2
+message: <p>How do screen-readers distinguish between form fields that are for names and form fields that are for email addresses? They read the labels on the inputs. The same mechanism works for sorting out between "I am a spammer" checkboxes and "ain't a spammer" checkboxes.</p>

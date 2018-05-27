@@ -1,0 +1,6 @@
+id: dsq-747520362
+date: 2007-07-26T21:23:43.0000000-07:00
+author: Tom
+email: flstandard@hotmail.com
+gravatar: c28d1cee8d3b0cc863e0c0c90422156c
+message: <p>"Cannot Read Configuration FILE"<br>That's what the application log shows for me.  I haven't gotten a simple page to show on Vista with IIS7 yet either.  Definately frustrating.  <br>Why can't it read the config file?  Seems like a security setting someplace.  <br>Any Ideas?</p>

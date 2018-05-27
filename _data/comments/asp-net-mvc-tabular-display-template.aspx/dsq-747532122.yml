@@ -1,0 +1,6 @@
+id: dsq-747532122
+date: 2010-05-06T01:00:48.0000000-07:00
+author: Erik
+email: erik@wordpress.disqus.net
+gravatar: 1fa77b889cc15b22ed8d22912aafa78c
+message: <p>Phil,<br>   This is still losing some Matadata.  If you change you Display Line to  &lt;%= Html.DisplayFor(m =&gt; propertyMetadata.Model, propertyMetadata.TemplateHint) %&gt;, It will it least carry along any  Template hint applied to the Model.<br>Erik</p>

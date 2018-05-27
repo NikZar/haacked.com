@@ -1,0 +1,6 @@
+id: dsq-747510282
+date: 2011-10-09T20:40:10.0000000-07:00
+author: Norman
+email: nd.valencia@hotmail.com
+gravatar: e732ecb77f0a3eb501152922017e2a97
+message: <p>New adjustment, for first attr with ":" (xmlns:html=".....")<br>&lt;/?\w+((\s+[\w-:]+(\s*=\s*(?:".*?"|'.*?'|[^'"&gt;\s]+))?)+\s*|\s*)/?&gt;<br>In java (only open tags):<br>String pattern = "&lt;(\\w+)((\\s+[\\w-:]+(\\s*=\\s*(?:\".*?\"|'.*?'|[^'\"&gt;\\s]+))?)+\\s*|\\s*)/?&gt;";<br>In java (all tags):<br>String pattern = "&lt;/?(\\w+)((\\s+[\\w-:]+(\\s*=\\s*(?:\".*?\"|'.*?'|[^'\"&gt;\\s]+))?)+\\s*|\\s*)/?&gt;";<br></p>

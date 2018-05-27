@@ -1,0 +1,6 @@
+id: dsq-747532204
+date: 2010-05-16T08:26:20.0000000-07:00
+author: Chris Cavanagh
+email: cjcavanagh@benefittech.com
+gravatar: 1c0416d2076ff909a630465de530c212
+message: <p>Phil - Any issues with implementing the PreApplicationStartMethod directly in the web app that uses it? (rather than a separate assembly).  I'm already doing this successfully, but could separate it if necessary (weird side effects etc).  Thanks!</p>

@@ -1,0 +1,6 @@
+id: dsq-747537224
+date: 2011-12-19T23:18:16.0000000-08:00
+author: Perry
+email: pltaylor3@gmail.com
+gravatar: 9913e76cb1c3fe232da0f33f280652a4
+message: "<p>This continues to be really odd.  Here is what I typed and responses<br>&gt;ssh-agent ssh-add C:\\ptaylor\\.ssh\\id_rsa<br>Enter passphrase for C:\\users\\ptaylor\\.ssh\\id_rsa:  (typed pass)<br>Identity Added: C:\\Users\\ptaylor\\.ssh\\id_rsa<br>&gt; git pull<br>Enter passphrase for key '/c/Users/ptaylor/.ssh/id_rsa':  Shouldn't it have remembered it now?</p>"

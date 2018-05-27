@@ -1,0 +1,6 @@
+id: dsq-747528074
+date: 2009-02-16T20:40:36.0000000-08:00
+author: Matt Ellis
+email: m.t.ellis@bigfoot.com
+gravatar: 03c20e3a8b40306df80fda7ba6f983bd
+message: <p>var results = from slug in GetAllSlugs(originalSlug)<br>    where Repository.GetEntry(slug) == null<br>    select slug;<br>return results.FirstOrDefault();<br>Even easier, and very easy to read.</p>

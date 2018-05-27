@@ -1,0 +1,6 @@
+id: dsq-747534789
+date: 2011-04-08T08:07:22.0000000-07:00
+author: Rocky Lhotka
+email: rocky@lhotka.net
+gravatar: 80d61a979d1a75716fa4555ed9cd5c09
+message: <p>One thing about "versions" are platforms.<br>I tend to have solutions with .NET, SL, and WP7 projects - so while I might use the same "version" of a package - the actual DLLs are often targeted at these different platforms.<br>I still do want the versions kept in sync - but the .NET project gets the .NET version, the SL project gets the SL version, etc.</p>

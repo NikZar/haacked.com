@@ -1,0 +1,6 @@
+id: dsq-747523580
+date: 2007-12-07T12:23:19.0000000-08:00
+author: Fredrik Norm&#233;n
+email: fredrik_norm233n@wordpress.disqus.net
+gravatar: e305098c4137ec60a003c2cc925a4a38
+message: <p>Your blog post is so much nicer than mine ;)<br>Something that I don’t like is that the ControllerFactory will get the Type of the Controller. You need here as with Spring.Net use the Type.Name to get the name and let another framework once again locate the type and then create an instance of the controller. I think it’s the ControllerFactory’s responsibility to locate the Controller and that you should make sure to pass the name of the controller as the argument to the factory, not the type.<br></p>

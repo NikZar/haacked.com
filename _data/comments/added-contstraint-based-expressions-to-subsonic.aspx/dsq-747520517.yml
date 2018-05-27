@@ -1,0 +1,6 @@
+id: dsq-747520517
+date: 2007-05-22T14:27:03.0000000-07:00
+author: Damien Guard
+email: damien@envytech.co.uk
+gravatar: dc72963e7279d34c85ed4c0b731ce5a9
+message: <p>I'd love to see:<br>List&lt;Product&gt; products = <br>northwind.Products.Select.Where.ProductID.In(1,10);<br>Have to agree with Ian that WHERE violates .NET naming guidelines.<br>[)amien</p>

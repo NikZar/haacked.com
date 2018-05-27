@@ -1,0 +1,6 @@
+id: dsq-747527660
+date: 2009-01-06T12:55:08.0000000-08:00
+author: Aleš Roub&#237;ček
+email: ales@roubicek.name
+gravatar: 428a9c6e5b151e618d4db288105bc5f3
+message: <p>IMO better solution is using <code>Accept-Type</code> header in you request to specify result format. :) It's less tricky and more HTTP way...</p>

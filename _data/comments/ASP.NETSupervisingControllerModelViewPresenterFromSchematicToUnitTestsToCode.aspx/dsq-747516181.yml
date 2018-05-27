@@ -1,0 +1,6 @@
+id: dsq-747516181
+date: 2006-12-08T07:46:58.0000000-08:00
+author: Nandu
+email: nandu.majeti@gmail.com
+gravatar: 352dfe87b106f1b758b7c5d361cea505
+message: <p>Why do we pass the service instance from view to the presenter? Why can't we create the service instance in the presenter itself? Is there any advantage in doing the way you did? Thanks for posting such good article.<br>If i can request, can you post some article on using RhinoMocks - especially interacting with database?<br>Thanks again</p>

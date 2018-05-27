@@ -1,0 +1,6 @@
+id: dsq-952766855
+date: 2013-07-05T05:55:33.0000000-07:00
+author: Romi Sharma
+email: gssharma16@gmail.com
+gravatar: 7e9dc6033f4dee9b7b49c1102ba48867
+message: <p>Best way is to put</p><p>document.getElementById('print_button_id').style.visibility = 'hidden'</p><p>before print event</p>

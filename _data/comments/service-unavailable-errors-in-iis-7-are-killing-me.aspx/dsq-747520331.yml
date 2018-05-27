@@ -1,0 +1,6 @@
+id: dsq-747520331
+date: 2007-05-19T05:21:43.0000000-07:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: "<p>@Mike - Rapid Fail Protection would cause the appPools to stop, right?<br>The appPools aren't stopped. I just checked again and they are still started. Again, I ran the command in step #2 above.</p>"

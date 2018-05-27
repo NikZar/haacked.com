@@ -1,0 +1,6 @@
+id: dsq-747532556
+date: 2010-06-16T17:21:14.0000000-07:00
+author: George Chakhidze
+email: 0xfeeddeadbeef@gmail.com
+gravatar: df5dbc08518bb1eeb0921b8d66390311
+message: '<p>as extension method:<br><code><br>public static T Coalesce&lt;T&gt;(this IEnumerable&lt;T&gt; items) where T : class<br>{<br>    return items != null ? items.FirstOrDefault(item =&gt; item != null) : null;<br>}<br>public static Nullable&lt;T&gt; Coalesce&lt;T&gt;(this IEnumerable&lt;Nullable&lt;T&gt;&gt; items) where T : struct<br>{<br>    return items != null ? items.FirstOrDefault(item =&gt; item.HasValue) : null;<br>}<br></code></p>'

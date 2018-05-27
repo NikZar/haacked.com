@@ -1,0 +1,6 @@
+id: dsq-747537209
+date: 2011-12-19T17:13:51.0000000-08:00
+author: Barry
+email: barry@lapthorn.net
+gravatar: a0b195cde7241849434e9eac16b280a6
+message: <p><code>$env:path += ";" + (Get-Item "Env:ProgramFiles(x86)").Value + "\Git\bin"</code><br>is a bit more portable, I think.<br></p>

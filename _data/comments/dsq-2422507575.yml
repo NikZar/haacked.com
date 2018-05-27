@@ -1,0 +1,6 @@
+id: dsq-2422507575
+date: 2015-12-22T18:54:37.0000000-08:00
+author: Andy c
+email: andycunn@gmail.com
+gravatar: 6bb338d521fb96073a990cc1dc6cba94
+message: <p>keywords only means no "using System;" needed just to use string, int, etc.</p><p>one less line of code = winning.</p>

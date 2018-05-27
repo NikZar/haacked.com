@@ -1,0 +1,6 @@
+id: dsq-747532024
+date: 2011-01-18T05:19:08.0000000-08:00
+author: W3Max
+email: maximefs@hotmail.com
+gravatar: 444e7ca2adc7a6e2d560400872c5b7c2
+message: "<p>The feature is great but I think there is some bugs.<br>I didn't try dates but arrays are always null.<br>Example: {Id:1,Children:[1,2,3]}<br>Anyone having the same problem?</p>"

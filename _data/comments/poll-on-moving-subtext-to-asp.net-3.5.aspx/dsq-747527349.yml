@@ -1,0 +1,6 @@
+id: dsq-747527349
+date: 2008-11-27T14:43:05.0000000-08:00
+author: Andrei Rînea
+email: andrei@rinea.ro
+gravatar: 0ac4c1b48a4caea51e1f3fd577e582c7
+message: <p>My hoster has IIS7 with ASP.NET 3.5SP1 and I've deployed succesfully even MVC apps (placing the three assemblies - Abstractions, Routing and Mvc - in the bin folder).</p>

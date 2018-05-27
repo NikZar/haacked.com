@@ -1,0 +1,6 @@
+id: dsq-2110643571
+date: 2015-07-01T08:44:41.0000000-07:00
+author: greatgooglymoogly
+email: greatgooglymoogly@gmail.com
+gravatar: a33af3f5f7508dddea70c6d156fdf366
+message: <p>Hmm, in the first case I always did</p><p>git checkout -b new-branch<br>git checkout master<br>git reset --hard HEAD~&lt;number of="" commits="" i="" mistakenly="" added="" to="" master=""&gt;</p><p>Is that dangerous?</p>

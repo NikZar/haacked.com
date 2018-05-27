@@ -1,0 +1,6 @@
+id: dsq-747510158
+date: 2005-04-22T00:37:00.0000000-07:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>Are commas allowed within the attributes of a tag?  For example:<br><br><br><br>&lt;p title="This has a comma, right here."&gt;<br><br><br><br>Should the regex strip that comma as well?  If so it's much easier than if not.<br><br><br><br>Phil</p>

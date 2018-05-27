@@ -1,0 +1,6 @@
+id: dsq-747537120
+date: 2011-12-11T03:00:48.0000000-08:00
+author: Henry Cordes
+email: info@henrycordes.nl
+gravatar: 126a776d728ab2516fc2bf106d8b5d41
+message: '<p>@saeed: I am working on a product that uses a lot of javascript. We write just as much c# unit test as we do javascript unit tests. We do tdd for both.<br>I am surprised at the lack of jsunittesting done by ms devs.<br>We use mvc nunit and qunit.<br>It works for us!</p>'

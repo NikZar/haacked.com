@@ -1,0 +1,6 @@
+id: dsq-747523365
+date: 2007-11-14T07:16:03.0000000-08:00
+author: Oran
+email: odennison@gmail.com
+gravatar: 9a7b376b39e08e464d13cb9bf9f939b0
+message: <p>Windows Communication Foundation uses this design style all over the place, and I'm guessing they chose it primarily to manage complexity, not because they were TDD-driven (TDDD??).  There is pretty much an interface or mockable class for everything, and even though they don't use a generic dependency injection framework to wire up instances that implement the interfaces, they accomplish pretty much the same thing through their own config system, similar to most DI frameworks.</p>

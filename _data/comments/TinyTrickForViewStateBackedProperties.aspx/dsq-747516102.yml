@@ -1,0 +1,6 @@
+id: dsq-747516102
+date: 2006-08-18T05:45:39.0000000-07:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Nothing is wrong with that. But in my case, I didn't want to use a Nullable Boolean.<br>If you really want a try-state boolean, then there's no point in even using the null coalescing operator.  <br>Otherwise, if you really only want true or false, then you're using a nullable type just to save having to type another pair of parenthesis.  Why?</p>

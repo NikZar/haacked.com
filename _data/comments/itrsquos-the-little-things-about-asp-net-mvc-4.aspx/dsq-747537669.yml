@@ -1,0 +1,6 @@
+id: dsq-747537669
+date: 2012-03-11T20:14:22.0000000-07:00
+author: Khalid Abuhakmeh
+email: khalid@aquabirdconsulting.com
+gravatar: b9404ed5f4fd1ddc5a75af71c2803b85
+message: <p>Why was the decision to make two identical interfaces in two separate assemblies? Is it because the WebAPI was supposed to be hostable from anywhere and the team didn't want references to System.Web.Mvc in a none MVC project?</p>

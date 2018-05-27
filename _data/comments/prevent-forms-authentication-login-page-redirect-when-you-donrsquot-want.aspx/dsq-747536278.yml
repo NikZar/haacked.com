@@ -1,0 +1,6 @@
+id: dsq-747536278
+date: 2012-03-24T18:57:32.0000000-07:00
+author: Preetham Reddy
+email: reddy.preetham@gmail.com
+gravatar: 0ca66cd56afd36e054006f8165dcb64e
+message: <p>Does it work on Azure? What happens if the request gets redirected to another server? Doesn't it make more sense to store that info in an External (Out of Proc) Session State?</p>

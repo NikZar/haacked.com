@@ -1,0 +1,6 @@
+id: dsq-747517231
+date: 2007-09-19T19:55:09.0000000-07:00
+author: Ola Lindberg
+email: public@olalindberg.com
+gravatar: 6d6452e0f2f3a2054366c687bd23e176
+message: <p>I have a problem where the website I'm running the web application on is behind some kind of load balancer. The result is that I get the external IP address for the load balancer instead of the client when using the methods described here.<br>I have yet no solution for this. All ideas are welcome!</p>

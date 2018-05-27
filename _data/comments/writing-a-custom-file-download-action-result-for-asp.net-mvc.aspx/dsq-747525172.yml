@@ -1,0 +1,6 @@
+id: dsq-747525172
+date: 2011-08-29T22:11:07.0000000-07:00
+author: David
+email: david@wordpress.disqus.net
+gravatar: 046b794eed444237cdeba60137d68461
+message: <p>Now it's integrated in <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> MVC.<br>Just use :<br>return File(FileStreamOrPath, ContentType, fileDownloadName);</p>

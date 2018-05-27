@@ -1,0 +1,6 @@
+id: dsq-747524950
+date: 2008-04-24T08:47:40.0000000-07:00
+author: DM
+email: d.mcnamara.public@gmail.com
+gravatar: 048e7363f8d711b818dc82ed37f2baf9
+message: <p>Ummm... To be honest, I don't fully understand this problem, so I may be way off here...<br>Doesn't this seem like a security problem waiting to happen? You really want to make public methods on the controller class callable by default? Through the web?</p>

@@ -1,0 +1,6 @@
+id: dsq-747529048
+date: 2009-05-12T20:09:00.0000000-07:00
+author: Jim Geurts
+email: jim_geurts@wordpress.disqus.net
+gravatar: 6baa482f717de82bbfe56c7177bafb5c
+message: <p>Phil, How are you passing the view data to the &lt;mvc:Partial runat="server" /&gt; control when there is no code behind for the view?</p>

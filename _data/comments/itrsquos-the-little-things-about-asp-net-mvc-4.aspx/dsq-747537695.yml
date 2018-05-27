@@ -1,0 +1,6 @@
+id: dsq-747537695
+date: 2012-03-22T13:29:52.0000000-07:00
+author: Tien Do
+email: tiendq@gmail.com
+gravatar: 5e397ec6e8d5b767d19ac4ebc99b5145
+message: <p>It didn't work until I found out that I needed one more line of code to register all Web API controllers, like this one:<br>container.Register(AllTypes.FromThisAssembly().BasedOn&lt;IHttpController&gt;().LifestyleTransient());<br>Thanks,</p>

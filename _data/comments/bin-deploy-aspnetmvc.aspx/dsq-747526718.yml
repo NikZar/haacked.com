@@ -1,0 +1,6 @@
+id: dsq-747526718
+date: 2009-04-05T09:21:41.0000000-07:00
+author: Clearly
+email: clearlydotnet@gmail.com
+gravatar: 28954c86b7085b7c6ae18c548c667fff
+message: <p>How do you perform the "Publish" from the command line so it can be built into continuous integration systems? aspnet_compiler doesn't seem to work anymore. Seriously, no one (or at least a million searches through Google) seems to know if or how this is possible.</p>

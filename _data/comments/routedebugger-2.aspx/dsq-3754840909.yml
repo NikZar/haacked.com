@@ -1,0 +1,6 @@
+id: dsq-3754840909
+date: 2018-02-12T10:46:26.0000000-08:00
+author: larrybud
+email: larrybud2004@yahoo.com
+gravatar: 6c8fa5050137da5fafd45f4089616700
+message: <p>This is an old utility, but a good one.  One thing I ran across was the routeDebugger info just disappeared... well, turns out you need to have CustomErrors OFF when trying to find your bad route, otherwise my custom error page just displays.</p>

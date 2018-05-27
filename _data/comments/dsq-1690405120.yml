@@ -1,0 +1,6 @@
+id: dsq-1690405120
+date: 2014-11-12T15:14:40.0000000-08:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Ooh, not a bad idea. I have yet to write a diagnostic. This might be a good one to get my hands dirty with.</p><p>Thanks for the tip about searching `AsyncStateMachineAttribute` by name. Am I correct to assume that only applies to .NET 4.0 and before when using the Microsoft.Bcl.* packages?</p>

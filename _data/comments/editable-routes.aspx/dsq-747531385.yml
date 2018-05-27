@@ -1,0 +1,6 @@
+id: dsq-747531385
+date: 2010-01-17T11:53:01.0000000-08:00
+author: Anthony Bouch
+email: tony@58bits.com
+gravatar: 4f62aa18f10e160302e7f8be6f49219d
+message: <p>Cool, but why would you take this approach over attempting to use an XML file that can be used to create routes declaratively and then making this part of the bootstrap process for the app? More work I guess?</p>

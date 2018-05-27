@@ -1,0 +1,6 @@
+id: dsq-747523104
+date: 2007-10-17T20:42:39.0000000-07:00
+author: Bargearse
+email: bargearse@police.gov.au
+gravatar: 9918673add9156d9c7e369cb0a51468c
+message: <p><a href="http://www.haacked.com" rel="nofollow noopener" title="www.haacked.com">www.haacked.com</a> doesn't work (throws an Invalid Hostname error). You (or the server monkey) need to add it to the virtual hosts thingo.</p>

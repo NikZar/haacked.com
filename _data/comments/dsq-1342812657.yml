@@ -1,0 +1,6 @@
+id: dsq-1342812657
+date: 2014-04-17T07:10:28.0000000-07:00
+author: martijnhoekstra
+email: martijnhoekstra@gmail.com
+gravatar: 64cb01262bf686f65805e70fd99c5b1a
+message: <p>Does your team branch a lot? I personally find it terribly cumbersome to cut to and switch between feature branches in TFS. With Git, I generally create, merge and delete one or two branches a day. With TFS that's pretty painful and slow.</p>

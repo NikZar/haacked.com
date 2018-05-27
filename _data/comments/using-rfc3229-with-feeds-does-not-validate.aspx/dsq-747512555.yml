@@ -1,0 +1,6 @@
+id: dsq-747512555
+date: 2005-06-30T00:45:00.0000000-07:00
+author: Bob Wyman
+email: bob_wyman@wordpress.disqus.net
+gravatar: 9b91b4c287ebac1f3fcf167c68130592
+message: <p>You should only be returning a response of 226 if the client has requested delta encoding. If the client does NOT request delta encoding, you should not do delta encoding and should return an error code of 200. In this case, it appears that the FeedValidator is doing the right thing. You appear to be returning 226 in a context in which it should not appear.<br><br><br><br>bob wyman</p>

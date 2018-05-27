@@ -1,0 +1,6 @@
+id: dsq-2236447273
+date: 2015-09-04T12:20:20.0000000-07:00
+author: Daniel Faure
+email: faure_daniel@yahoo.com.ar
+gravatar: 4d358626973fbcecaaf026424cbeaa28
+message: <p>Very useful!</p><p>I need to consider rgba on regex, and some spaces after the comma, so I used</p><p>var digits = /(.*?)rgba?\((\d+),\s?(\d+),\s?(\d+),\s?(\d+)\)/.exec(color);</p>

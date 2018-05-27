@@ -1,0 +1,6 @@
+id: dsq-747516935
+date: 2010-03-03T03:25:37.0000000-08:00
+author: Concerned User
+email: concerned_user@wordpress.disqus.net
+gravatar: 6a2471c89e43f32e2e897012bf833eba
+message: <p>Hey,<br>This will not protect you if the attacker targets your particular page. The attacker will discover the javascript and be able to launch an automated attack targeted to the page running this code by parsing a the numbers from your "Please add 6 and 2."<br>The reason this is successful is because your pages are of lower value compared to signing up for a gmail or hotmail account.<br>Cheers</p>

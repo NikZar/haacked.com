@@ -1,0 +1,6 @@
+id: dsq-1187142719
+date: 2014-01-04T15:26:23.0000000-08:00
+author: Joshua Smeaton
+email: josh.smeaton@gmail.com
+gravatar: 3891f38e5165127cac92a4e9e4aba688
+message: <p>Done. The indentation was correct, I just failed to realise that each try block was supposed to be nested. So I just made the few changes required to be actual python.</p>

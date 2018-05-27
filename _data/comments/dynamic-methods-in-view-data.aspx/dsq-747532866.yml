@@ -1,0 +1,6 @@
+id: dsq-747532866
+date: 2010-08-02T06:32:24.0000000-07:00
+author: Luke Sampson
+email: luke@visualeyes.net.au
+gravatar: c4fbe3ee568267005ed49f7b6d226967
+message: <p>How about "Bag" or maybe "ViewBag" for the name of the view model? I don't know if it fits with the strict definition of a bag/<a href="http://en.wikipedia.org/wiki/Multiset" rel="nofollow noopener" title="http://en.wikipedia.org/wiki/Multiset">multiset</a>, but I like the idea of putting stuff in a bag - it fits with the dynamic nature of this object, because you can throw anything in the bag.<br>And Web Forms stores view state in a <a href="http://msdn.microsoft.com/en-us/library/system.web.ui.statebag.aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/system.web.ui.statebag.aspx">StateBag</a> object... so it's a continuation of a theme, sort of.</p>

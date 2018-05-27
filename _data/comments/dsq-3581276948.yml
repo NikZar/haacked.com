@@ -1,0 +1,6 @@
+id: dsq-3581276948
+date: 2017-10-23T13:57:09.0000000-07:00
+author: Jean-Jacques Lafay
+email: jeanjacques.lafay@gmail.com
+gravatar: 1753923a152720f72078eab529929d11
+message: <p>Nice, but note that usually the number of leading 0s is meant when written in binary. For bitcoins, requiring one more 0 only doubles the average mining time, multiplying by 16 would make it hard to keep it "around 10 minutes" !</p>

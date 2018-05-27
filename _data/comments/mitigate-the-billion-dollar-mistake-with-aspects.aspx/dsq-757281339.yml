@@ -1,0 +1,6 @@
+id: dsq-757281339
+date: 2013-01-05T16:35:57.0000000-08:00
+author: Frank Quednau
+email: fquednau@gmail.com
+gravatar: 2dfe31131d62b675b10d7b02284d5303
+message: <p>We have opted for a Maybe struct and numerous extension methods to handle maybes. That wy, a null reference becomes something explicit. Projections and operations can be chained to be executed only if the underlying Maybe actually contains a value...</p>

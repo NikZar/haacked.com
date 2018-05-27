@@ -1,0 +1,6 @@
+id: dsq-747526183
+date: 2008-08-25T03:50:37.0000000-07:00
+author: tgmdbm
+email: james.mdb@gmail.com
+gravatar: 941b5f10fdfcc7f251a3da321a8d5614
+message: <p>@David have you had a look at the NUnit SyntaxHelpers namespace?<br>Assert.That(x, Is.EqualTo(y))<br>You can't get more human readable?</p>

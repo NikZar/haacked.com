@@ -1,0 +1,6 @@
+id: dsq-747534521
+date: 2011-03-07T16:10:54.0000000-08:00
+author: Berlin dong
+email: dongberlin@163.com
+gravatar: 2e6da0a11fce4c044a369c9814f7cdb1
+message: <p>CustomWebViewPage&lt;TModel&gt; should derive from WebViewPage&lt;TModel&gt;, not WebViewPage.</p>

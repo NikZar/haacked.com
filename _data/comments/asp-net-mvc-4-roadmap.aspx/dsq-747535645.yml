@@ -1,0 +1,6 @@
+id: dsq-747535645
+date: 2011-07-19T12:33:05.0000000-07:00
+author: Stephajn
+email: stephajn@gmail.com
+gravatar: f9156a7112d427e6da453cec417bdca7
+message: <p>I'd really like to see the Html.ActionLink helper that requires you to pass null as the last argument get refactored to have an overload that DOESN'T require that null paramter at the end. Seems to me that it's bad design to have an overload for this method that many developers will through null at for the htmlAttributes when they don't need it.</p>

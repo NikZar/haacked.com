@@ -1,0 +1,6 @@
+id: dsq-747507668
+date: 2009-12-20T14:25:20.0000000-08:00
+author: Digin
+email: digin@wordpress.disqus.net
+gravatar: d99f281bd0014875f151fc9497eef029
+message: <p>SET @temp =99;<br>UPDATE table SET id = @temp := ( @temp +1 ); <br></p>

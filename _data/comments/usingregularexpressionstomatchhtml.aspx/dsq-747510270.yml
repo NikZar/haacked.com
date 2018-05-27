@@ -1,0 +1,6 @@
+id: dsq-747510270
+date: 2010-09-05T21:58:38.0000000-07:00
+author: Martin Radev
+email: albatrosvarna@gmail.com
+gravatar: 8d4205919c67a467de6e2b6d7c6d6a34
+message: <p>Here are some regular expression from me:<br>[code]<br>/&lt; *img[^&gt;]* src *= *["\']?([^"\']*)/is - img tag<br>/\&lt; *meta[^&gt;]*charset *= *["\']?([^"\']*)/i - encdoing<br>/\&lt;meta name="description" content *= *["\']?([^"\']*)/i - description<br>/&lt;title&gt; *(.*) *&lt;\/title&gt;/is - title<br>[/code]<br>If you see something wrong you could comment it here :) 10x</p>

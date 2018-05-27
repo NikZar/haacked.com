@@ -1,0 +1,6 @@
+id: dsq-747534541
+date: 2012-01-24T18:47:15.0000000-08:00
+author: Matthew Marksbury
+email: mmarksbury@gmail.com
+gravatar: ffc6eca3b241373c291d3d51e0cc0a96
+message: <p>This article helped me a lot, thanks.  There is one problem with the code sample, however, and that is the base class on CustomWebViewPage&lt;TModel&gt;.  It is shown as CustomWebViewPage, which compiles, but throws a runtime error when you load a model bound page.  The only solution to this, that I could find was having multiple CustomWebView pages that derive from WebViewPage and WebViewPage&lt;T&gt;.</p>

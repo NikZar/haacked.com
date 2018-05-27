@@ -1,0 +1,6 @@
+id: dsq-747537159
+date: 2011-12-13T02:21:29.0000000-08:00
+author: Dan Press
+email: danpress@mailinator.com
+gravatar: 395662a78ec1ae130c436578074efb62
+message: <p>How do you install Git on Windows in the first place?  The last time I did (it has been a year or more), I think I tried "msysgit" and had nothing but problems (like, it changed my system fonts and never worked properly).  <br>I have used Mercurial ever since, but would like to try Git. Is there a better way to install it without screwing up Windows?</p>

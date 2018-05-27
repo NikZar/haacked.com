@@ -1,0 +1,6 @@
+id: dsq-747533537
+date: 2010-11-18T21:07:12.0000000-08:00
+author: Berta
+email: nntom58@gmail.com
+gravatar: e2911e3fe583d982833b685b07495074
+message: <p>Attempt by method 'Microsoft.Web.Helpers.ReCaptcha.GetHtmlWithOptions(System.String, System.Object)' to access method 'System.Web.WebPages.WebPageContext.get_HttpContext()' failed.<br>Help!</p>

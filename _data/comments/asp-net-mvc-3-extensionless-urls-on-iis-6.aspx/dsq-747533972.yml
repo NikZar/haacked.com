@@ -1,0 +1,6 @@
+id: dsq-747533972
+date: 2012-01-17T12:25:04.0000000-08:00
+author: Craig Howard
+email: craigmhoward@gmail.com
+gravatar: 3fd797d7b7820f68fec540e36e3127f4
+message: <p>I had the same issue on IIS 7.5 and the fix was to set the App Pool to Integrated (instead of Classic)</p>

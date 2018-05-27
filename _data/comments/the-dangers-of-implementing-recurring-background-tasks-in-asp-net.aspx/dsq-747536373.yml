@@ -1,0 +1,6 @@
+id: dsq-747536373
+date: 2011-10-17T18:26:18.0000000-07:00
+author: Matthew Wills
+email: mjwills@live.com.au
+gravatar: b4335b63c09c8fe59fe3201ed7468f92
+message: <p>Would it be reasonable to assume that this problem could also impact cache usage with CacheItemUpdateCallback ( <a href="http://msdn.microsoft.com/en-us/library/system.web.caching.cacheitemupdatecallback.aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/system.web.caching.cacheitemupdatecallback.aspx">msdn.microsoft.com/...</a>)? I would presume that the cache refresh is being done on a background thread...</p>

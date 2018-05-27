@@ -1,0 +1,6 @@
+id: dsq-747520309
+date: 2007-05-18T15:47:31.0000000-07:00
+author: Damien Guard
+email: damien@envytech.co.uk
+gravatar: dc72963e7279d34c85ed4c0b731ce5a9
+message: <p>Try using "telnet localhost 80"  followed by "GET /" hitting return and seeing what comes back.<br>[)amien</p>

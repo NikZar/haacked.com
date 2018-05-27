@@ -1,0 +1,6 @@
+id: dsq-747524146
+date: 2008-02-11T21:59:42.0000000-08:00
+author: Chris Ortman
+email: chrisortman@gmail.com
+gravatar: d57d8b027fe943f061b6187d870443a7
+message: <p>I think you will also need to be using an IIS wildcard mapping or make sure that whatever extension your views use is mapped to the ASP.Net ISAPI dll.</p>

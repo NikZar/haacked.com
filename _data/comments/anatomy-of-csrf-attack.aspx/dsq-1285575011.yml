@@ -1,0 +1,6 @@
+id: dsq-1285575011
+date: 2014-03-15T02:10:05.0000000-07:00
+author: Sudharsan
+email: osudharsan@gmail.com
+gravatar: 20b526bf3ac813b44affce4a7f7a3e87
+message: <p>I am getting error in this line " Account account = _context.Accounts.First(a =&gt; a.Username == username); "  The error is:InvalidOperationException was unhandled by use code. Could you please let me know how to rectify it.</p>

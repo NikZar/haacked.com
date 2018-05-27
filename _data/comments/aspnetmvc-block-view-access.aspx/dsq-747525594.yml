@@ -1,0 +1,6 @@
+id: dsq-747525594
+date: 2008-06-25T02:49:17.0000000-07:00
+author: Wyatt Barnett
+email: wyatt.barnett@gmail.com
+gravatar: 0dd7d17a52e2ae3784518ed795b73526
+message: <p>I'm squarely in the "static content belongs on a different domain, in a separate app and arguably on a different box" school of thought. So I wholeheartedly support limiting the /views folder to actual renderable views and pushing the content elsewhere.</p>

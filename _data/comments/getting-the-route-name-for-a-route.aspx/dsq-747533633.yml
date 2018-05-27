@@ -1,0 +1,6 @@
+id: dsq-747533633
+date: 2010-12-01T01:17:21.0000000-08:00
+author: Brian
+email: elephantium+haacked@gmail.com
+gravatar: 6e3cc32ce6406749fea586f83c4812f7
+message: <p>This code doesn't need to repeat anything:<br>routes.MapRoute("rName", "{controller}/{action}").SetRouteName("rName");<br><br>Behold!<br>var routeName = "rName";<br>routes.MapRoute(routeName, "{controller}/{action}").SetRouteName(routeName);<br>... Of course, this may still not sit well with you; even with the string literal pulled out into one place, you do still have to repeat the routeName variable (still a little clunky).</p>

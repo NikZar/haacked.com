@@ -1,0 +1,6 @@
+id: dsq-747535568
+date: 2011-07-13T05:42:31.0000000-07:00
+author: Andrew
+email: dracoon2004@hotmail.com
+gravatar: 13125791392415afefbfb8b6df08b212
+message: <p>Hmm...<br>u know, partial stuff ?<br>partial view = .cshtml + .js + .css<br>view = partial view + partial view + so on...<br>if possible, is the .js and .css is combined, minified, obfuscated automatically and separated from its .cshtml (if any)</p>

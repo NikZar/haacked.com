@@ -1,0 +1,6 @@
+id: dsq-1923242779
+date: 2015-03-23T06:42:32.0000000-07:00
+author: gwillem
+email: gwillem@gmail.com
+gravatar: 530ae1c9c10a91365005cac493ee137f
+message: <p>po = !git push -u origin $(git describe --contains --all HEAD)</p>

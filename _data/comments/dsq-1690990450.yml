@@ -1,0 +1,6 @@
+id: dsq-1690990450
+date: 2014-11-13T02:36:22.0000000-08:00
+author: Robert Iagar
+email: robert.iagar@gmail.com
+gravatar: 55518c2ee5942cde10b09a8fc6cdbf4f
+message: <p>so when using MVVM light and I have commands that call Async methods I pass them into the RelayCommand constructor like:</p><p>this.Command = new RelayCommand(async () =&gt; this.SomeFooAsync());</p><p>that's async void right?</p><p>Any ways to fix this?</p>

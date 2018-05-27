@@ -1,0 +1,6 @@
+id: dsq-747513236
+date: 2005-10-20T19:10:00.0000000-07:00
+author: Marty Thompson
+email: marty_thompson@wordpress.disqus.net
+gravatar: cf254472f046ae3c893078ec5b66b60a
+message: <p>Keyvan:<br><br>In an inductive proof, you prove the next possible case for the assumption being proven.  Since x+1 would not be an odd integer, it does not fall into the case he was trying to prove.  x+2 is the next possible value for the hypothesis.</p>

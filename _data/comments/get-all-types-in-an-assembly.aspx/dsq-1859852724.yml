@@ -1,0 +1,6 @@
+id: dsq-1859852724
+date: 2015-02-17T06:28:59.0000000-08:00
+author: Phrasenschwein
+email: tim.schmelter@gmail.com
+gravatar: 707b8797715b75a6721e0f79eda83412
+message: '<p>FYI; if you want to get the current assembly to test above code use: Assembly.GetExecutingAssembly()</p>'

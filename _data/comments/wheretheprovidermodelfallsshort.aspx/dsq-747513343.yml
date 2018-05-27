@@ -1,0 +1,6 @@
+id: dsq-747513343
+date: 2005-11-02T01:10:00.0000000-08:00
+author: chid
+email: chid@wordpress.disqus.net
+gravatar: cb0777c5eb157719f9e402043d9eb752
+message: <p>also, with dynamic SQL, you can set updates to only update the changed fields, especially good with tables with a fair amount of fields. <br><br><br><br></p>

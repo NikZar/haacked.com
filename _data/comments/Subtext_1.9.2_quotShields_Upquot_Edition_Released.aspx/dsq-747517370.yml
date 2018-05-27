@@ -1,0 +1,6 @@
+id: dsq-747517370
+date: 2006-10-25T19:56:38.0000000-07:00
+author: James Chen
+email: ashchan@gmail.com
+gravatar: 239a70da80d3959611470d87ca8f0755
+message: "<p>After upgrading, the homepage showed \"DataBinding: 'Subtext.Framework.Components.Entry' does not contain a property with the name 'TitleUrl'.\" Application Error, and the single entry page showed \"The MagicAjax HttpModule is not included in web.config. Add [] inside the  section.\" Application Error. Opps!</p>"

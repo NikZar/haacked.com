@@ -1,0 +1,6 @@
+id: dsq-747521183
+date: 2007-11-04T23:53:52.0000000-08:00
+author: Scott Taylor
+email: wonderboymusic@gmail.com
+gravatar: 112ca15732a80bb928c52caec9d2c8dd
+message: <p>Most of the generated code is awful. The &lt;div&gt; should actually be a &lt;fieldset&gt; wrapping the inside of the entire form. that would be semantically correct. They reason they use DIVs is to get the page to validate. That is a hacky approach. It doesn't need to be wrapped in any block level element. It needs to be wrapped with a fieldset tag. Fieldset tags can easily be styled, but they contain a border by default. that is probably why they weren't used.</p>

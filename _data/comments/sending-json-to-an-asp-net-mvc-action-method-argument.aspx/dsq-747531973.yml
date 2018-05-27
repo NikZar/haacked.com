@@ -1,0 +1,6 @@
+id: dsq-747531973
+date: 2010-04-15T19:23:48.0000000-07:00
+author: Adam
+email: adamschroder@gmail.com
+gravatar: a5d515200029ed84f272882c5c0d0a95
+message: <p>What is the advantage of doing this?<br>If you call $.ajax and pass a json object to the data parameter it will convert it to key/value pairs and the default model binder will take care of the binding. It seems that you are doing more worked than is needed.<br>Unless of course I'm missing something.<br></p>

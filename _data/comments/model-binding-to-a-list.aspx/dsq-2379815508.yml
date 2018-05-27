@@ -1,0 +1,6 @@
+id: dsq-2379815508
+date: 2015-11-26T06:37:31.0000000-08:00
+author: Carlos Pirela
+email: cepirelas@gmail.com
+gravatar: 6baad2193a97e6498eb192bfc19b736c
+message: <p>Great information, helped me solve an issue trying to post a model list with file input. Just had to add "multipart/form-data" to the &lt;form&gt; tag and HttpPostedFileBase file on the model class. Everything works!</p>

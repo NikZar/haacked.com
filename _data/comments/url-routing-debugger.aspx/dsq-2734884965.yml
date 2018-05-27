@@ -1,0 +1,6 @@
+id: dsq-2734884965
+date: 2016-06-16T14:33:21.0000000-07:00
+author: Ronda
+email: rondakay@yahoo.com
+gravatar: e1a4257e64ff2ceba65130a13f4b83a3
+message: <p>I have used this app in the past but installing in Nopcommerce i am having an issue it says that RouteDebugger is not part of the namespace</p><p>using RouteDebug;<br>Global.asax</p><p>This line throwing the error<br> RouteDebug.RouteDebugger.RewriteRoutesForTesting(RouteTable.Routes);</p>

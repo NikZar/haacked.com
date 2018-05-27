@@ -1,0 +1,6 @@
+id: dsq-747535897
+date: 2011-08-16T13:09:46.0000000-07:00
+author: Boris Yankov
+email: borisyankov@gmail.com
+gravatar: 6e226579f8163af9f5e73796abab0b79
+message: <p>You should have the second parameter as optional.<br>If no second parameter is passed, try the automatic pluralization.</p>

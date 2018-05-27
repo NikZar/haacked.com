@@ -1,0 +1,6 @@
+id: dsq-747527875
+date: 2009-01-30T04:12:29.0000000-08:00
+author: Kazi Manzur Rashid
+email: kazimanzurrashid@gmail.com
+gravatar: 48afc246be41f70d0594ed7eb640fd23
+message: <p>I think the whole issue is security not http get vs post or any client side scripting. No one should write any code against http Get that can modify data which makes the application vulnerable. Those who have played with early bits of ASP.NET Ajax(Atlas) or has pure (WebForm less) http progarmming already knows this issue.</p>

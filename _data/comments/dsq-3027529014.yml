@@ -1,0 +1,6 @@
+id: dsq-3027529014
+date: 2016-11-30T02:27:43.0000000-08:00
+author: Kristian Barrett
+email: kbarrett-86@hotmail.com
+gravatar: f1ad5d7ea5980d98ccf6d0a609f02857
+message: <p>You should do something like this instead:<br>            var myNamespace = "YOUR NAMESPACE HERE";<br>            var assemblies = GetType().Assembly.GetReferencedAssemblies()<br>                .Where(x =&gt; x.Name.Contains(myNamespace));<br>            foreach (var assemblyName in assemblies)<br>            {<br>                var assembly = Assembly.Load(assemblyName);<br>                AssertExtensions.AssertNoAsyncVoidMethods(assembly);<br>            }</p><p>And then reference all the projects you want to test from your unit test project.</p>

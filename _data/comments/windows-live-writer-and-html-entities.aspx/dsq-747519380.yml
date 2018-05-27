@@ -1,0 +1,6 @@
+id: dsq-747519380
+date: 2007-03-23T21:16:55.0000000-07:00
+author: Joe Cheng [MSFT]
+email: joecheng@microsoft.com
+gravatar: eba6d5afe2691f74415638c2c7f76a70
+message: <p>I'm not sure why we're doing this, I'll look into it. In the meantime, does this actually cause the quotes to look broken when rendered on your blog? If your blog uses UTF-8 then it seems like it should render fine.<br>If your complaint is that we're mucking with HTML you type into HTML Code view, I agree that we shouldn't be doing that.</p>

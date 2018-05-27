@@ -1,0 +1,6 @@
+id: dsq-747525723
+date: 2008-07-14T13:37:07.0000000-07:00
+author: Steve Sanderson
+email: steve@stevensanderson.com
+gravatar: 80fe55ce471b6f7e2c40225cf2c028d9
+message: <p>Minor (but consequential!) typo:<br>&gt; By default, ASP.NET Routing ignores requests for files <br>&gt; that do not exist on disk.<br>I think you mean it ignores requests for files that *do* appear on disk :)</p>

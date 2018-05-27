@@ -1,0 +1,6 @@
+id: dsq-1026240085
+date: 2013-09-02T04:33:01.0000000-07:00
+author: benny
+email: benny@gmail.com
+gravatar: 79ea793a37a148e58663552596be5627
+message: <p>get your ASP guy to add runat=server to the HEAD tag - viewstate gets dropped in there, not on the page</p>

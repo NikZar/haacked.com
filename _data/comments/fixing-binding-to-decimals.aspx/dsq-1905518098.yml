@@ -1,0 +1,6 @@
+id: dsq-1905518098
+date: 2015-03-13T10:04:17.0000000-07:00
+author: Peter Kula
+email: p.studioz@gmail.com
+gravatar: 2cc90cec13a0801926f6ea3396f22d17
+message: <p>Has your team decided on how to handle this. Currently, still today when I use EditorFor with the currency symbol in the text it fails to bind... luckily to find this but it took me months to find this, while I did some hacky HTML stuff.</p>

@@ -1,0 +1,6 @@
+id: dsq-747531322
+date: 2011-03-13T18:27:07.0000000-07:00
+author: Long Le
+email: tigerlong74@yahoo.com
+gravatar: 86731d0c86c0b027272c4cfe9c036a76
+message: <p>Don't use any MVC...You will get stuck.  MVC can not handle any custom validation and hard to fix...For example...MVC do not has auto decimal and auto prevent letter or number input to EditorFor... It is nightmare to do MVC...</p>

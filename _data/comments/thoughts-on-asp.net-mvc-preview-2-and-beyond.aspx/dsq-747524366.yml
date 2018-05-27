@@ -1,0 +1,6 @@
+id: dsq-747524366
+date: 2008-03-11T20:45:04.0000000-07:00
+author: Mike D
+email: mike_d@wordpress.disqus.net
+gravatar: 4c76bb987472aa89075f5a02efd233df
+message: <p>Here are a couple of questions on MVC design.<br>1) Why are you using aspx and ascx controls, you have unneeded usercontrol code running in a new framework?<br>2) Since views can display form fields, why not have the view at least responsible for grabbing the post data as directed by the controller?</p>

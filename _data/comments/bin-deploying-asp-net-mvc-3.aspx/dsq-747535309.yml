@@ -1,0 +1,6 @@
+id: dsq-747535309
+date: 2011-05-27T00:50:46.0000000-07:00
+author: Christian Crowhurst
+email: christian.crowhurst@gmail.com
+gravatar: cc04c88e67863deafb23a4f0d839c269
+message: <p>Excellent idea but has limitations which for me meant that I didn't use it.<br>I store dll dependencies within MyApp\lib folder whereas my source in MyApp\src. <br>I tried to be clever and manually add dll's into this new special folder (_bin_deployableAssemblies), using "Add As Link", and selecting the dll from MyApp\lib folder. Problem is, the dll added to _bin_deployableAssemblies in this way never gets copied by VS2010 into the bin directory when doing a compile.<br>So for me, I'm reluctantly sticking with referencing all the dll's from my csproj file, and setting Copy Local to True :-(<br>Christian</p>

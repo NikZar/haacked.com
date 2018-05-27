@@ -1,0 +1,6 @@
+id: dsq-747536995
+date: 2011-12-07T00:12:52.0000000-08:00
+author: Joel Mueller
+email: joel.mueller@gmail.com
+gravatar: 5105575285eb02a3695e523fc9cd29fd
+message: "<p>Here's a suggestion: I have a small open-source Windows app (F#, not C#) that I originally hosted on GitHub. However, I ended up moving it to CodePlex because that was the only code hosting site I could find that had their MIME types configured to allow ClickOnce installs direct from the download section...</p>"

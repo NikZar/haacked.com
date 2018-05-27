@@ -1,0 +1,6 @@
+id: dsq-747514084
+date: 2006-02-08T00:44:00.0000000-08:00
+author: jon
+email: jon@wordpress.disqus.net
+gravatar: 0f4244f787dd98cae4c0362039ddb739
+message: <p>you can also just add the user control to the DNN project (since it is a web project rather than a class) and then drag and drop it to where it's needed. This is taking for granted that you are opening the desktop modules solution when you are developing new modules...<br><br><br><br>Thanks for the hack though!</p>

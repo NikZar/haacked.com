@@ -1,0 +1,6 @@
+id: dsq-747528701
+date: 2010-02-09T04:55:18.0000000-08:00
+author: Sam
+email: sam@wordpress.disqus.net
+gravatar: 2ce2c95078dc2aa61322e08db7bd48c2
+message: <p>Thanks Mike for this MVC2 tip:<br>return Json(jsonData, JsonRequestBehavior.AllowGet);</p>

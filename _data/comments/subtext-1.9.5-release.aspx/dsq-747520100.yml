@@ -1,0 +1,6 @@
+id: dsq-747520100
+date: 2008-06-03T15:37:23.0000000-07:00
+author: JimS
+email: jims@wordpress.disqus.net
+gravatar: f51d0b46e1c341b9e98d6c7df1771767
+message: "<p>Doing some codebrowsing and I'm just wondering: Is the CacheDuration of the ContentCache set correctly? As of now, with the default duration definitions, the cache duration time can only be set from 0 to 30 seconds (where 30 seconds is the \"Long\" duration). The duration is set in seconds (#102 in ContentCache.cs), and to be honest - 30 seconds is _not_ a Long cache duration in this context, is it?</p>"

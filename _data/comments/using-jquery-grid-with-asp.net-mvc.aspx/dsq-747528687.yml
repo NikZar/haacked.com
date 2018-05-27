@@ -1,0 +1,6 @@
+id: dsq-747528687
+date: 2009-12-21T01:56:13.0000000-08:00
+author: mike
+email: mike@livesoftware.com
+gravatar: 1d3a445360021a1b519392d4f0c0baf3
+message: <p>Have been trying to get this to work with no success.  When debugging I am noticing that the url:'/Home/GridData/' is getting called.  There is no data in the grid however?  Could this be because I am using a masterpage.  I have also tried '../../home/griddata' with no success.</p>

@@ -1,0 +1,6 @@
+id: dsq-747521115
+date: 2007-06-18T17:08:17.0000000-07:00
+author: Vlad Iliescu
+email: vlad.iliescu@gmail.com
+gravatar: 1edef7d43832feaa0cb62d8bb2f63a7c
+message: <p>Unfortunately, VirtualPathUtility doesn't handle query string parameters, making it useless for us. Back to using a private Control and calling its ResolveUrl method.</p>

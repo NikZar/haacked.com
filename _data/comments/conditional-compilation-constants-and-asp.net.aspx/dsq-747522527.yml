@@ -1,0 +1,6 @@
+id: dsq-747522527
+date: 2007-09-17T04:59:19.0000000-07:00
+author: Justin M. Keyes
+email: justin_m_keyes@wordpress.disqus.net
+gravatar: c8831f77a4ad79431a13559bb5c13654
+message: <p>maybe the DEBUG symbol in ASPX/ASCX files depends on &lt;compilation debug="true/false"&gt; in the Web.config? (I can't test it at the moment)</p>

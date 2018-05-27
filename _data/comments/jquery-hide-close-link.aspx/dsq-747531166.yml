@@ -1,0 +1,6 @@
+id: dsq-747531166
+date: 2009-12-26T23:21:01.0000000-08:00
+author: Paul
+email: paulb33@gmail.com
+gravatar: d1f3d043c92fcedc4d51a76466bca5af
+message: <p>One fix in the code example:<br>//Slide up and down on click<br>$('a.close').click(function(){<br>    $($(this).attr('href')).slideToggle();<br>});</p>

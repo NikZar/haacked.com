@@ -1,0 +1,6 @@
+id: dsq-747510256
+date: 2009-03-10T03:55:24.0000000-07:00
+author: Andrei
+email: andreic160@gmail.com
+gravatar: 03bcf51832dda8033c4ba8368d03faf7
+message: <p>I am trying to match and replace links in anchor tags. It works with /&lt;a\s+href="([^&gt;]+?)"/ but i need to replace only what is in the href, the url, not all the anchor element..</p>

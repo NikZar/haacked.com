@@ -1,0 +1,6 @@
+id: dsq-747513383
+date: 2005-11-08T02:48:00.0000000-08:00
+author: Scott Williams
+email: scott_williams@wordpress.disqus.net
+gravatar: 5c71713f4321b5e3888d9a9d2e08f39f
+message: <p>I think my first bug was when I quickly "fixed" an update query in an application and forgot to include a WHERE clause. Fortunately the table was recently backed up and we only lost a couple of rows.</p>

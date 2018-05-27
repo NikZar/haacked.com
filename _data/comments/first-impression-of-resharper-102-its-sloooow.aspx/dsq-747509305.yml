@@ -1,0 +1,6 @@
+id: dsq-747509305
+date: 2004-08-10T22:30:00.0000000-07:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>I didn't notice that configuration option.  I can't understand why they'd ever ship with a default of 1000 ms.  Who's going to wait around for that and not just get the impression that the software is too slow?</p>

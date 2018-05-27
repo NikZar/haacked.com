@@ -1,0 +1,6 @@
+id: dsq-2357451479
+date: 2015-11-13T00:48:00.0000000-08:00
+author: Pedro Llanes
+email: championer@hotmail.com
+gravatar: a8047cd2fb8f0579cc27cc0386abb3ec
+message: <p>Hello, I have a problem. I has an application mvc with angularjs for front-end. I have a funtion to send an email to some users with a link (angular url). When I click on it, mvc redirect to login (that's right) but returnUrl omit angular part of url ("#angularurl"). can you help me? Thanks!!</p>

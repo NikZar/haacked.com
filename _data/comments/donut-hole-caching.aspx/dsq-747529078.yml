@@ -1,0 +1,6 @@
+id: dsq-747529078
+date: 2012-03-16T12:01:52.0000000-07:00
+author: Mehul Mehta
+email: mehulmehta.info@gmail.com
+gravatar: 78fbc0e7b6d1068af9a01e204cf34279
+message: <p>Is it possible when my MVC 3.0 application is multilingual?<br>ie. (localhost:xxxx/en-US/Users/UserStream/7)<br>    (localhost:xxxx/nl-NL/Users/UserStream/7)<br>I have applied Donut Hole Caching in ASP.NET MVC 3.0 application but issue arise when i change language. caching return the same Culture(en-US) from cache when change language Eng to other language.<br>Hopping for help....<br>Thank in advance.<br>With regards,<br>Mehul Mehta<br></p>

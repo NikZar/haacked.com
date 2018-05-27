@@ -1,0 +1,6 @@
+id: dsq-747526834
+date: 2011-01-05T18:44:03.0000000-08:00
+author: sujith
+email: sujithnarayanannair@gmail.com
+gravatar: 52f6364b030a03c32752617c564735d8
+message: <p>Hey Phil, I’m having a doubt<br>Suppose I have a User Control inside the Areas-&gt; Blogs -&gt; Views -&gt; Admin and I want to use this user control in Areas-&gt; Blogs -&gt; Views -&gt;Home -&gt; Index.aspx <br>So what path I need to pass inside the Html.RenderPartial method inside the Index.aspx.<br></p>

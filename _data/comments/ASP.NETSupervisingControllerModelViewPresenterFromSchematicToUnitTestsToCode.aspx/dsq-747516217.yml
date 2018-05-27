@@ -1,0 +1,6 @@
+id: dsq-747516217
+date: 2007-08-24T23:56:29.0000000-07:00
+author: Alexey Romanov
+email: alexey.v.romanov@gmail.com
+gravatar: c79937a093ff9e963c563e22cd385f30
+message: <p>Can IPostEditView have reference to a BlogPost instead of BlogPostBody, Tags, and BlogPostId?<br>Or should this be avoided?</p>

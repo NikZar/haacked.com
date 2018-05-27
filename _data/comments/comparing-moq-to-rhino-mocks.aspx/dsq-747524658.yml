@@ -1,0 +1,6 @@
+id: dsq-747524658
+date: 2008-03-23T14:22:46.0000000-07:00
+author: Krzysztof Kożmic
+email: krzysztof@kozmic.pl
+gravatar: fab7062ee87e12adc67846764e6be668
+message: <p>@tgmdbm<br>Yes, I know, that's why I suggested using Expect.Call, without IgnoreArguments.<br>That way it will be  evrified if argument was indeed 123 when you call VerifyAll.<br>And in Rhino.Mocks When you call ReplayAll() you DO can return to recording. You have to call repo.BackToRecordAll(BackToRecordOptions.None);<br>or one of it's siter methods. This does NOT remove any recorded expectations.</p>

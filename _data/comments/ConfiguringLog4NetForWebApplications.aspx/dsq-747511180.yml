@@ -1,0 +1,6 @@
+id: dsq-747511180
+date: 2008-09-30T13:17:05.0000000-07:00
+author: Peter
+email: pbolton@espeed.co.uk
+gravatar: f5a6e64be86e3931a67bf089683a308c
+message: <p>I have a WebService (.NET 2) which is using log4net and it stops logging after a while for no obvious reason. I have used log4net on a WebService under .NET 1 which works perfectly. Needless to say I have tried all the suggestions I'm using version 1.2.10.</p>

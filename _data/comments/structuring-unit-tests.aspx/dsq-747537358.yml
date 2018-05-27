@@ -1,0 +1,6 @@
+id: dsq-747537358
+date: 2012-09-23T12:10:10.0000000-07:00
+author: Philip Panyukov
+email: ppanyukov@googlemail.com
+gravatar: 8d8f59ee9b764275e09eb2e3394d898f
+message: <p>Great technique.  I have taken this further and modified it slightly, and now I can test internal and private stuff without reflection or any other dirty and ugly hacks.<br><a href="http://komrade.wordpress.com/2012/09/23/structuring-unit-tests-the-easy-way/" rel="nofollow noopener" title="http://komrade.wordpress.com/2012/09/23/structuring-unit-tests-the-easy-way/">Blogged about it here</a><br></p>

@@ -1,0 +1,6 @@
+id: dsq-747525533
+date: 2008-06-19T02:30:14.0000000-07:00
+author: Gauthier Segay
+email: gauthier_segay@wordpress.disqus.net
+gravatar: 17d2a42aaa148992b5c9bc7f528fb549
+message: <p>That's a nice trick, however I'm concerned by the fact it will wrap the call multiple times (deep call stack), won't the event approach became safer allowing such extension?<br></p><blockquote>In this case, all my lambda is doing is using the default controller to create the controller</blockquote><p><br>Did you mean <em>"my lambda is using the default controller factory"</em>?</p>

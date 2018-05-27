@@ -1,0 +1,6 @@
+id: dsq-747533587
+date: 2010-11-21T12:50:20.0000000-08:00
+author: Wim Bokkers
+email: wim.bokkers@hetnet.nl
+gravatar: 1b00d293139a0ff4d1af923704a3c4ea
+message: <p>Great advice. I find the route matching process a bit confusing at times. With named routing I no longer need to understand the route matching process, which I think is a good thing. ;) <br>Why not deprecate route matching in future versions of ASP.NET and show a warning when leaving out the route name (or make the route name a required parameter)?</p>

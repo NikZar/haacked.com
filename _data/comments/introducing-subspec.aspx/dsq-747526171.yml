@@ -1,0 +1,6 @@
+id: dsq-747526171
+date: 2008-08-24T17:41:16.0000000-07:00
+author: Klaus Hebsgaard
+email: klaus@hebsgaard.dk
+gravatar: 51e410726d11dba216a81b751c3769f5
+message: <p>With ironRuby moving on very fastly towards release, why would we want to implement RSpec in C#?<br>Should it not be possible to use RSpec through ironRuby and test a .Net application that way around?<br>I haven't tried this myself, but it's on my list...</p>

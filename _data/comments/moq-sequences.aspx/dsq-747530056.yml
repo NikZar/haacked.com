@@ -1,0 +1,6 @@
+id: dsq-747530056
+date: 2009-09-29T21:39:00.0000000-07:00
+author: Peli de Halleux
+email: peli_de_halleux@wordpress.disqus.net
+gravatar: 15fe36903c7851fa6c65178747ff0761
+message: <p>You can write this with the Stubs framework:<br>    bool[] values = new bool[] { true, true, false };<br>    int counter = 0;<br>    var reader = new SIDataReader() {<br>        Read = () =&gt; values[counter++]<br>    }<br>The C# compiler creates a closure around the locals and you simply iterate of the array of bools.<br></p>

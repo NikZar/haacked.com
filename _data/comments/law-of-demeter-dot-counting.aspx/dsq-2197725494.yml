@@ -1,0 +1,6 @@
+id: dsq-2197725494
+date: 2015-08-16T18:15:56.0000000-07:00
+author: JeanFrederic Nault
+email: jfrederic.nault@gmail.com
+gravatar: 37d2083e6ea3c6b01894e1c53683ff55
+message: <p>For the examble of the view with the order. Order should not have a property username, it should have a method getUserName that will use the user object.</p><p>So the view know the order<br>The order now the user</p><p>The order expose through its public interface a method to communicate with its user object</p>

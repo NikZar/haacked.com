@@ -1,0 +1,6 @@
+id: dsq-747519419
+date: 2007-03-26T18:51:08.0000000-07:00
+author: Damien Guard
+email: damien@envytech.co.uk
+gravatar: dc72963e7279d34c85ed4c0b731ce5a9
+message: <p>Yes, it's always worth remembering that an interface can inherit from another interface.<br>IList inherits from ICollection and so the IList interface does contain an Add method even thought it is inherited and not explicitly defined there.<br>[)amien</p>

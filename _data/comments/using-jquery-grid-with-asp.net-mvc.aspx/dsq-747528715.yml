@@ -1,0 +1,6 @@
+id: dsq-747528715
+date: 2010-04-26T00:56:59.0000000-07:00
+author: Chris
+email: chris@wordpress.disqus.net
+gravatar: 4c2a9631b5e7dfd42f33e8ea7d39ebeb
+message: <p>One thing I noticed that gave me problems.  Make sure you change...<br>&lt;script src="/Scripts/jquery-1.3.2.js" type="text/javascript"&gt;&lt;/script&gt;<br>...to the correct version.  Mine was jquery-1.4.1.js, for example.  Changed this and all was well.</p>

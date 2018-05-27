@@ -1,0 +1,6 @@
+id: dsq-747508753
+date: 2005-04-27T03:12:00.0000000-07:00
+author: Krish
+email: krish@wordpress.disqus.net
+gravatar: f33332476dcef6052ef0d292be1b7170
+message: <p>Hi friends<br><br><br><br>I have a huge dataset of size of 350 MB...I want to select 10% of the rows out of (2.5 million records).I tried in sql server but its taking time and I am not getitng the result...is there any other way to do it...plz let me know...</p>

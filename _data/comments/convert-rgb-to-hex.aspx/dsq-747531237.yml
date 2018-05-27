@@ -1,0 +1,6 @@
+id: dsq-747531237
+date: 2010-08-04T06:56:38.0000000-07:00
+author: Dave Cook
+email: dcook@caveduck.com
+gravatar: 89b5bac916e85fb28dfe433a0cf3cc5c
+message: "<p>One more tiny convenience fix - add the leading '#' needed for sending the output string back into jQuery, Google Earth etc. APIs:<br><code><br>function colorToHex(c) {<br>    var m = /rgba?\\(\\s*(\\d+)\\s*,\\s*(\\d+)\\s*,\\s*(\\d+)/.exec(c);<br>    return m ? '#' + (1 &lt;&lt; 24 | m[1] &lt;&lt; 16 | m[2] &lt;&lt; 8 | m[3]).toString(16).substr(1) : c;<br>}<br></code><br></p>"

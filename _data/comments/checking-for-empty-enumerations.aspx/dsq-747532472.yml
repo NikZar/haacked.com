@@ -1,0 +1,6 @@
+id: dsq-747532472
+date: 2010-06-09T13:39:02.0000000-07:00
+author: Damian Powell
+email: damian@shadow-angel.com
+gravatar: 4ccbd7d733274ae574b2c19a4fd631fe
+message: <p>Shouldn't the simpler version be:<br><code><br>public void Foo&lt;T&gt;(IEnumerable&lt;T&gt; items) {<br>  if( ! items.IsNullOrEmpty()) {<br>    // Do something<br>  }<br>}<br></code></p>

@@ -1,0 +1,6 @@
+id: dsq-747529862
+date: 2009-09-09T03:31:00.0000000-07:00
+author: Bertrand Le Roy
+email: bertrand_le_roy@wordpress.disqus.net
+gravatar: 05acf7fd1d9fb87e09e86c7f1e0b73da
+message: '<p>Quick question: why implement your own DynamicDictionary whereas ExpandoObject is pretty much it already?</p>'

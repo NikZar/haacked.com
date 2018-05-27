@@ -1,0 +1,6 @@
+id: dsq-747520793
+date: 2007-06-03T22:51:11.0000000-07:00
+author: opello
+email: opello@opello.org
+gravatar: 35d8f2b3e2651182fea52c8bfd4d06cd
+message: <blockquote>I have seen many blog entries that seem to encourage add-in developers to circumvent the PLK mechanism (assuming that is what casting the DTE object to IServiceProvider does).</blockquote><p><br>I thought that was the 'hack'?</p>

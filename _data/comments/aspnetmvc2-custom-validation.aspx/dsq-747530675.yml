@@ -1,0 +1,6 @@
+id: dsq-747530675
+date: 2009-11-19T20:29:00.0000000-08:00
+author: Raj Kaimal
+email: raj_kaimal@wordpress.disqus.net
+gravatar: 4cdaa5cb95520a4a6623e48c0210906f
+message: <p>I would rather have the server return the validation error (ie. no js validation) than repeat my validation logic in two places.</p>

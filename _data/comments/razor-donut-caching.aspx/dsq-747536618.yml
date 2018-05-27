@@ -1,0 +1,6 @@
+id: dsq-747536618
+date: 2011-11-27T18:59:22.0000000-08:00
+author: Quent
+email: quenth@gmail.com
+gravatar: 065fcdcbf0cfbf9527516e6d19357c92
+message: <p>I assume cache directives can be embedded within each other?  This would essentially define a tree of independent parts to be assembled at query time.<br>Maybe make the caching definitions be part of the Partial View system?  Partial Views are a good way (as are Sections) to define page assembly parts.<br>That would also solve a lot of problems about what to do with the Model and ViewBag within the page.  Does this get cached also?  Personally, I think those decisions need to be pushed off to the developer.</p>

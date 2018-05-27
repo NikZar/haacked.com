@@ -1,0 +1,6 @@
+id: dsq-747513341
+date: 2005-11-01T10:43:00.0000000-08:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>Well when I say dynamic SQL, I mean via some sort of dynamic SQL engine as in an ORM mapper.  I wouldn't dare generate dynamic SQL in my own code.<br><br><br><br>Using something like NHibernate or iBatis or LLBLGEN Pro provides much of the benefits of stored procs.  Via their APIs, you get security against SQL injection attacks, etc...<br><br><br><br>You use the API, they generate the safe SQL using prepared statements.  The first time a prepared statement runs, it takes a bit longer since the query is optimized. Afterwards it will run much faster.<br><br><br><br>Even if the perf was a bit slower, the benefits are worth it in portability, and potentially faster coding.</p>

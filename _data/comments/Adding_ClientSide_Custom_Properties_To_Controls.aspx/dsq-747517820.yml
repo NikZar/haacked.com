@@ -1,0 +1,6 @@
+id: dsq-747517820
+date: 2010-01-07T16:04:28.0000000-08:00
+author: Lida
+email: lidaaaaa@gmail.com
+gravatar: d63be25124275389354f5555d4bdc22a
+message: <p>Dave, Phil used the AddAttibutesToRender method for coincidence, he could have used any event handler from the page init to the pre render phase.<br>The real deal is in the RegisterExpandoAttribute method.</p>

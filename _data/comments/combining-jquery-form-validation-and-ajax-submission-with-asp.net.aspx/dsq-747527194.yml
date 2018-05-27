@@ -1,0 +1,6 @@
+id: dsq-747527194
+date: 2008-12-18T01:57:47.0000000-08:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Josh are you using ASP.NET 3.5? You can replace "var" with CommentResponse if not.</p>

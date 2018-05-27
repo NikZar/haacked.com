@@ -1,0 +1,6 @@
+id: dsq-747516382
+date: 2006-08-23T13:30:09.0000000-07:00
+author: Jon Galloway
+email: jon_galloway@yahoo.com
+gravatar: 63c32b4489d13b17d23fd9db1505bdf9
+message: <p>I like the static method, but I wish there were a member method (which just called the static) as well. I'm always thrown when myString.IsNullOrEmpty() isn't defined...<br>Fortunantly, when I'm thrown, it's just a simple "throw;" rather than "throw ex", which would wipe my stack trace and really confuse me.</p>

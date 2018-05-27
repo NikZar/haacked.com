@@ -1,0 +1,6 @@
+id: dsq-747538525
+date: 2012-10-23T20:58:00.0000000-07:00
+author: John Watson
+email: jwatson3d@gmail.com
+gravatar: ba92c1efda0ffaf9a50d1be2f363d4e2
+message: <p>Phil, I have been championing adoption of NuGet at my company not only from a "consumption" point of view but also as an integral part of our packaging and internal deployment. Corporate development shops like mine *need* to be able to stand up internal repositories for internal-only use. Efforts by you, David Ebbo and others are awesome but the whole server-side aspect needs lots of attention to become as frictionless as, say Apache or Maven.</p>

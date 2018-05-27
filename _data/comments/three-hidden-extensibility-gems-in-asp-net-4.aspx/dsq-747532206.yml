@@ -1,0 +1,6 @@
+id: dsq-747532206
+date: 2010-05-16T08:28:52.0000000-07:00
+author: Chris Cavanagh
+email: cjcavanagh@benefittech.com
+gravatar: 1c0416d2076ff909a630465de530c212
+message: <p>To clarify...  Meant to say "if there were weird side effects".  Currently seems to be behaving itself :) (note if debugging through IIS rather than Cassini it can look like the method isn't getting called (breakpoints don't get hit), but it does actually work fine).</p>

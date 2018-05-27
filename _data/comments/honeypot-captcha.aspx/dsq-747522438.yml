@@ -1,0 +1,6 @@
+id: dsq-747522438
+date: 2010-07-16T12:26:52.0000000-07:00
+author: Kris
+email: kris@cmnet.us
+gravatar: 1ce35d086e14f564ba548ecde0195d79
+message: <p>I noticed a few people having trouble checking if the form field was set, Couldn't you just do a simple post check? <br>if (!isset($_POST['fieldname'])) { IgnoreComment(); }</p>

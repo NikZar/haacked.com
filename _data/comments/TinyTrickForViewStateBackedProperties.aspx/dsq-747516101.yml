@@ -1,0 +1,6 @@
+id: dsq-747516101
+date: 2006-08-18T05:06:35.0000000-07:00
+author: Chris Martin
+email: chris@caliberweb.com
+gravatar: a12a0565d032994007450e9c7dea6976
+message: <p>You almost had it the first time. What's wrong with this?<br>public bool? WillSucceed{<br>    get{<br>        return (bool?)ViewState["WillSucceed"] ?? false;<br>    }<br>    set{<br>        ViewState["WillSucceed"] = value;<br>    }<br>}</p>

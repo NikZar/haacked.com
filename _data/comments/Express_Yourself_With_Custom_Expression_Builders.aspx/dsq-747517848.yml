@@ -1,0 +1,6 @@
+id: dsq-747517848
+date: 2009-03-05T01:45:52.0000000-08:00
+author: Shanku Niyogi
+email: shanku@niyogifamily.org
+gravatar: 26fc19d98bc0c4b11c8cb25c1b8a25ff
+message: <p>And, just to be complete, you can't actually support the non-compile scenario unless you also override EvaluateExpression. In the non-compile scenario, this method gets called to evaluate the expression without having to generate code.</p>

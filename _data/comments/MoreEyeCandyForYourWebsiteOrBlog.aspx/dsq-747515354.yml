@@ -1,0 +1,6 @@
+id: dsq-747515354
+date: 2006-06-21T11:08:00.0000000-07:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>I meant the back button is not disabled, unlike a modal dialog in which nothing works.  But yes, it doesn't work as expected (ie it doesn't take the user back one step).<br>I have seen Ajax implementations that do work with the back button (Magic Ajax comes to mind) so there might be a way to fix it.</p>

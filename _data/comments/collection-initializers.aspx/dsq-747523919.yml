@@ -1,0 +1,6 @@
+id: dsq-747523919
+date: 2008-01-14T13:53:33.0000000-08:00
+author: Filini
+email: filini@filini.net
+gravatar: 4cd9ad7bd0ad2b0bff308bb9d15f74d1
+message: <p>Yep. And I guess the full syntax would be cleaner (and easier to read) than the cast to Class3.<br>Sometimes, these shortening syntactic sugars make the code cleaner to the writer, but not to the other developers of the team. This must always be kept in mind.</p>

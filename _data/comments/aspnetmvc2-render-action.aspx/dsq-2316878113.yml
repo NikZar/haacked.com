@@ -1,0 +1,6 @@
+id: dsq-2316878113
+date: 2015-10-20T08:11:38.0000000-07:00
+author: Carlo Ostia
+email: carlo@actasoftware.com
+gravatar: d0887ac96890aff212c1abb5cfe61e1b
+message: <p>Hello,<br>RenderAction Render also the tag body. Can I avoid this? I want to render only the html of the control called with RenderControl</p>

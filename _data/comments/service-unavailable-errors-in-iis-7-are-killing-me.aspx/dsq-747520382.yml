@@ -1,0 +1,6 @@
+id: dsq-747520382
+date: 2008-11-28T22:01:45.0000000-08:00
+author: CMZK
+email: cmzk@wordpress.disqus.net
+gravatar: a1af1bb91d80fa9873ba58b5c7d29ffd
+message: <p>EASY SOLUTION:<br>IIS7 -&gt; APPLICATION POOLS -&gt; ASP.NET 1,1 -&gt; SET APPLICATION POOL DEFAULTS -&gt; ENABLE 32-BIT APPLICATIONS -&gt; TRUE.<br>THIS WILL WORK!!!!</p>

@@ -1,0 +1,6 @@
+id: dsq-747524119
+date: 2008-02-07T02:23:02.0000000-08:00
+author: Bradley Landis
+email: bradleylandis@bradleylandis.com
+gravatar: 93a85d566576093f5b7e6f16bad7cff9
+message: <p>I could be doing something wrong but I always have to take extra steps when unit testing code using System.Net.Mail.  The Send method of SmtpClient is not marked as virtual.</p>

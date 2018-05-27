@@ -1,0 +1,6 @@
+id: dsq-747516292
+date: 2006-08-15T00:37:18.0000000-07:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Thanks, that is a good point.  These are methods I typically use in debug code, but we <em>do</em> use them in some logging code that could be released in release mode.  Good call!</p>

@@ -1,0 +1,6 @@
+id: dsq-747525175
+date: 2011-12-08T23:18:39.0000000-08:00
+author: geo
+email: geo@wordpress.disqus.net
+gravatar: 8715490111e99a5ba8f80ca06e950a96
+message: '<p>File(FileStreamOrPath, ContentType, fileDownloadName) always specify "Content-Disposition: attachment; filename=fileDownloadName" in the header.<br>What if I need to specify: "Content-Disposition: inline; filename=fileDownloadName" in the header?</p>'

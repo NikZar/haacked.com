@@ -1,0 +1,6 @@
+id: dsq-747516107
+date: 2006-08-07T14:30:08.0000000-07:00
+author: Scott Hanselman
+email: scott@hanselman.com
+gravatar: 719c91f5c3013e43ee46ed2bdc67f883
+message: <p>Lame that they didn't "foward" it with a facade and mark the facade obsolete. Best of best worlds. Or, in 2.0, use TypeForwardedAttribute.</p>

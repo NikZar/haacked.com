@@ -1,0 +1,6 @@
+id: dsq-747530025
+date: 2009-09-25T14:04:00.0000000-07:00
+author: Dummy Customer
+email: dummy_customer@wordpress.disqus.net
+gravatar: c9b0da3943721f65e26d96c9b934ee11
+message: <blockquote>We strongly considered just changing the existing &lt;%= syntax to encode by default.</blockquote><p><br>That would have been a great solution, but I totally understand that you need to support old code from breaking.</p>

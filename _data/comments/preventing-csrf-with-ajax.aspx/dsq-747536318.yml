@@ -1,0 +1,6 @@
+id: dsq-747536318
+date: 2012-03-27T13:28:16.0000000-07:00
+author: Mark
+email: donnib@gmail.com
+gravatar: 55afdc76ee0bc963171491789d9e636a
+message: <p>Looks interesting... But how are you able to all AntiForgery.Validate with the httpcontext?.. from what I can se that overloaded method is marked as internal.</p>

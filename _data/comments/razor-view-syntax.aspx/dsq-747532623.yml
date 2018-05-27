@@ -1,0 +1,6 @@
+id: dsq-747532623
+date: 2010-07-05T22:20:28.0000000-07:00
+author: Matt S.
+email: matt@ventaur.com
+gravatar: 98d8934409c5ed1a8646e311755e3312
+message: <p>Chris,<br>You can always do something like this to avoid HTML encoding:<br>@MvcHtmlString.Create(Model.UserHtml)<br><br>Basically, anything that implements IHtmlString avoids the encoding.</p>

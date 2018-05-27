@@ -1,0 +1,6 @@
+id: dsq-747534751
+date: 2012-04-12T18:55:02.0000000-07:00
+author: Doug
+email: dbeard@jackhenry.com
+gravatar: a449f4aa844efd6f1f0fb0da7441374c
+message: <p>Just got the latest NuGet goodies. 1.7.1 server is not working for me.  I can see the packages in the web browser.  I can browse the packages in the manager.  But any attempt to install a package result in a 404 error.</p>

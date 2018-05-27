@@ -1,0 +1,6 @@
+id: dsq-1202100815
+date: 2014-01-15T09:09:19.0000000-08:00
+author: Roger Martin
+email: rdogmartin@gmail.com
+gravatar: 4c801adb87c3baafdb529622b64b68e6
+message: <p>Do I still need to implement IRegisterObject if I am starting tasks using Task.Factory.StartNew() from the request thread?</p>

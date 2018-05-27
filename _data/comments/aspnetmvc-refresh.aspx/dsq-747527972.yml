@@ -1,0 +1,6 @@
+id: dsq-747527972
+date: 2009-02-03T12:40:41.0000000-08:00
+author: Saurabh
+email: saurabh@cleardevelop.com
+gravatar: 1f8aa8b4b38a9a60eac7c873a828fcef
+message: <p>Well ......i got the Answer.......<br>it should be <br>&lt;% Html.RenderPartial("~/Views/Home/TestUC.ascx", m); %&gt; <br>thanx for the RC Refresh<br>Kind Regards<br>Saurabh</p>

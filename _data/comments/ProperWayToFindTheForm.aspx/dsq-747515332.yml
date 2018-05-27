@@ -1,0 +1,6 @@
+id: dsq-747515332
+date: 2006-06-14T02:06:00.0000000-07:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>Well sort of.  With the HtmlForm and ASP.NET, you can generally be assured there is only one HtmlForm instance.  <br>But there might be multiple instances of a given control type. So a method like:<br></p><blockquote>public static string GetControlId(Type controlType, Control page)</blockquote><p><br>Would only return the first id.  Probably better to make it <br>public static string[] GetControlIds(Type controlType, Control page)</p>

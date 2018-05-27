@@ -1,0 +1,6 @@
+id: dsq-747535727
+date: 2011-09-28T04:20:11.0000000-07:00
+author: Luciano
+email: lucianolnx@gmail.com
+gravatar: fcfc840613c44f2f72aebff6117eec38
+message: <p>Would be nice to have a interface to a kind of KeyProvider when we could implement custom key formats. Instead of ConventionalModelMetadataProvider.GetResourceKey(),<br>Got the idea ?<br>I'm creating it now, because I need a custom key format, including Area name to the Model name.</p>

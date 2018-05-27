@@ -1,0 +1,6 @@
+id: dsq-885079924
+date: 2013-05-05T02:31:13.0000000-07:00
+author: Anthony Chambers
+email: anthony@netricity.co.uk
+gravatar: 38d87792bca46eb6cf1243bf7c432fbe
+message: <p>Very useful, thanks. I found that <span>@Model.Message</span> was needed (note casing of 'Model' not 'model').</p>

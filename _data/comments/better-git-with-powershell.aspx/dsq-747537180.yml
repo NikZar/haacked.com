@@ -1,0 +1,6 @@
+id: dsq-747537180
+date: 2011-12-13T19:56:02.0000000-08:00
+author: Chris Chandler
+email: chris@developingchris.com
+gravatar: 1ce04312daddc2060e9f6d87805cad2a
+message: <p>Do you have any perf problems with posh-git. Takes about 10 seconds for the branch name and status stuff to come up.<br>Where as, I have a hand rolled prompt, no tab completion. That is much much much faster. Thoughts?</p>

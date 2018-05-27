@@ -1,0 +1,6 @@
+id: dsq-747536370
+date: 2011-10-17T12:41:50.0000000-07:00
+author: Wyatt Barnett
+email: wyatt.barnett@gmail.com
+gravatar: 0dd7d17a52e2ae3784518ed795b73526
+message: <p>Is the 29 hour recycle hard coded? By default app pools will recycle every 1740 minutes, but that is easily reconfigurable. I know we set it to never unless we've got a reason not to.</p>

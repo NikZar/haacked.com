@@ -1,0 +1,6 @@
+id: dsq-747537299
+date: 2012-01-02T04:58:44.0000000-08:00
+author: Mihai Lazar
+email: sharpoverride@gmail.com
+gravatar: 61273477b46f3d7e57c6cbb51d38301e
+message: <p>If only you would remove duplication with it.<br>At least for the example of UsersService I find that there is <br>1. Too much code duplication for the setup of the CryptoService<br>2. The method Create for example, has a lot of responsibilities beyond its intended purpose (validation, hashing, token creation)<br>Other than that, it will allow for a bit better code organization in some cases, so thanks for it.</p>

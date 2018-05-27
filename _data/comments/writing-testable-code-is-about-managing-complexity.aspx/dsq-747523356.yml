@@ -1,0 +1,6 @@
+id: dsq-747523356
+date: 2007-11-14T01:37:26.0000000-08:00
+author: AndrewSeven
+email: andrewseven@wordpress.disqus.net
+gravatar: 271f6b9f02bfdaf7e331c2ebe074d5c8
+message: <p>I'm not sure testability helps manage the actual complexity, but it definitely helps deal with the reality of the complexity.<br>Your codebase and system will still become complex, but you have a good safety mechanism for avoiding regressions.<br></p>

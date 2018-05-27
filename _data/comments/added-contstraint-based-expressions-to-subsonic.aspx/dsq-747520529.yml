@@ -1,0 +1,6 @@
+id: dsq-747520529
+date: 2007-05-22T20:12:42.0000000-07:00
+author: Jeff Lewis
+email: jeff@consultutah.com
+gravatar: 91015866e53facac5dc559fc319db7c0
+message: <p>My homemade DAL uses the following syntax:<br>List&lt;Product&gt; products =<br>Products.Where.ProductID(12).And.Description(Opr.LIKE, "%Hello%");<br>Now that LINQ is just around the corner though, I'm not sure I'd waste the effort.</p>

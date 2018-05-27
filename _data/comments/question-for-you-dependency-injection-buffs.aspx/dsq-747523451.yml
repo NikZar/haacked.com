@@ -1,0 +1,6 @@
+id: dsq-747523451
+date: 2007-11-26T23:24:57.0000000-08:00
+author: Joshua Flanagan
+email: josh@flimflan.com
+gravatar: bebfa5420112c96789a45c0b6ae8c6ce
+message: <p>Another solution would be to inject a Provider factory, as opposed to the Provider itself.<br>public HomeController(IProviderFactory providerFactory){<br>  this.membership = providerFactory.GetMembershipProvider();<br>}<br>Then you have an AspNetProviderFactory (which can be passed in by StructureMap) that just returns the statically configured providers. Your tests use a fake provider factory that returns fake providers.</p>

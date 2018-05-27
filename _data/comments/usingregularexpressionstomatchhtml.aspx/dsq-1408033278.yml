@@ -1,0 +1,6 @@
+id: dsq-1408033278
+date: 2014-05-28T03:37:17.0000000-07:00
+author: Havitoosh
+email: x@y.com
+gravatar: 767934a648524da57388558217ad9c2d
+message: <p>Unfortunately it will not match tags with enter inside an attribute, such as</p><p>&lt;div title="y<br>yy"&gt;xxx&lt;/div&gt;</p>

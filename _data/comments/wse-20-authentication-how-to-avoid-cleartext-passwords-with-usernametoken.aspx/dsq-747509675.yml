@@ -1,0 +1,6 @@
+id: dsq-747509675
+date: 2005-01-12T05:08:00.0000000-08:00
+author: William
+email: william@wordpress.disqus.net
+gravatar: 3bf78faa84575d34fd03ff6616e74cf6
+message: <p>I blogged a solution that using salt where you don't need a seperate call to get the salt.  You can gen a salt based on username and both sides know that before hand so both side can gen same salt.<br><br><br><br><a href="http://spaces.msn.com/members/staceyw" rel="nofollow noopener" title="http://spaces.msn.com/members/staceyw">http://spaces.msn.com/members/staceyw</a><br><br>--wjs</p>

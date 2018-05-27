@@ -1,0 +1,6 @@
+id: dsq-747531199
+date: 2009-12-29T13:07:40.0000000-08:00
+author: Artiom Chilaru
+email: artiom@flexlabs.org
+gravatar: a78587c2d2dca57f195b4ac41d528ca1
+message: <p>I will have to agree with James Fuller. It seems to me as well that you have to swap the code to:<br>var dec = 65536 * red + 256 * green + blue</p>

@@ -1,0 +1,6 @@
+id: dsq-1117237687
+date: 2013-11-10T15:02:58.0000000-08:00
+author: martijnhoekstra
+email: martijnhoekstra@gmail.com
+gravatar: 64cb01262bf686f65805e70fd99c5b1a
+message: <p>while I agree with your general point, I think the example where you take n items with a default if there aren't n items in the collection is a bit of a code smell, and takes away from your central point. I can't really think of a good reason why you'd want to do that.</p>

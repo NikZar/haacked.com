@@ -1,0 +1,6 @@
+id: dsq-747531215
+date: 2010-01-01T00:52:03.0000000-08:00
+author: Doeke
+email: doeke@zanstra.net
+gravatar: 65ac4ed38029e1e88ca1896a868a8760
+message: <p>I would also add some optional whitespace to the regex:<br><code>/(.*?)rgb\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)/</code></p>

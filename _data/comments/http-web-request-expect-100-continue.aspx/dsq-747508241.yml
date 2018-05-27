@@ -1,0 +1,6 @@
+id: dsq-747508241
+date: 2004-06-27T18:01:00.0000000-07:00
+author: S
+email: s@wordpress.disqus.net
+gravatar: 7e829eeb4227344e04fa7f4c7e271ed4
+message: <p>Lance, after struggling with .NET SOAP POST'ing through an ISA proxy (which seems to be blocking the 100 Continue response, possibly that's configurable somewhere, but I haven't got access), this was exactly what I needed. Thanks!</p>

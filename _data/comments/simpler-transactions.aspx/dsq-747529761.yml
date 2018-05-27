@@ -1,0 +1,6 @@
+id: dsq-747529761
+date: 2009-08-19T06:52:00.0000000-07:00
+author: zvolkov
+email: zvolkov@wordpress.disqus.net
+gravatar: 343b99df733c21db9e66a7a9cbd1bab4
+message: <p>SpringFramework.NET supported this for years with its TransactionTemplate.Execute(delegate(ITransactionStatus status))<br>However in practice, I found it less than convenient, 1) vulnerable to the modified closure problem, 2) can't return from function within the delegate 3) can't yield within the delegate etc. <br>AOP (w/ Transactional attribute) is the most convenient way. But using is the most universal. I agree that having to commit transaction is a pain.<br></p>

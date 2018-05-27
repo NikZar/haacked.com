@@ -1,0 +1,6 @@
+id: dsq-747525688
+date: 2008-07-08T19:52:04.0000000-07:00
+author: Troy Goode
+email: tgoode@squaredroot.com
+gravatar: d970e9a9176eb12a764647485b447abf
+message: <p>Attributes are an interesting way to tackle it, Francois. I just thought of another way:<br><strong>Modify the order of operations of ActionInvoker such that parameters are populated by Server Variables first (rather than going straight for the QueryString).</strong><br>That way this technique remains and is just as "safe" as accessing Request.ServerVariables["x"] today.</p>

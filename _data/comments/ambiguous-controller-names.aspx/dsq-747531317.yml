@@ -1,0 +1,6 @@
+id: dsq-747531317
+date: 2010-05-20T00:21:09.0000000-07:00
+author: Tom John
+email: tj@redfrog.com
+gravatar: 4c9eca9d90835cf6b61cecf65e5e457e
+message: <p>This works a treat (although have to agree that it should really be handled like controllers and actions in the routes).<br>That asside - I've found that if the controller is in an alternate assembly, it seems that from within an area the controller cannot be resolved. Controllers works fine in alternate assemblies when there are no areas involved.<br>Is there a solution to this situation?</p>

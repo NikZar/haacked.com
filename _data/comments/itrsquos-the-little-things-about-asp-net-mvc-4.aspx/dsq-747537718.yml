@@ -1,0 +1,6 @@
+id: dsq-747537718
+date: 2012-07-23T22:08:33.0000000-07:00
+author: Gustyn
+email: gustyn@clanjohnson.com
+gravatar: 566731cd3007e4a65d2a718ba3863614
+message: <p>Never mind, They changed things around for the RC so you have to use DependencyResolver instead of ServiceResolver and some other changes. <br>Thanks for this great post though.</p>

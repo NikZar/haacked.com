@@ -1,0 +1,6 @@
+id: dsq-747536232
+date: 2011-09-26T03:02:48.0000000-07:00
+author: Konstantin Tarkus
+email: koistya@gmail.com
+gravatar: ace8bcd73ddf7e7837531abb90e9c136
+message: <p>How about calling it "Helpers" and placing in the root menu (under the 'Add' for example). Each "Helper" (aka Recipe) would have it's own name under which it will be displayed in the context menu of Solution Explorer. For example:<br>...<br>Add &gt;<br>Helpers &gt;<br> - Convert to .cshtml<br> - Add mobile view<br>...</p>

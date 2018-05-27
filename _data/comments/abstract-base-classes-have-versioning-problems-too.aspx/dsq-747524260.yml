@@ -1,0 +1,6 @@
+id: dsq-747524260
+date: 2008-02-22T04:55:34.0000000-08:00
+author: Wade C
+email: wade.christensen@gmail.com
+gravatar: 105085c387c70df0bebf6e6c45fd3b3e
+message: <p>The addition of SupportsMethodTwo() does nothing to solve your problem of testing for the existence of MethodTwo().  The original implementation of the ABC won't have either of these methods.  It seems like reflection would be the safest answer to testing for the existence of a new method.</p>

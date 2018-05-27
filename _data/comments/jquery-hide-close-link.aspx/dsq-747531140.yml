@@ -1,0 +1,6 @@
+id: dsq-747531140
+date: 2009-12-25T11:38:51.0000000-08:00
+author: Ali
+email: a_bastani@hotmail.com
+gravatar: 2ca6ee53f7f4ba812bed931849046e98
+message: <p>as @Bobby mentioned Y not just use a costume attribute :<br><code>&lt;div id="related-results"&gt;<br>        &lt;h2&gt;Blah blah blog&lt;/h2&gt;<br>        <a href="#" rel="nofollow noopener" title="#">[hide]</a><br>    &lt;/div&gt;</code> <br>and :<br><code>$(function() {<br>  $('a.close').click(function() {<br>  $('#' + $(this).attr('tergetID')).slideUp();<br>  });<br>});</code></p>

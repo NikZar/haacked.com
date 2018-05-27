@@ -1,0 +1,6 @@
+id: dsq-2334232758
+date: 2015-10-29T21:17:11.0000000-07:00
+author: HiThere9
+email: ht9@yopmail.com
+gravatar: cbac23dca82acb58d50f8035c2a8bc14
+message: "<blockquote><br>UPDATE: I just now learned from @jspahrsummers that git show cc5b002a works just as well and in my shell gives you the color coded diff. The merge commit generally won't contain any content except for the conflict resolution.<br><br><blockquote>git show cc5b002a</blockquote></blockquote><p>So, the short version is just: </p><pre><code>git show @</code></pre>"

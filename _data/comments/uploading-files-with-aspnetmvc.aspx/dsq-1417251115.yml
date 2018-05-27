@@ -1,0 +1,6 @@
+id: dsq-1417251115
+date: 2014-06-03T00:50:30.0000000-07:00
+author: Ghuk
+email: ghukasg@gmail.com
+gravatar: 2f95766703c3409f0d26b7d6a4b3a517
+message: <p>You should use IEnumerable&lt;httppostedfilebase&gt; as a parameter type in your controller action. This is mentioned in the post.</p>

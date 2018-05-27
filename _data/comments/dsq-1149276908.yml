@@ -1,0 +1,6 @@
+id: dsq-1149276908
+date: 2013-12-03T12:27:12.0000000-08:00
+author: Travis Illig
+email: tillig@paraesthesia.com
+gravatar: 5b473ad19f5781cd5f17a65a670f3b37
+message: <p>It appears that somehow you get "...blah.aspx" to redirect to "...blah.aspx/" and Jekyll just doesn't care. Is that Jekyll magic or something you had to do?</p>

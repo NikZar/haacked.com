@@ -1,0 +1,6 @@
+id: dsq-2754563019
+date: 2016-06-28T03:05:39.0000000-07:00
+author: Nyerguds
+email: nyerguds@gmail.com
+gravatar: 506a37c8660a6faa6382086e4a538811
+message: <p>Reference and value are unrelated to being nullable; String is nullable after all, and it is immutable just like DateTime.</p><p>You know there's this really simple shortcut for "Nullable&lt;datetime&gt;", right? Just use "DateTime?"</p>

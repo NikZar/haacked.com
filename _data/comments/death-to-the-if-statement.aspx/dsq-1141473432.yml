@@ -1,0 +1,6 @@
+id: dsq-1141473432
+date: 2013-11-27T09:00:22.0000000-08:00
+author: Anonymous
+email: no@no.com
+gravatar: 4c8a9bec5a27b66b28d3c5cddeb70e93
+message: <p>Enumerable.Empty&lt;int&gt;().PadEnd(8).Count() // infinite loop.  Why make this possible?</p>

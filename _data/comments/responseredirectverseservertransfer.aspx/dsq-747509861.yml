@@ -1,0 +1,6 @@
+id: dsq-747509861
+date: 2005-05-08T09:01:00.0000000-07:00
+author: Sandy
+email: sandy@wordpress.disqus.net
+gravatar: 0e236881b1677e230bac22c4396c9974
+message: <p>another difference:<br><br>Srever.transfer stops the execution of the current page and starts the execution of the page that it transfers while response.redirect the current page is fully executed.</p>

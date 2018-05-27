@@ -1,0 +1,6 @@
+id: dsq-747531593
+date: 2010-03-02T05:15:36.0000000-08:00
+author: Tim S
+email: tim.savage@poweredbypenguins.org
+gravatar: 2f628263a3b0ec5fc3198c21c8ab79f7
+message: <p>Is ASP.NET MVC going to get a release built for C# 4.<br>Currently having a bit of a dependency nightmare building an extension for MVC that needs to support both MVC2 and Entity Framework 4.<br></p>

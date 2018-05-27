@@ -1,0 +1,6 @@
+id: dsq-747530689
+date: 2009-11-20T21:21:00.0000000-08:00
+author: Sergejus
+email: sergejus@wordpress.disqus.net
+gravatar: 8abc0baa27a2a4333f308ff1eb447039
+message: <p>The more I see how MUCH work client side validation involves, the more I'm thinking to go with the pseudo client side validation aka executing serverside method via Ajax, validating input and returning errors via Ajax as well...<br>Is it any build-in validator for this?</p>

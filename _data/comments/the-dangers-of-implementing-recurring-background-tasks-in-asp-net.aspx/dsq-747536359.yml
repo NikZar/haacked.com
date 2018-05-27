@@ -1,0 +1,6 @@
+id: dsq-747536359
+date: 2011-10-16T19:03:26.0000000-07:00
+author: Saeed Neamati
+email: me@nefcanto.com
+gravatar: 2de6bd7ec436bb58a82e0b644b1d5426
+message: <p>I was doing recurring background tasks in 2 applications (running another thread and executing a method every x minutes), and I had no crash till now at all.<br>Though, seems that I was a lucky guy. I think a better, easier approach is to let a windows server (or another single ASP.NET application) run the recurring task. This is easier to me.<br>Thanks.</p>

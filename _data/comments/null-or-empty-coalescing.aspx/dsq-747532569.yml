@@ -1,0 +1,6 @@
+id: dsq-747532569
+date: 2010-06-17T20:14:58.0000000-07:00
+author: Mauricio
+email: mauricioscheffer@gmail.com
+gravatar: eeb2fbb30532904e05b670840e85219b
+message: <p>I actually use such an operator in F# :<br><code><br>let (&lt;||&gt;) a b = if String.IsNullOrWhiteSpace a then b else a<br>let value = argument &lt;||&gt; "default"<br></code><br>And since operators are regular functions and functions are regular variables I can scope it so I don't disturb outside code with my non-standard operators.</p>

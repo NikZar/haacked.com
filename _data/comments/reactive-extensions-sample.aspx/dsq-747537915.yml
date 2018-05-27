@@ -1,0 +1,6 @@
+id: dsq-747537915
+date: 2012-04-09T05:48:59.0000000-07:00
+author: Steve W
+email: steve@rowanbeach.com
+gravatar: 4fbd0403c38b428460a0f36ca7c964f5
+message: <p>I used Rx on a Silverlight / WCF project a while ago and it really simplified the client side service aggregation code and various other bits in the UI - it's a really nice way to write async code :)</p>

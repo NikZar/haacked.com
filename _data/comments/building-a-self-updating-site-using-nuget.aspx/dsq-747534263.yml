@@ -1,0 +1,6 @@
+id: dsq-747534263
+date: 2011-01-19T00:47:13.0000000-08:00
+author: Hans Kruse
+email: kruse@hanskruse.eu
+gravatar: db0cfdb1b1e93abae6a02dd3b79675f3
+message: <p>Can this be easily transformed into something useful for use from msbuild?<br> Now using nuget in VS.NET but a  "sharedlibs" folder on the TFS buildserver due to lack of time. <br></p>

@@ -1,0 +1,6 @@
+id: dsq-747529872
+date: 2009-10-14T09:16:00.0000000-07:00
+author: Quiz
+email: quiz@wordpress.disqus.net
+gravatar: 4fb431ea981a1486d7280c33c650102c
+message: <p>public dynamic Data {<br>    get {<br>      return _viewData ?? (_viewData = new DynamicViewData(ViewData));<br>    }<br>  }<br>:)</p>

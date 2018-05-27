@@ -1,0 +1,6 @@
+id: dsq-747511522
+date: 2005-04-15T22:23:00.0000000-07:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>What I meant was I changed the code slightly to use an intermediate variable.  For example,<br><br><br><br>bool y == (x == SqlInt.Null);<br><br><br><br>That didn't compile so I tried:<br><br><br><br>object y == (x == SqlInt.Null);<br><br><br><br>Then in the debugger I checked the type of y.  Sure enough, it was SqlBoolean.</p>

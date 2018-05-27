@@ -1,0 +1,6 @@
+id: dsq-747510598
+date: 2005-01-02T13:53:00.0000000-08:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>Good point.  A constant variable is an oxymoron, which is fitting as I'm a moron who went to Oxy (Occidental College).<br><br><br><br>In any case, I think using the const keyword to hold configuration like values will be a hard habit to break.</p>

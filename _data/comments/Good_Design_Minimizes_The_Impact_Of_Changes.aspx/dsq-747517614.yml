@@ -1,0 +1,6 @@
+id: dsq-747517614
+date: 2006-11-13T05:42:39.0000000-08:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Right now I'm looking at NHibernate and Subsonic as options.  I'm kinda leaning towards Subsonic because I think it'll be faster to implement.  Especially with Rob Conery helping out.<br>As for parameterized queries, they can be just as fast if not faster than Stored Procedures. Just not the first time you run them.</p>

@@ -1,0 +1,6 @@
+id: dsq-747525072
+date: 2008-07-25T00:22:13.0000000-07:00
+author: Barry
+email: bc2m@btinternet.com
+gravatar: a5c3617977e7460d48b999e963c5bdf9
+message: <p>ARen't you in danger of thinking MVC is a screwdriver, when it's really just a hammer?  I thought the whole point of MVC was to completely seperate view issues from the model.  Surely JQuery is the answer here, otherwise you're going back to mixing display matters in with business stuff?  I find this whole thread confusing now, having been discussing with my team switching to MVC in order to separate presentation from business.  Perhaps someone can tell me what I've missed?</p>

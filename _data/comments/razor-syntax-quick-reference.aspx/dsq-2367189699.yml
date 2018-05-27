@@ -1,0 +1,6 @@
+id: dsq-2367189699
+date: 2015-11-18T14:36:57.0000000-08:00
+author: byock
+email: byockbrain@yahoo.com
+gravatar: e0bc8cbe47d32e18adf34abd77dae7c6
+message: "<p>how can i call a javascript initialize function in razor?</p><p>example:</p><p>&lt;script type=\"text/javascript\"&gt;<br>      var appImageUpload = {<br>        'initialize': function () { alert(\"test only to check if this works. I need this function to be inside a variable\"); },<br>},<br>&lt;/script&gt;</p><p>@{<br>          Html.Telerik().ScriptRegistrar().Scripts(s =&gt; s.AddSharedGroup(\"checkScripts\")).OnDocumentReady(<br>              @&lt;text&gt;<br>                   appImageUpload.init2();<br>          &lt;/text&gt;<br>    );<br>      }</p><p>-- but it doesnt work.....it isn't throwing the alert that i expect....is my code correct?</p>"

@@ -1,0 +1,6 @@
+id: dsq-747535365
+date: 2011-06-02T17:59:01.0000000-07:00
+author: Paul Knopf
+email: theonlylawislove@gmail.com
+gravatar: 57371bcaddaa3fc46e2095bf947b2cb4
+message: <p>Why have DI for httmodules though? Testability? Who tests httpmodules?</p>

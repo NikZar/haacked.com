@@ -1,0 +1,6 @@
+id: dsq-747526855
+date: 2008-11-05T16:59:30.0000000-08:00
+author: Dan Atkinson
+email: dan@dan-atkinson.com
+gravatar: 923164a150f414e076b32c4c6bbfecab
+message: <p>This would be extremely useful, if only sub-controllers were part of the core (not just community projects like MVCContrib), which would then allow me to cache multiple actions rendered inside the master page.</p>

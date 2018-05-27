@@ -1,0 +1,6 @@
+id: dsq-838237417
+date: 2013-03-22T02:12:37.0000000-07:00
+author: SP
+email: saarp0@gmail.com
+gravatar: 544276e94455fea1fb3b2fbb3a06d3b3
+message: <p>The RouteDebugger class is not included in the NuGet package for some reason. I just extracted the RewriteRulesForTesting() function and included it in the global.asax.cs. Sorry for the screencap. Forum kept munging the formatting.</p>

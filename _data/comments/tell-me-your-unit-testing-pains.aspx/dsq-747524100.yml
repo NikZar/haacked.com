@@ -1,0 +1,6 @@
+id: dsq-747524100
+date: 2008-02-05T23:26:44.0000000-08:00
+author: David Fauber
+email: battaile@gmail.com
+gravatar: d1ddaf9e384dd15d23800fedb0668ae1
+message: <p>Its very difficult to test anything in the template area of a WebForms page or user control.  Its possible to do by calling on Execute on the Server object (which requires HttpContext) and caching the output,but still very painful.  (although you could easily just say "use mvc instead", webforms is going to stick around)</p>

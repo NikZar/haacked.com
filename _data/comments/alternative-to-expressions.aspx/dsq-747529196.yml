@@ -1,0 +1,6 @@
+id: dsq-747529196
+date: 2009-06-02T01:45:00.0000000-07:00
+author: configurator
+email: configurator@wordpress.disqus.net
+gravatar: 7a3f6e56376794788692a5ff62fd2027
+message: <p>Phil, how about generating a class for the links?<br>For instance, if you have a controller in Controllers.HomeController, you could generate a class in the same namespace Controllers.HomeLinks or Controllers.HomeControllerLinks, which would be used like this:<br>HomeLinks.About(122)</p>

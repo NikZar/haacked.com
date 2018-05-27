@@ -1,0 +1,6 @@
+id: dsq-747535244
+date: 2011-05-22T07:41:01.0000000-07:00
+author: David Fowler
+email: david.fowler@microsoft.com
+gravatar: 9d6161f7a9eaf37fa9df33b656d870b7
+message: <p>@Kyralessa But suppose you wanted only a subset of projects or ones that ended with *test? The beauty of the ps commands isn't just what they can do, it's how smaller commands can be composed to build more complex commands (See MvcScaffolding). So I with Format-Document you can do:<br># Format all test projets<br>Get-Project *.Test | Format-Document</p>

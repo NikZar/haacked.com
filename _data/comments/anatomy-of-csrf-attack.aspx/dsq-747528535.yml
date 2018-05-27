@@ -1,0 +1,6 @@
+id: dsq-747528535
+date: 2011-10-11T00:43:07.0000000-07:00
+author: Pat James
+email: patja@hotmail.com
+gravatar: cf5be907f3bff0fa48980e7bfe5bf009
+message: <p>Given the caveat that this method protects you only in scenarios where the client is a "trusted browser", I would suggest that the presence of a RequestVerificationToken hidden form field is a bright burning beacon announcing to any motivated blackhat "here I am, I have something of value I thought was worth trying to protect".  Any motivated hacker will be aware of the flaw in this protection, and certainly won't need to rely on trusted browsers as tools for his attack.</p>

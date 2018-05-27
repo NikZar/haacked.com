@@ -1,0 +1,6 @@
+id: dsq-747532127
+date: 2010-05-06T10:03:36.0000000-07:00
+author: Sam
+email: sam.critchley@shivam.com.au
+gravatar: d7adf53d34daf9e3a30dec2f97e5849d
+message: <p>If the IList is empty does this code fail with an out of bounds exception?<br>&lt;%<br>  var properties = ModelMetadata.FromLambdaExpression(m =&gt; m[0], ViewData)<br>    .Properties<br>    .Where(pm =&gt; ShouldShow(pm, ViewData));<br>%&gt;</p>

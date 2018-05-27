@@ -1,0 +1,6 @@
+id: dsq-747530022
+date: 2009-09-25T12:26:00.0000000-07:00
+author: Andrey Shchekin
+email: andrey_shchekin@wordpress.disqus.net
+gravatar: d418f286f836f6417608dc11ccb456f7
+message: <p>This is nice, but I think this is the only explicitly HTML-targeted feature in the forms engine (which can actually be used to output XML, JSON, text, etc).<br>Maybe something like IEscapedString with IsEscapedFor(useCase) would be better? With HtmlString being one implementation and HtmlAttributeString, XmlString, etc -- other variants.</p>

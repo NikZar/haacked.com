@@ -1,0 +1,6 @@
+id: dsq-747534501
+date: 2011-02-21T01:21:38.0000000-08:00
+author: Martin
+email: tinu44@gmail.com
+gravatar: 2963925cb18ad14f4a2d9c3a53578dd7
+message: <p>Why are the methods of Html5Helper implemented as extension methods instead of "normal" methods? Is there any advantage?</p>

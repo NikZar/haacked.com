@@ -1,0 +1,6 @@
+id: dsq-747535183
+date: 2011-05-09T21:19:42.0000000-07:00
+author: Marnix van Valen
+email: marnix@alanta.nl
+gravatar: 47ab6b5f378e25e3b3ecd2e215ec3c83
+message: <p>If you're also building deployment packages on your build server you may want to add </p><p><br><code>&amp;lt;RemoveDir Directories="$(BaseIntermediateOutputPath)" /&amp;gt;</code><br></p><p>This circumvents a problem caused by the deployment package build leaving it's intermediate output (including web.config) in the intermediate output folder. There's more on this at StackOverflow <a href="http://stackoverflow.com/q/5271320/64096" rel="nofollow noopener" title="http://stackoverflow.com/q/5271320/64096">here</a> and <a href="http://stackoverflow.com/q/2566215/64096" rel="nofollow noopener" title="http://stackoverflow.com/q/2566215/64096">here</a>.</p>

@@ -1,0 +1,6 @@
+id: dsq-747526568
+date: 2008-11-30T15:46:18.0000000-08:00
+author: KevinUK
+email: gravatar@kevinuk.co.uk
+gravatar: ed3a0f8b02a5ac30d826c5576ae9ac78
+message: <p>I have fixed my issue. This line needed correcting to:<br>&lt;%=Html.Hidden("product.Category.Index",i) %&gt;</p>

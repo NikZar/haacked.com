@@ -1,0 +1,6 @@
+id: dsq-747534833
+date: 2011-04-12T22:45:43.0000000-07:00
+author: Yarx
+email: nick@intellitive.ca
+gravatar: 1816770d604f57f4007093558ef76ec4
+message: <p>I was hoping this tools update would fix my issue, maybe you know the reason for this. Why do Model classes defined in a separate project referenced by the main MVC application not show up in the list of Model classes when trying to add a new View (in order to generate the view via scaffolding). I get classes in the list from pre-compiled 3rd party libraries like nHibernate, Castle, WebActivator, log4net and even other classes in my own namespace defined in the MVC3 application, but not any of the ones defined in my project reference library that has my Models.</p>

@@ -1,0 +1,6 @@
+id: dsq-747511406
+date: 2005-04-05T21:38:00.0000000-07:00
+author: Dimitri Glazkov
+email: dimitri_glazkov@wordpress.disqus.net
+gravatar: 4da87070f4db0f902367bb70316210cc
+message: <p>Guys, whatever markup you do, please, I beg you, don't create empty divs. It's like a sentence with only a period in it. Think structurally, think semantically :)</p>

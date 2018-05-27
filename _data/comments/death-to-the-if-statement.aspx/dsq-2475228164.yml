@@ -1,0 +1,6 @@
+id: dsq-2475228164
+date: 2016-01-24T09:07:17.0000000-08:00
+author: Edson Medina
+email: edsonmedina@gmail.com
+gravatar: 23fed711bf4f6454a1bc890f7f4d3d7a
+message: "<p>Ternary operations aren't much better.</p><p>While there's no problem with:</p><p>var foo = condition ? val1 : val2;</p><p>It's a whole different story with:</p><p>var foo = class.someFunction() ? class.getThing() : class.getDifferentThing();</p>"

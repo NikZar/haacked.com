@@ -1,0 +1,6 @@
+id: dsq-747532661
+date: 2010-07-18T20:20:11.0000000-07:00
+author: Kevin Major
+email: kevinmajor1@gmail.com
+gravatar: 2dbd93a1c63c93bf5ff77c47387b3acc
+message: "<p>Quick question: what if you want another controller method to handle the upload?  What would one have to specify as the path for the form's action attribute?  Simply '/controller/method'?</p>"

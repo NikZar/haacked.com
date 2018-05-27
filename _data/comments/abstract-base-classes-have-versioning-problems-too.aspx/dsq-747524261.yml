@@ -1,0 +1,6 @@
+id: dsq-747524261
+date: 2008-02-22T05:48:01.0000000-08:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Wade, the original implemention will have it by way of the fact you added the method to the base class. Assuming you either do assembly redirection to the new version OR if the version number of the framework doesn't change.</p>

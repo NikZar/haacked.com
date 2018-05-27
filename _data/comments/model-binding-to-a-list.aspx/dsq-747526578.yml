@@ -1,0 +1,6 @@
+id: dsq-747526578
+date: 2009-01-27T21:14:09.0000000-08:00
+author: Bal
+email: balbir.chahal@cantono.com
+gravatar: 75ae57d357dc270e213036fafc4383a6
+message: <p>Is this feature still supported in the release candidate? I had it working in MVC Beta but after upgrading, it does not work. The collection is simply null in the action method.</p>

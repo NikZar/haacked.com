@@ -1,0 +1,6 @@
+id: dsq-3110351787
+date: 2017-01-20T13:52:09.0000000-08:00
+author: Jay
+email: jaymare48@gmail.com
+gravatar: ce871a886b8b37b3777897df5bbb0c59
+message: <p>What if you come across a tag with a bunch of white space in it like this "&lt;   div  /&gt;". Is there a way to modify the above regex to accommodate for this?</p>

@@ -1,0 +1,6 @@
+id: dsq-747535105
+date: 2011-04-28T06:28:03.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Craig, you mean to not run on POST actions? You could look at the <code>ControllerContext.HttpContext.Request.Method</code> property.</p>

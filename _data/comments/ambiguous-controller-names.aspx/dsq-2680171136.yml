@@ -1,0 +1,6 @@
+id: dsq-2680171136
+date: 2016-05-17T07:35:43.0000000-07:00
+author: Divyesh Kinariwala
+email: divyeshkinariwala1992@gmail.com
+gravatar: 5103bcb07a64f337334f236fbc5caedc
+message: <p>your suggestion is good. but how you can render that view when you use Html.RenderAction("Index","Home") in your layout page. because i have issue with this and i also added namespace in both cs file i.e Routeconfig.cs and other one is my area</p>

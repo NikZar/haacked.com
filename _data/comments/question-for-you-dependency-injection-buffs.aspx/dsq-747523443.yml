@@ -1,0 +1,6 @@
+id: dsq-747523443
+date: 2007-11-26T17:50:03.0000000-08:00
+author: Nigel Sampson
+email: nigel.sampson@gmail.com
+gravatar: b8727c4e2f28f708cf4661c5efe1d5dd
+message: <p>I use the Factory Support Facility from Castle Windsor to achieve exactly what you're trying here. I essentially have a "ProviderFactory" class with a method CreateMembershipProvider that instantiates it from the web.config. <br>Sorry I don't have the code with me (it's at work) but a quick search for Factory Support should get you what you're after.<br>Hope this helps.</p>

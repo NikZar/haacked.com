@@ -1,0 +1,6 @@
+id: dsq-747532128
+date: 2010-05-06T10:13:57.0000000-07:00
+author: Thomas Payne
+email: hyperions.shadow@gmail.com
+gravatar: cb8ad730f2266fda920536455d84cfdd
+message: <p>If you really want to be cool, you can rename Table.ascx to List`1.ascx.  Then you can replace Html.DisplayForModel("Table") with just Html.DisplayForModel().<br>It will also automatically use the template for any properties of type List on any of your view models.<br>Also your code dies on an empty list.  I used Model.GetType().GetGenericArguments()[0] to build my ModelMetaData so that I could still show the header row for the empty list.</p>

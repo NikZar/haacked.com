@@ -1,0 +1,6 @@
+id: dsq-747530491
+date: 2009-11-10T03:26:00.0000000-08:00
+author: Frank Quednau
+email: frank_quednau@wordpress.disqus.net
+gravatar: d7c8d45abc75b7af774b59974ff01bfe
+message: <p>Also consider the "multiple inheritance" thing in interfaces. If your interface states to implement the 2 interfaces A, B and the 2 have the same method, which one should be reflected?</p>

@@ -1,0 +1,6 @@
+id: dsq-747528028
+date: 2009-02-07T23:12:02.0000000-08:00
+author: Rob
+email: robfoulk@gmail.com
+gravatar: b88a4f31abdc7a8d884e7ed91994f36a
+message: <p>Phill,<br>Whoever you were quoting, was obviously not talking about the literal control (and probably should have specified), but some of the web controls DO encode.<br>        Dim gv As New GridView<br>        Me.form1.Controls.Add(gv)<br>        Dim lst() As String = {"[insert javascript alert here]", "test"}<br>        gv.DataSource = lst<br>        gv.DataBind()</p>

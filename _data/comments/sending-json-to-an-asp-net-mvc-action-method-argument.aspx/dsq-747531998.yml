@@ -1,0 +1,6 @@
+id: dsq-747531998
+date: 2010-08-11T02:26:34.0000000-07:00
+author: Daniel Steigerwald
+email: daniel@steigerwald.cz
+gravatar: 936cd500da722cece18c16453bd338d2
+message: "<p>JSON.stringify({ Updated: new Date() });<br>Doesn't work.</p>"

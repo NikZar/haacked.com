@@ -1,0 +1,6 @@
+id: dsq-747534073
+date: 2011-01-09T16:48:42.0000000-08:00
+author: Andrey Taritsyn
+email: taritsyn@gmail.com
+gravatar: fa358518dedf3d8c2bf1a155729b7508
+message: <p>Hi, Rodrigo!<br>Try the following code:<br>@(Html.Telerik().PanelBar()<br>.Name("PanelBar")<br>.Items(items =&gt; items<br>.Add().Content(@&lt;span&gt;This is content inside a method&lt;/span&gt;)<br>)<br>)<br>In Telerik Blogs is a good article on this subject - <a href="http://blogs.telerik.com/blogs/posts/10-08-04/cutting_edge_meets_razor.aspx" rel="nofollow noopener" title="http://blogs.telerik.com/blogs/posts/10-08-04/cutting_edge_meets_razor.aspx">blogs.telerik.com/...</a>.<br></p>

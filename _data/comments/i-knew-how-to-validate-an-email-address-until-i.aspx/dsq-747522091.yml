@@ -1,0 +1,6 @@
+id: dsq-747522091
+date: 2008-11-10T13:25:13.0000000-08:00
+author: Mark
+email: haacked.com.markie1@dfgh.net
+gravatar: 182833167c826ae06d7174f2a234e948
+message: <p>one more correction:<br><code>$pat = "/^(([\w!#$%&amp;'*+\-\/=?^`{|}~]+\.)*([\w!#$%&amp;'*+\-\/=?^`{|}~]|\\.)+";<br>$pat .= "|\"([^\"]|\\.)*\")";</code><br>should be [supposing "johndoe@machine3\"@domain.com is not valid]<br><code>$pat = "/^(([\w!#$%&amp;'*+\-\/=?^`{|}~]+\.)*([\w!#$%&amp;'*+\-\/=?^`{|}~])+";<br>$pat .= "|\"([^\"\\]|\\.)*\")";</code><br>then it'll need full utf-8 support..<br></p>

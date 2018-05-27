@@ -1,0 +1,6 @@
+id: dsq-1115454738
+date: 2013-11-09T06:57:32.0000000-08:00
+author: Alenas
+email: al3nas@gmail.com
+gravatar: 27bce0ab828d29996c00339b8175a351
+message: <p>I guess you did not understand what I mean. I will try to illustrate. <br>If you read the description of the problem, then it says "...If the number of elements I needed was larger than the number of elements in the array, I needed to pad the remaining space in the resulting array with zeros...".<br>Logical interpretation of that, is to a) take an array elements and b) pad remaining space.<br>So the first sample code does not solve the problem in a way it was described. It means developer was not thinking about the problem and was not putting effort into understanding the problem - up to you if you are happy with a code which is hard to understand...</p>

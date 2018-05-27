@@ -1,0 +1,6 @@
+id: dsq-747521247
+date: 2007-06-21T23:30:45.0000000-07:00
+author: Travis Illig
+email: tillig@paraesthesia.com
+gravatar: 5b473ad19f5781cd5f17a65a670f3b37
+message: <p>Mocking MapPath is no problem with TypeMock.  (Again, maybe not your cup of tea, but it does mock pretty much anything with the exception of a few of the System objects.)</p>

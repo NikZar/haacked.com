@@ -1,0 +1,6 @@
+id: dsq-747511584
+date: 2007-04-03T22:45:24.0000000-07:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Well as long as you quote the src part, it should work fine. For example:<br>  <code>&lt;img src="there is a space.html" /&gt;</code><br>Will be matched just fine.<br>  <code>&lt;img src=there is a space.html /&gt;</code><br>Will assume src="there" because there's no way to know whether "is" is the next attribute or part of the src value.</p>

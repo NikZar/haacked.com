@@ -1,0 +1,6 @@
+id: dsq-1120763685
+date: 2013-11-12T22:37:13.0000000-08:00
+author: Matteo Ferrando
+email: matteo.ferrando2@gmail.com
+gravatar: a1ed120c8ab66ed191f289cafa0b58ee
+message: <p>in Haskell:</p><p></p><pre><code>padded i ls = take i (ls ++ repeat 0)</code></pre><p></p><p>Now there is no doubt of what's happening</p>

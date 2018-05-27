@@ -1,0 +1,6 @@
+id: dsq-747527477
+date: 2008-12-16T22:21:19.0000000-08:00
+author: Bryan Watts
+email: bwatts@gmail.com
+gravatar: 6bc4dfa774c16ad5698a6fccc79e7482
+message: <p>It's the poor-man's anonymous interface implementation. I've used it quite a bit with functional constructs in C#, especially Linq-related.<br>It seems to fit quite nicely into ASP.NET MVC.</p>

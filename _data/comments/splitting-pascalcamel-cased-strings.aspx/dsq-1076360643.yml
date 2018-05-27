@@ -1,0 +1,6 @@
+id: dsq-1076360643
+date: 2013-10-09T08:11:16.0000000-07:00
+author: AdrianJSClark
+email: adrian@ayds.com.au
+gravatar: cba76bc25c8e6b53f5be402fb1070e34
+message: <p>This solution is great if you only need it in a few places. If you have requirements to perform these kinds of conversions extensively I suggest checking out "Humanizer" by Mehdi Khalili. It is available on GitHub <a href="https://github.com/MehdiK/Humanizer" rel="nofollow noopener" title="https://github.com/MehdiK/Humanizer">https://github.com/MehdiK/H...</a> and, more importantly, on NuGet <a href="https://www.nuget.org/packages/Humanizer/" rel="nofollow noopener" title="https://www.nuget.org/packages/Humanizer/">https://www.nuget.org/packa...</a></p><p>This allows you to convert from pascal or camel-cased enum values into spaced strings with various casing options (e.g. "Title Case" or "Sentence case"). It has a neat party trick though, which is that it can convert back (e.g. "Butt Ugly" =&gt; UglinessFactor.ButtUgly)</p>

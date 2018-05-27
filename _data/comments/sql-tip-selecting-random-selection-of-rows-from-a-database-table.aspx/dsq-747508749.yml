@@ -1,0 +1,6 @@
+id: dsq-747508749
+date: 2005-04-12T03:33:00.0000000-07:00
+author: SCollege
+email: scollege@wordpress.disqus.net
+gravatar: 62a8c0c75c39fae426c5c479f9b0d831
+message: <p>It does not seem to work well with SQL Server 2000, in that the records do not appear to be random. Repeatably executing the query always returns the same rows.</p>

@@ -1,0 +1,6 @@
+id: dsq-747510399
+date: 2008-04-09T11:55:02.0000000-07:00
+author: mick
+email: mick@nowhere.com
+gravatar: f6d47d5c4028b94df560a1627887a067
+message: <p>volatile bools are primative. Use ManualResetEvent instead.</p>

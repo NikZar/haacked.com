@@ -1,0 +1,6 @@
+id: dsq-747529434
+date: 2009-06-25T23:42:00.0000000-07:00
+author: Andrey Shchekin
+email: andrey_shchekin@wordpress.disqus.net
+gravatar: d418f286f836f6417608dc11ccb456f7
+message: <p>I would say that the best solution lies on browser side. My understanding is that Array constructor is already blocked, so the browser vendors should just block property definitions on Object.prototype (it is a bad practice to extend it anyway).</p>

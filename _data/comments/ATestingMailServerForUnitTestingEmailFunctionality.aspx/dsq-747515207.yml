@@ -1,0 +1,6 @@
+id: dsq-747515207
+date: 2006-05-31T11:51:00.0000000-07:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>Good point, but there are some specific scenarios that a mock cannot test as well as having access to the underlying SMTP message.<br><a href="http://haacked.com/archive/2006/05/31/WhatDoesMyTestingMailServerTestThatAMockWouldNot.aspx" rel="nofollow noopener" title="http://haacked.com/archive/2006/05/31/WhatDoesMyTestingMailServerTestThatAMockWouldNot.aspx">http://haacked.com/archive/...</a></p>

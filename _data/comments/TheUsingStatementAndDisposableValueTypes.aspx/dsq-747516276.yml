@@ -1,0 +1,6 @@
+id: dsq-747516276
+date: 2006-08-13T12:59:34.0000000-07:00
+author: dhananjay singh (dhananjay123@
+email: dhananjay123@hotmail.com
+gravatar: 8747747c4b74a9de065252e063600391
+message: <p>It is very clear from the implementation of method<br>public void DisoseIt(IDisposable disposable)<br>{<br>    disposable.Dispose();<br>}<br>that variable "disposable" is going to be on heap only, no matter who call it, after all IDisposable is not VALUE type.</p>

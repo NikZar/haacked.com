@@ -1,0 +1,6 @@
+id: dsq-747515492
+date: 2006-06-26T20:53:00.0000000-07:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>Simone, HttpModules also use this approach, which was my original inspiration in thinking about why this approach works nicely.</p>

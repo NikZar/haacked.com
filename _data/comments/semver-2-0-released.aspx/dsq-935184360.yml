@@ -1,0 +1,6 @@
+id: dsq-935184360
+date: 2013-06-19T02:33:06.0000000-07:00
+author: dominictarr
+email: dominic.tarr@gmail.com
+gravatar: 8225d7ca5e83a3f9f0bb89a61d5df72c
+message: <p>Right. Build metadata was called build number before, and compared lexicographically. but now, if it's .3 (say) then the numerical portion is compared as a number, not a string.<br>in some cases, this changes the order of some semver versions, and so therefore this IS a breaking change.</p><p>Great. I was just confused because the text wasn't explicit enough.</p><p>Carry on!</p>

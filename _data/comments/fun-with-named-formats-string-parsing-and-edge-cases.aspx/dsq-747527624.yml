@@ -1,0 +1,6 @@
+id: dsq-747527624
+date: 2009-01-04T22:05:13.0000000-08:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Atif good point about the regex creation perf cost. That brings his method up to speed so its more usable, but it still doesn't pass all my unit tests.</p>

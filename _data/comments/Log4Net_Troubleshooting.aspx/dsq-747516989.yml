@@ -1,0 +1,6 @@
+id: dsq-747516989
+date: 2012-01-15T00:45:36.0000000-08:00
+author: John A Davis
+email: hikedance@gmail.com
+gravatar: 7a5ebfc98dc69621291ef7bfc6ffda99
+message: <p>Boy, log4net is a tangled web. It's almost harder to configure than the web application that it is logging. I have yet to figure it out. I can easily write to a text file or send an email with regular code.</p>

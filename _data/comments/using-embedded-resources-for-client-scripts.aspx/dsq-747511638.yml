@@ -1,0 +1,6 @@
+id: dsq-747511638
+date: 2006-08-03T18:19:00.0000000-07:00
+author: Michael Freidgeim
+email: michael_freidgeim@wordpress.disqus.net
+gravatar: 48446e96268f6d6c052bf80e26a8799c
+message: <p>Your UnpackScript(string scriptName, string scriptLanguage) doesn't use scriptLanguage,but hardcoded it to Javascript</p>

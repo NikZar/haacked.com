@@ -1,0 +1,6 @@
+id: dsq-747516485
+date: 2006-08-29T17:55:05.0000000-07:00
+author: Damien Guard
+email: damien@envytech.co.uk
+gravatar: dc72963e7279d34c85ed4c0b731ce5a9
+message: <p>There is a full mobile device emulator included with VisualStudio 2005.<br>Just use Tools &gt; Device Emulator Manager.<br>Pick something you wan to emulate with, start it.  Then configure the networking and you're done.<br>[)amien</p>

@@ -1,0 +1,6 @@
+id: dsq-1131507536
+date: 2013-11-20T10:40:36.0000000-08:00
+author: Kyle Szklenski
+email: kyle.szklenski@gmail.com
+gravatar: 9902735366cd9dfe6b27eadfba31cef9
+message: "<p>My \"a-ha\" moment came when I was writing parsers back in the good ol' C++ days of ought eight: If you write a parser that is all control statements, you're simply doing it wrong, and begging for death-by-kluge.</p>"

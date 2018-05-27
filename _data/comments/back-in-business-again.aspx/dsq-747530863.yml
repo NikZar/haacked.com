@@ -1,0 +1,6 @@
+id: dsq-747530863
+date: 2009-12-14T01:16:57.0000000-08:00
+author: Damien Guard
+email: damien@envytech.co.uk
+gravatar: dc72963e7279d34c85ed4c0b731ce5a9
+message: <p>They should be backing up the VM's as if they were real machines - i.e. connecting to their filesystems and backing up the contents - not attempting to backup the VHD's on the host.<br>[)amien</p>

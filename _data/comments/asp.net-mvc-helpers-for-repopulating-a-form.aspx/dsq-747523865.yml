@@ -1,0 +1,6 @@
+id: dsq-747523865
+date: 2007-12-25T16:19:54.0000000-08:00
+author: rarouš
+email: rarous@gmail.com
+gravatar: a11e9e8913e4833206e263663dec96eb
+message: <p>Hi, I have testing issue with TempData. In test runner it's null. How can I inject mock of TempDataDictionary? <br>Thanx</p>

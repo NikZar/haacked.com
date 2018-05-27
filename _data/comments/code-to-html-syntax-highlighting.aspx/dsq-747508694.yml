@@ -1,0 +1,6 @@
+id: dsq-747508694
+date: 2005-03-10T02:22:00.0000000-08:00
+author: pblah
+email: pblah@wordpress.disqus.net
+gravatar: 5f1b1826077b314f2378bec895711cb1
+message: <p>dim obj as object<br><br><br><br>with obj<br><br>.first = "xx"<br><br>.last = "yy"<br><br>.id =2<br><br>end with<br><br><br><br>obj = nothing<br><br></p>

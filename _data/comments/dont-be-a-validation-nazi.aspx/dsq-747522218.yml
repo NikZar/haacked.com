@@ -1,0 +1,6 @@
+id: dsq-747522218
+date: 2007-09-04T03:51:31.0000000-07:00
+author: FrankC
+email: jfcarr@msn.com
+gravatar: 55fd4fda0129242f31572e2e56d64e37
+message: <p>Good point on the email address validation. However, it seems like most of the time I'm handed the requirement to include this validation on the desktop apps and web apps I write. If I can cover whatever the sponsoring user thinks a valid email should be, then they're happy. I prefer to leave it as a free-form entry if I can though.</p>

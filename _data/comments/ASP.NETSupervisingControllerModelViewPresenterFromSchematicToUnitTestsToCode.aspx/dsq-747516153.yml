@@ -1,0 +1,6 @@
+id: dsq-747516153
+date: 2006-10-01T22:27:35.0000000-07:00
+author: Artur Carvalho
+email: artur.jorge.carvalho@hotmail.com
+gravatar: bc855958697c8f7b60a21a976fe95be1
+message: <p>IMHO there is a problem in using events instead of the " Initialize method", is the handling of exceptions. <br>What's is your approach to exception handling?</p>

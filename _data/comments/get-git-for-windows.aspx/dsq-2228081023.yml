@@ -1,0 +1,6 @@
+id: dsq-2228081023
+date: 2015-08-31T10:02:53.0000000-07:00
+author: Bernard Chen
+email: bernard.chen@gmail.com
+gravatar: 674f0b7c06d5bb9cac696c3418b4aa04
+message: <p>I encountered this as well, but in addition to using \usr\bin instead of \bin, I also needed to use c:\Program Files\ instead of c:\Program Files (x86)\. When I upgraded git through chocolatey, the 64-bit version was installed instead of the 32-bit version.</p>

@@ -1,0 +1,6 @@
+id: dsq-747528571
+date: 2009-04-03T01:21:27.0000000-07:00
+author: Remmus
+email: simon@maquiladora.co.uk
+gravatar: ca75ebe29d7127d972c52c5df9172c1d
+message: <p>Although this doesn't work<br><code><br>&lt;%@ Master ... %&gt;<br>&lt;html&gt;<br>&lt;head runat="server"&gt;<br>  &lt;title&gt;<br>    &lt;asp:ContentPlaceHolder ID="titleContent" runat="server" /&gt; - MySite<br>  &lt;/title&gt;<br>&lt;/head&gt;<br></code><br>this does work<br><code><br>&lt;%@ Master ... %&gt;<br>&lt;html&gt;<br>&lt;head&gt;<br>  &lt;title&gt;<br>    &lt;asp:ContentPlaceHolder ID="titleContent" runat="server" /&gt; - MySite<br>  &lt;/title&gt;<br>&lt;/head&gt;<br></code><br>Is there a reason you shouldn't do this?</p>

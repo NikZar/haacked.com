@@ -1,0 +1,6 @@
+id: dsq-747508785
+date: 2008-03-19T02:59:56.0000000-07:00
+author: Mike
+email: forum@briz.com
+gravatar: fe1119dfcbb8817bd53741d4e56cbe39
+message: <p>regarding the comment on unions and NewID()<br>another way besides using the view is to create a new collumn in your select, such as <br>SELECT bla1, bla2, NewID() as RandNum<br>FROM Table<br>WHERE whatever<br>UNION<br>SELECT bla1, bla2, NewID() as RandNum<br>FROM Table<br>WHERE whatever<br>ORDER BY RandNum</p>

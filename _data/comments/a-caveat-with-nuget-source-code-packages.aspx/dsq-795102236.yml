@@ -1,0 +1,6 @@
+id: dsq-795102236
+date: 2013-02-10T18:35:07.0000000-08:00
+author: Daniel15
+email: daniel@dan.cx
+gravatar: 872578c4e56897b913fd03ed88daef51
+message: <p>Distributing source code with NuGet is an interesting idea that I hadn't considered in the past. </p><p>As for JSON, I wonder if you could extract the JSON parsing code from System.Web.Helpers... I've used it in the past and it seems to work well</p>

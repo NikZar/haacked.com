@@ -1,0 +1,6 @@
+id: dsq-933476253
+date: 2013-06-17T12:23:11.0000000-07:00
+author: Timothy Boyce
+email: tboyce.mmg@gmail.com
+gravatar: 3febedf870841586c3df20e6b4931e9f
+message: <p>What exactly do you mean by partial function? ToDictionary does exactly what I would expect it to do. Perhaps the exception could be more helpful when you give it bad data. If you really need a Dictionary, then ToLookup isn't going to work.</p>

@@ -1,0 +1,6 @@
+id: dsq-861311928
+date: 2013-04-12T14:53:47.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>ASP.NET might not guarantee that it won't shut down the AppDomain in the middle of the callback function. Might want to check with the team on that to make sure you still don't need to call RegisterObject.</p><p>Also, that doesn't help you coordinate scheduled tasks when you have a web farm with multiple servers running the same code.</p>

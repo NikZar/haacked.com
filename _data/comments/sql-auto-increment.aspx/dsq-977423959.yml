@@ -1,0 +1,6 @@
+id: dsq-977423959
+date: 2013-07-26T09:16:06.0000000-07:00
+author: Ankit
+email: ankit@example.ca
+gravatar: b0f78eaa7bfdb914690a4213851594c7
+message: '<p>You can always add a where clause to re-order a handful number of records</p><p>DECLARE @counter int<br>SET @counter = 0<br>UPDATE #tmp_Users<br>SET @counter = counter = @counter + 1</p><p>where ....</p>'

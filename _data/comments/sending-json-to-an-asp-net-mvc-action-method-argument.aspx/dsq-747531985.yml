@@ -1,0 +1,6 @@
+id: dsq-747531985
+date: 2010-04-28T10:11:54.0000000-07:00
+author: Mike
+email: mrichter@microsoft.com
+gravatar: 3efadf2cadceca363e8b85633fed346f
+message: <p>What is the json value provider using on the back end? Is it fully capable of binding json to complex object types (objects that have properties that are lists or that are other objects)?</p>

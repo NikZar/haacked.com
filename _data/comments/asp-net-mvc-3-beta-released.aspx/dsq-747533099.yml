@@ -1,0 +1,6 @@
+id: dsq-747533099
+date: 2010-10-06T02:03:22.0000000-07:00
+author: stuhin
+email: stuhin@live.ru
+gravatar: 92cfe5e16e72d74877f2c784aa0f315d
+message: <p>It is a pity that you have removed optional of @RenderSection((<br>Now @RenderSection("content",optional:true) - ERROR</p>

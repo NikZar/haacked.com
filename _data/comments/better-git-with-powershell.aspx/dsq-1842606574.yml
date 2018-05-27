@@ -1,0 +1,6 @@
+id: dsq-1842606574
+date: 2015-02-08T14:04:46.0000000-08:00
+author: Rasmus Bækgaard
+email: news@bakgaard.net
+gravatar: eb134f9cabb9606c64c440a9b8bd5555
+message: <p>"  Once you run the commands, you’ll need to close and re-open the PowerShell console for the changes to take effect." <br>Call '.$PROFILE'. that will do it for you.</p>

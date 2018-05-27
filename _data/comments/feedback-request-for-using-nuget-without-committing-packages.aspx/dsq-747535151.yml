@@ -1,0 +1,6 @@
+id: dsq-747535151
+date: 2011-05-27T02:59:59.0000000-07:00
+author: Steve Smith
+email: ssmith@nimblepros.com
+gravatar: 1ccc19f02d3c2a7b53f2e307550020ef
+message: <p>If nothing else it would be nice if package authors would produce both "full" packages (with samples, docs, etc) as well as binary only packages, so that those of us who are currently storing /packages in source control can do so without it causing excessive bloat (I'm looking at you, NServiceBus 168MB package).<br></p>

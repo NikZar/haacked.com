@@ -1,0 +1,6 @@
+id: dsq-747508763
+date: 2006-06-22T18:51:00.0000000-07:00
+author: Jay
+email: jay@wordpress.disqus.net
+gravatar: 4b37d3573e5831436a586eddbcf1a44f
+message: <p>NewID() is not a good option. However there is another way which is faster and better.<br>SELECT TOP 3 * FROM TableName ORDER BY RAND((1000 * AutoID) * DATEPART(millisecond, GETDATE()))<br>Perhaps this would help you guys.<br>Happy Coding!</p>

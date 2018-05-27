@@ -1,0 +1,6 @@
+id: dsq-747520373
+date: 2008-09-11T15:07:29.0000000-07:00
+author: Nirre
+email: nirre@wordpress.disqus.net
+gravatar: a4d0fb6321e1418f19602c084b2ac0c8
+message: <p>I have the same problem when running MOSS 2007 on IIS 7. I got it running by commenting out the IPv6 record (added by MOSS Search) in the Host File. Now its up and running.</p>

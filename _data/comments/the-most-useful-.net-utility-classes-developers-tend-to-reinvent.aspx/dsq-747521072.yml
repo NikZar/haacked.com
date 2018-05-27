@@ -1,0 +1,6 @@
+id: dsq-747521072
+date: 2007-06-13T21:27:51.0000000-07:00
+author: Jayson Knight
+email: jayson.knight@jaysonknight.com
+gravatar: 2d3f7ca99eada3d2d106845a91d49a1d
+message: <p>I find myself using the static methods on the Char type quite a bit, specifically the "Is*" methods. Environment is a dandy, and it's amazing how many devs don't know about it (I like the SpecialFolders enumeration).</p>

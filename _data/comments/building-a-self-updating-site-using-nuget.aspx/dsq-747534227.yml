@@ -1,0 +1,6 @@
+id: dsq-747534227
+date: 2011-01-15T09:24:08.0000000-08:00
+author: NC
+email: nc@wordpress.disqus.net
+gravatar: 7814fdb0eab6eebe6d43c955907c72e6
+message: <p>Where you have the title "Try it yourself" you have:<br>&lt;h2 /&gt; &lt;--- screwing up browsers.<br>&lt;h2&gt;Try it Yourself&lt;/h2&gt;<br></p>

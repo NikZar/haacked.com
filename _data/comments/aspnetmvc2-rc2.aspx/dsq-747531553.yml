@@ -1,0 +1,6 @@
+id: dsq-747531553
+date: 2010-02-04T17:42:26.0000000-08:00
+author: Mark Perry
+email: mark_perry@wordpress.disqus.net
+gravatar: 6fd1707088bd290987aba8eac5684292
+message: <p>You may want to look at the CreateAreaManifestTask and the WebFormsViewEngine to use the same paths.<br>Just had some fun with that this morning.</p>

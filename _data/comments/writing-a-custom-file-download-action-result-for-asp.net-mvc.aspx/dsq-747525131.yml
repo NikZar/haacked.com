@@ -1,0 +1,6 @@
+id: dsq-747525131
+date: 2008-05-10T09:15:24.0000000-07:00
+author: Steve
+email: steve@wordpress.disqus.net
+gravatar: 06b9bcb0cb1819245209d379f1b26260
+message: <p>I haven't downloaded these bits yet, I'm using preview 2.<br>So I wonder - how is this 'return ActionResult' going to effect things where in several instances I use a response.write from an ajax call, or where I create an excel spreadsheet and push it back to the client with response.end, etc...<br>Will I have to write a unique actionresult for each of these?<br></p>

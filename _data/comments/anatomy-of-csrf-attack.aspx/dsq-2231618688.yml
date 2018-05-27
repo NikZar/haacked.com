@@ -1,0 +1,6 @@
+id: dsq-2231618688
+date: 2015-09-02T03:58:59.0000000-07:00
+author: Swapnil
+email: swaps19@gmail.com
+gravatar: 81d9663377d2e767fbc7e9b7d208addc
+message: "<p>Code is not running and giving error, I am not a developer and want to use this demo app for testing training, please help.</p><p>Server Error in '/' Application.</p><p>Parser Error</p><p>Description: An error occurred during the parsing of a resource required to service this request. Please review the following specific parse error details and modify your source file appropriately.</p><p>Parser Error Message: Could not load type 'BankTransferWeb.MvcApplication'.</p><p>Source Error:</p><p>Line 1:  &lt;%@ Application Codebehind=\"Global.asax.cs\" Inherits=\"BankTransferWeb.MvcApplication\" Language=\"C#\" %&gt;</p><p>Source File: /global.asax    Line: 1</p>"

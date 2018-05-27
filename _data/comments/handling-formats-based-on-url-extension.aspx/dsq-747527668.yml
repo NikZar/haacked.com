@@ -1,0 +1,6 @@
+id: dsq-747527668
+date: 2009-01-06T21:45:19.0000000-08:00
+author: Mike Amundsen
+email: mamund@yahoo.com
+gravatar: e1e443781b83d5f28f1fed1b44416224
+message: <p>I agree w/ Aleš; Accept-Type is the best way to handle this. But supporting *both* is fine, too. I also second Robert's comment. Adding this kind of 'representation-awareness' to WCF is critical.</p>

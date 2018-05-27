@@ -1,0 +1,6 @@
+id: dsq-747531697
+date: 2010-02-25T04:15:18.0000000-08:00
+author: James
+email: sheldon@gmail.com
+gravatar: 81aed17718fa9e9738b291f5d9c00bab
+message: <p>Hmmm I think using the following url pattern is much simplier and solves a few problems.<br><br>~/pages/{id}/{slug}<br>where<br>~/pages/{id} <br>Redirects to the previous route.</p>

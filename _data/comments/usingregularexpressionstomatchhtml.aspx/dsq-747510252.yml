@@ -1,0 +1,6 @@
+id: dsq-747510252
+date: 2009-03-05T12:10:53.0000000-08:00
+author: Jamp Mark
+email: virgil@jampmark.com
+gravatar: c884f4358e359fc59896f1c9a0de52a8
+message: <p>Here is a regex pattern to capture the URL in anchor tag HREF.<br>/&lt;a\s+href="([^&gt;]+?)"/</p>

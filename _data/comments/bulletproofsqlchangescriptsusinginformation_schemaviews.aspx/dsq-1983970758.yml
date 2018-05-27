@@ -1,0 +1,6 @@
+id: dsq-1983970758
+date: 2015-04-23T14:14:52.0000000-07:00
+author: g2322484
+email: g2322484@trbvm.com
+gravatar: f4911d57172bfa26d32c6e83a824f21c
+message: <p>Dropping and recreating objects lose permissions granted on them, which is a serious side-effect.</p>

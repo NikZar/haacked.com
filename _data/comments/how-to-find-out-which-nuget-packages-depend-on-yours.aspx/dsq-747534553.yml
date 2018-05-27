@@ -1,0 +1,6 @@
+id: dsq-747534553
+date: 2011-02-24T18:40:40.0000000-08:00
+author: John Ludlow
+email: john.ludlow.uk@gmail.com
+gravatar: 262d6a9e28108bf4e98b8f673fead52d
+message: <p>Janier kind of beat me to this but I was thinking you need some kind of alias functionality.  That is, change the package name to Mvc2Futures, add an alias named MicrosoftWebMvc.  <br>Coupled with the ability to mark packages obsolete (Brian's suggestion), this should cover most of the common scenarios.</p>

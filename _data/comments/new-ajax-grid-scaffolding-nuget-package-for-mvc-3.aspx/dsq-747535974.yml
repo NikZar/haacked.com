@@ -1,0 +1,6 @@
+id: dsq-747535974
+date: 2011-08-17T22:32:52.0000000-07:00
+author: Thiago Custodio
+email: thiago.custodio@buildit.com.br
+gravatar: 9e015a043301323d0d72b50bd9b45dbf
+message: <p>How to do that if I'm using Dependency Injection to persist my entities? I won't have the data context class, this will be handled by my service layer that I'll inject on my controller.</p>

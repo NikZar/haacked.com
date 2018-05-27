@@ -1,0 +1,6 @@
+id: dsq-747534407
+date: 2011-02-07T09:46:09.0000000-08:00
+author: Solmead
+email: solmead@gmail.com
+gravatar: 8fef19a036ef0af5e9540037bac3ca20
+message: <p>What if I have a url:<br>/ImNew/ContactUs<br>And it uses the default route. "{controller}/{acton}/{id}"<br>I want to redirect /ImNew/ContactUs to /ImNew/Locations<br>But if I put the redirect after the default rule the redirect never gets hit.<br>Is it possible to do this?</p>

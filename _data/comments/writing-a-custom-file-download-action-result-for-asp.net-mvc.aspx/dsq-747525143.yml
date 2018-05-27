@@ -1,0 +1,6 @@
+id: dsq-747525143
+date: 2008-05-11T16:28:52.0000000-07:00
+author: Anastasiosyal
+email: anastasiosyal@hotmail.com
+gravatar: 3db7af83401caa9cfdd1dc1cceb81405
+message: "<p>ActionResult seems simple yet powerful.<br>Just a note on the \"content-disposition\" header: I'd wrap the FileDownloadName in quotes. The reason being is that Firefox will truncate the filename to the first space if the file name includes spaces and is not quoted (as per spec). <br>So you would have:<br>context.HttpContext.Response.AddHeader(\"content-disposition\", <br>        \"attachment; filename=\\\"\" + this.FileDownloadName + \"\\\"\")</p>"

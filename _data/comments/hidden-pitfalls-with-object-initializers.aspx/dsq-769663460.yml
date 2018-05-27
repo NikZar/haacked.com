@@ -1,0 +1,6 @@
+id: dsq-769663460
+date: 2013-01-15T23:26:50.0000000-08:00
+author: maciek
+email: test@wp.pl
+gravatar: 40d251efe246ec2f324bfb61c505d19e
+message: <p>In my opinion object construction is a responsibility of DI container, not your object. It solves the problem.</p>

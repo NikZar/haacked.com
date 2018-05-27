@@ -1,0 +1,6 @@
+id: dsq-747526817
+date: 2009-02-09T14:08:25.0000000-08:00
+author: Mike
+email: mike@example.com
+gravatar: 791214eb452bf4de30e957d65a0234d4
+message: <p>Phil, did you ever get this developed further? Right now I'm looking at several separate MVC web apps in my solution, but sharing masterpages and css across projects is a real pain. (I do it with a Subversion trick.) I think areas and nested areas are the best way to do what I want. Thanks!</p>

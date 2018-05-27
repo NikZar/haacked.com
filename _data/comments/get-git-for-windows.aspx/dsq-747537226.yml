@@ -1,0 +1,6 @@
+id: dsq-747537226
+date: 2011-12-20T06:48:36.0000000-08:00
+author: Bradley T. Landis
+email: bradley_t_landis@wordpress.disqus.net
+gravatar: d8fb9911e29e23a700ae1e5bb0403b08
+message: <p>I fixed mine by replacing:<br>&amp; $sshAdd<br>in the GitUtils.ps1 to:<br> $sshPath = resolve-path ~/.ssh/id_rsa<br>    <br> &amp; $sshAdd $sshPath<br></p>

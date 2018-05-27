@@ -1,0 +1,6 @@
+id: dsq-747537228
+date: 2011-12-20T06:53:07.0000000-08:00
+author: Bradley T. Landis
+email: bradley_t_landis@wordpress.disqus.net
+gravatar: d8fb9911e29e23a700ae1e5bb0403b08
+message: <p>Perry,<br>If you watch the process list in task manager, I bet your ssh-agent is starting and then stopping right away because of the way your starting it.  Try the edit to the powershell script I just posted.<br>Thanks,<br>Bradley</p>

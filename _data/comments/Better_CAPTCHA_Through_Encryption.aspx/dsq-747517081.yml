@@ -1,0 +1,6 @@
+id: dsq-747517081
+date: 2006-10-09T07:08:39.0000000-07:00
+author: Jeferson Hultmann
+email: hultmann@gmail.com
+gravatar: 361a7fff5211ce8c2f9c12d71861b089
+message: <p>hmmm... Is RijndaelManaged.CreateEncryptor thread safe?</p>

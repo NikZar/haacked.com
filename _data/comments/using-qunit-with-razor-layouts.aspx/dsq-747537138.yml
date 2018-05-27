@@ -1,0 +1,6 @@
+id: dsq-747537138
+date: 2011-12-15T18:17:53.0000000-08:00
+author: Nicholas
+email: nicholas@delioncourt.com
+gravatar: 3a2fdb5349f942718190f5063c4133aa
+message: '<p>@haacked: I cannot seem to find the source code to System.Web.Razor.dll in the MVC 3 sources or even Codeplex. I have found a project called RazorEngine but that is RazorEngine.Web.dll, not System.Web.Razor.dll and parser itself. I thought this was open-sourced? Thanks!</p>'

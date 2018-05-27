@@ -1,0 +1,6 @@
+id: dsq-747525085
+date: 2011-02-09T01:08:36.0000000-08:00
+author: Sean
+email: smcgill@nextgen.com
+gravatar: 897b7d13d5b5cc27f93a7d7ece27b6e2
+message: <p>Same question as a couple other people, is this helper usable with the Razor engine?  I've been having problems w/ the syntax of it if it is.  If not is it possible to make a declarative helper in Razor where you pass it a generic list and the html code it will repeat?<br>Thanks,<br>Sean</p>

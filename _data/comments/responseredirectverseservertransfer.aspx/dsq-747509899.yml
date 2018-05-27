@@ -1,0 +1,6 @@
+id: dsq-747509899
+date: 2007-09-17T18:29:04.0000000-07:00
+author: vikram pratap
+email: vikram2.786@gmail.com
+gravatar: c05b744df21a8a592017cc4e984bcfbb
+message: <p>Response.Redirect send a message to the browser  Saying move into  another page while Server.Transer does not send any message to Browser it's redirect to another Page.<br>Server.Transer there is no round trip. while response.Redirect has around trip and hence puts aload on Server. <br></p>

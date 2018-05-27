@@ -1,0 +1,6 @@
+id: dsq-747524286
+date: 2008-03-03T22:16:06.0000000-08:00
+author: Ed
+email: ed@edmccaffrey.net
+gravatar: 98889435b84fc451cfbb2f251c7c15d8
+message: <p>You are overstating the issue with 3rd party libraries.<br>If I am implementing a 3rd party library, its compatibility is only an issue if I want to use that library AND use the newest version of the framework.  An application hindered by many closed-source, 3rd party libraries is likely not a good candidate for immediate upgrade to the newest framework version.<br>Listen to your customers.</p>

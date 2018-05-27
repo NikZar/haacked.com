@@ -1,0 +1,6 @@
+id: dsq-747525335
+date: 2009-03-24T21:55:43.0000000-07:00
+author: Brad
+email: blambright@ccis-inc.com
+gravatar: 0ffe2c9df4142a3d86e69a57204d74b5
+message: <p>I am getting the following:<br>'System.Web.HttpRequestBase' does not contain a definition for 'IsMvcAjaxRequest'.........<br><br>Is this a known issue?  Fix?<br></p>

@@ -1,0 +1,6 @@
+id: dsq-747520530
+date: 2007-05-22T21:04:41.0000000-07:00
+author: JimShelly
+email: jshelly@cherokee.org
+gravatar: 202918cfb151c2b0aecea9f1d2f96148
+message: <p>"Select.From("Products").WHERE("ProductId", Is.LessThan(5));",  I like it.  <br>Using "Query" is no big deal, but for readability from a sql standpoint, using the suggested syntax makes since.</p>

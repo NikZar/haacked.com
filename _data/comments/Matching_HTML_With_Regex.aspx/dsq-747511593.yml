@@ -1,0 +1,6 @@
+id: dsq-747511593
+date: 2010-04-18T22:56:58.0000000-07:00
+author: wanted
+email: wanted@wordpress.disqus.net
+gravatar: 8c92ba575facab5f7e79bfaaa5a78f90
+message: <p>Matching HTML tag With Regular Expressions .<br>how can i do it ??<br>i do it "&lt;/?\w+((\s+\w+(\s*=\s*(?:".*?"|'.*?'|[^'"&gt;\s]+))?)+\s*|\s*)/?&gt;"<br>but it not mach"&lt;\HTML&gt;" why ??<br>and how can i fix it</p>

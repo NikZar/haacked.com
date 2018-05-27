@@ -1,0 +1,6 @@
+id: dsq-747532627
+date: 2010-07-07T20:01:51.0000000-07:00
+author: Brian
+email: hookem@irvingisd.net
+gravatar: 3aef78f7f1f38e9b7d78cf1d9008061a
+message: <p>This looks great and I can't wait to get the bits to play around with in my MVC apps.  <br>I'm also thinking that a byproduct of your work making this testable also makes it an easy to use html templating engine in general.  One scenario that would definately make my job a little easier would to use razor as a templating engine for generating email notifications. <br>How trivial would it be to use razor in that manner?</p>

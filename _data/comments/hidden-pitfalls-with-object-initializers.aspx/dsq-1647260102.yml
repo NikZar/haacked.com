@@ -1,0 +1,6 @@
+id: dsq-1647260102
+date: 2014-10-21T15:33:05.0000000-07:00
+author: Brian
+email: brian.buchheit@gmail.com
+gravatar: 7f422b8eeab54b5e94edf4160d855336
+message: <p>Your trading off performance for an error that is extremely unlikely to happen.  Object Initializers optimize the initialization of the object over straight property setters.  Thumbs Down.</p>

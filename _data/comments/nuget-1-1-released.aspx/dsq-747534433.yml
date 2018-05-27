@@ -1,0 +1,6 @@
+id: dsq-747534433
+date: 2011-02-12T05:51:54.0000000-08:00
+author: Gene
+email: xgene@hotmail.com
+gravatar: 4800169bd53acca0d0de406a62941ec9
+message: "<p>Rebooted. Nuget still shows up as an update, still shows up in the list of installed packages though with the Uninstall button greyed out, and is no longer in the list of installed files under control panel.<br>Downloading and running the installer from codeplex still gives an error of:<br>VSIXInstaller.SignatureMismatchException: The signature on the update version of 'NuGet Package Manager' does not match the signature on the installed version. Therefore, Extension Manager cannot install the update.<br></p>"

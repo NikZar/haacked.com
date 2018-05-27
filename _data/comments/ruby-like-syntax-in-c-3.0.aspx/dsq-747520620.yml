@@ -1,0 +1,6 @@
+id: dsq-747520620
+date: 2007-05-24T07:50:19.0000000-07:00
+author: Don M
+email: d.mcnamara.public@gmail.com
+gravatar: 048e7363f8d711b818dc82ed37f2baf9
+message: <p>I must be an old curmudgeon. I really don't think this is all that bad:<br>DateTime.Now.Subtract(TimeSpan.FromMinutes(20));<br></p>

@@ -1,0 +1,6 @@
+id: dsq-747527844
+date: 2009-01-27T20:13:51.0000000-08:00
+author: HB
+email: hb@wordpress.disqus.net
+gravatar: 55d8c4df39ce5e0136bc4ed255605dc1
+message: <p>Apparently Url.Content("~/somepath") and Url.Action("someaction") was changed, because they no longer put a / at the start.<br>Is this correct, or is there a new method to use? It's a pain having to go back and change all these methods.</p>

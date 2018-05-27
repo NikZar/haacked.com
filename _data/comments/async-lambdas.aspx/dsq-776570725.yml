@@ -1,0 +1,6 @@
+id: dsq-776570725
+date: 2013-01-24T03:49:57.0000000-08:00
+author: Michael
+email: mwpowellhtx@gmail.com
+gravatar: 2f081c1dfd6c9f10cccb0aaa176e5658
+message: '<p>Very interesting. It sounds almost like there needs to be some sort of async wait: something like Future().Assert.Throws&lt;someexception&gt;(/*my async lambda here*/).</p>'

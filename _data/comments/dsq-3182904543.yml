@@ -1,0 +1,6 @@
+id: dsq-3182904543
+date: 2017-03-02T09:01:23.0000000-08:00
+author: berkus
+email: berkus@gmail.com
+gravatar: 29191c38b8d1e4d6a3a25846c5e673c9
+message: <p>I'd call `git undo` actually `git restore` (an opposite of save, see GLsave/GLrestore for example).</p>

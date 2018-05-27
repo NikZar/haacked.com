@@ -1,0 +1,6 @@
+id: dsq-2843129156
+date: 2016-08-17T14:45:51.0000000-07:00
+author: Mike Sigsworth
+email: mikesigsworth@gmail.com
+gravatar: d31a0ece388a09c342784999d8f4cf9d
+message: "<p>Thanks for this extension method. I don't know if there is a newer/better way (didn't look too hard). I thought you (or someone else) might be interested in my async version of this extension method:</p><p></p><pre><code><br>public static void ReturnsInOrderAsync&lt;T, TResult&gt;(this IReturns&lt;T, Task&lt;TResult&gt;&gt; setup,<br>                                                    params object[] results) where T : class<br>{<br>    var queue = new Queue(results);<br>    setup.Returns(() =&gt;<br>    {<br>        var completionSource = new TaskCompletionSource&lt;TResult&gt;();<br>        var result = queue.Dequeue();<br>        if (result is Exception)<br>        {<br>            completionSource.SetException(result as Exception);<br>        }<br>        else<br>        {<br>            completionSource.SetResult((TResult) Convert.ChangeType(result, typeof(TResult)));<br>        }<br>        return completionSource.Task;<br>    });<br>}</code></pre>"

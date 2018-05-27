@@ -1,0 +1,6 @@
+id: dsq-747531205
+date: 2009-12-30T01:00:26.0000000-08:00
+author: partha
+email: mcp111@gmail.com
+gravatar: 890d9baf8d44ccbbe7e8f368ed1fc22d
+message: <p>Can you explain this in more detail?<br>equals(colorToHex($('foo').css('color')), '#e0e0e0');<br>What's the $('foo')?<br>Can you give a detailed example of using the function?</p>

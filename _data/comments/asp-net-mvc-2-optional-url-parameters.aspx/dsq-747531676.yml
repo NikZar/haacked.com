@@ -1,0 +1,6 @@
+id: dsq-747531676
+date: 2010-02-12T02:40:54.0000000-08:00
+author: Vijay Santhanam
+email: vijay.santhanam@gmail.com
+gravatar: 640b48a0bf5e3cc984bcef7b8db9a0dd
+message: <p>I use the [Bind(Exclude="id")] attribute too. Will that still work and not show up as a model binding error?<br><br></p>

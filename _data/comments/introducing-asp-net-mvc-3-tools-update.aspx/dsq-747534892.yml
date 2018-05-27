@@ -1,0 +1,6 @@
+id: dsq-747534892
+date: 2012-08-30T11:17:22.0000000-07:00
+author: Ben
+email: mortavitch@hotmail.com
+gravatar: 1c68cf5c238fb38d1e7f8cc03b3f4f3d
+message: <p>I know this is old, but I just got assigned an older project at work that uses MVC3 and I couldn't get MVC3 to install.  Mvc2 and 4 would, but not 3.  Uninstalling NuGet and then running the install of MVC3 did the trick.</p>

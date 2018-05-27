@@ -1,0 +1,6 @@
+id: dsq-747514593
+date: 2006-03-24T14:13:00.0000000-08:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>Well I'm no expert in streaming, but I don't think it's necessary.  Remember, the start and end tags I refer to mostly have to do with the messaging as part of the network communication.  You probably wouldn't save the SOAP headers to disk for example.  <br>Though you might if you were simply forwarding that message.</p>

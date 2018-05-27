@@ -1,0 +1,6 @@
+id: dsq-747538409
+date: 2012-09-30T15:14:09.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Do you think this makes more sense if I simply call these "view models?" For example, the <code>UriString</code> is really a <code>UriViewModel</code> and I'm using it as a sub-viewmodel of my main view model?</p>

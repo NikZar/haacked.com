@@ -1,0 +1,6 @@
+id: dsq-747530551
+date: 2009-11-18T02:06:00.0000000-08:00
+author: AndyM
+email: andym@wordpress.disqus.net
+gravatar: ab28909b0c9aee3b496401df56129960
+message: <p>First, I want to share my appreciation for the great work you guys are doing on ASP.NET MVC. I'm having problems with the Multi Area - Multi project change as well. I downloaded the Beta2 futures module, but am still getting build errors when the "CreateAreaManifest" build task is reached in web.config (Can not load Microsoft.Web.Mvc.Build). Any tips on how to get this working?</p>

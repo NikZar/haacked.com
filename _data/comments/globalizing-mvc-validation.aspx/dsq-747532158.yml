@@ -1,0 +1,6 @@
+id: dsq-747532158
+date: 2010-05-10T03:23:30.0000000-07:00
+author: David
+email: davidb@viocare.com
+gravatar: 06af9ab999817f8049bab3193e3ef843
+message: <p>How would you handle min and max ranges that are localized?  For instance $1000 is equivalent to 93,200 Yen.  So a max $1000 in en-US might be a max of 100,000 for ja-JP.</p>

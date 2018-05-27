@@ -1,0 +1,6 @@
+id: dsq-747507702
+date: 2011-02-15T17:32:56.0000000-08:00
+author: Ekta
+email: ektadubey2009@gmail.com
+gravatar: 9b45c3c2c8481630a51f7e41371bd5e9
+message: <p>I have already created a table,now i want to modify a column to be auto-incremented...<br>can u please suggest me some sql script.However the query "Alter table CDP_LANGUAGE add LAN_LANGUAGE_ID int IDENTITY(1,1) primary key;"<br>doesn't work.</p>

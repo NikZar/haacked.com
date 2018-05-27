@@ -1,0 +1,6 @@
+id: dsq-747524846
+date: 2008-04-10T11:56:20.0000000-07:00
+author: Chris Cavanagh
+email: blog@chriscavanagh.com
+gravatar: 8b8858c8a6022411fc9d48c1f4963928
+message: <p>I'm glad you've added the "RouteTable.Routes.RouteExistingFiles" flag.  Please don't remove it!  I'm already dependent on every request being routable :o)</p>

@@ -1,0 +1,6 @@
+id: dsq-747526716
+date: 2009-03-26T21:28:01.0000000-07:00
+author: Dan Crowell
+email: dcrowell@crowsol.com
+gravatar: 72247977dfd59dd2482ee792f21bcf63
+message: '<p>@RafaelSoares, you can bin deploy Dynamic Data. The list of dlls includes those applicable to Dynamic data such as: System.ComponentModel.DataAnnotations, System.Web.DynamicData, and System.Data.DataSetExtensions.</p>'

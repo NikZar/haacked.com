@@ -1,0 +1,6 @@
+id: dsq-747525740
+date: 2008-09-03T23:07:23.0000000-07:00
+author: James Dunne
+email: james.jdunne@gmail.com
+gravatar: 9f41bfc370c185365fea540def0fcd55
+message: <p>This is especially annoying when you have to conceive of an IgnoreRoute line for every possible URL that is NOT an MVC route when using virtual path providers for example.</p>

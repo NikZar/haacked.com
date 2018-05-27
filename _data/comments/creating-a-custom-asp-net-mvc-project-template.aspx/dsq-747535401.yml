@@ -1,0 +1,6 @@
+id: dsq-747535401
+date: 2011-06-06T00:14:27.0000000-07:00
+author: Colin Bowern
+email: colin@bowern.com
+gravatar: 2d89ec05b512a269ba29465148cc3a07
+message: <p>Seconding Pop's comment - it's clearly a hack for now.  Hopefully we can stay aware from putting custom state in the Program Files folder.  That's not what it was designed for.  Visual Studio may put the out-of-box templates there, but that doesn't mean that user-generated content should be there unless they are willing to package it up in an MSI and distribute it properly.</p>

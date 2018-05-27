@@ -1,0 +1,6 @@
+id: dsq-747508258
+date: 2006-10-16T03:57:13.0000000-07:00
+author: eeichinger
+email: oaky@gmx.at
+gravatar: 1178ce359c9998c82ed59ce141d0f708
+message: <p>Hi,<br>There's also an undocumented configuration setting for this:<br><code><br>&lt;configuration&gt;<br>&lt;system.net&gt;<br>  &lt;settings&gt;<br>    &lt;servicePointManager<br>        checkCertificateName="true"<br>        checkCertificateRevocationList="false"<br>        useNagleAlgorithm="true"<br>        expect100Continue="false" <br>     /&gt;<br>    <br>    &lt;httpWebRequest<br>      maximumResponseHeadersLength="64"<br>      useUnsafeHeaderParsing="false" <br>    /&gt;<br>  &lt;/settings&gt;<br>&lt;/system.net&gt;<br>&lt;/configuration&gt;<br></code><br></p>

@@ -1,0 +1,6 @@
+id: dsq-2802563609
+date: 2016-07-25T10:29:22.0000000-07:00
+author: Nelson Reis
+email: nelsonfsr@gmail.com
+gravatar: 1380b563b741341fa3f18585f898a494
+message: <p>That is spot on! I was having a very strange issue and all became solved by using valueResult.Culture instead of CultureInfo.CurrentCulture! Great find.</p>

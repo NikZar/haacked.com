@@ -1,0 +1,6 @@
+id: dsq-747511673
+date: 2009-03-19T18:41:43.0000000-07:00
+author: Deepak
+email: deepak.rathrore@gmail.com
+gravatar: e191672435b9754f66701a9bc059246c
+message: '<p>I checked a file as myself. But while checking out as anonymous is giving error.<br> cvs server: failed to create lock directory for #cvs.lock): Permission denied<br>: cvs server: lock failed - giving up<br></p>'

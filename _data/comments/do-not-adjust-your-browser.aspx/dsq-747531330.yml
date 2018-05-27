@@ -1,0 +1,6 @@
+id: dsq-747531330
+date: 2010-01-12T01:27:05.0000000-08:00
+author: Darren Kopp
+email: DarrenKopp@gmail.com
+gravatar: c130683179162887940757cddf34f852
+message: <p>Why not use <br><code><br>Action forget = () =&gt; DoSomething();<br>forget.BeginInvoke(p =&gt; {<br>   try {<br>      forget.EndInvoke(p);<br>   } catch (Exception ex) {<br>       // something went bad, log?<br>   }<br>}<br></code><br>don't know if that does threadpool or not, but at least you could catch the exception.</p>

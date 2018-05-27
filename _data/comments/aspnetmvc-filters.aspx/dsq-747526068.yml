@@ -1,0 +1,6 @@
+id: dsq-747526068
+date: 2008-08-13T22:22:21.0000000-07:00
+author: tgmdbm
+email: james.mdb@gmail.com
+gravatar: 941b5f10fdfcc7f251a3da321a8d5614
+message: <p>Agreed, Filters in Preview 4 are awesome.<br>Paragraph 1 of <strong>Writing Custom Filters</strong> needs to change. You need to inherit from FilterAttribute, not just Attribute.</p>

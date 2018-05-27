@@ -1,0 +1,6 @@
+id: dsq-747530679
+date: 2009-11-19T23:31:00.0000000-08:00
+author: Peter.O
+email: petero@wordpress.disqus.net
+gravatar: f29f214bba6a43868c368f60cd722488
+message: "<p>Somehow, the following 2 lines are not working the same way for my version. Am almost sure I have the beta version:<br>method: GetClientValidationRules()<br>ErrorMessage = _message; // compile error .. has no setter.<br>ValidationType = \"price\" // doesn't take string.</p>"

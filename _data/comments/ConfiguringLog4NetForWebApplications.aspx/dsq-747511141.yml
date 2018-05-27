@@ -1,0 +1,6 @@
+id: dsq-747511141
+date: 2005-04-13T21:28:00.0000000-07:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>I'm using version 1.2.0.30714 and the only thing I noticed is that your configuration file was very different from mine in how you declared the appenders.</p>

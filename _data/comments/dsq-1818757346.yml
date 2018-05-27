@@ -1,0 +1,6 @@
+id: dsq-1818757346
+date: 2015-01-26T17:45:32.0000000-08:00
+author: Ivan
+email: ivan-haacked@420.am
+gravatar: 60006c00de31a6c43627d58983158944
+message: "<p>git config hooks.showrev \"git show -C %s; echo; git show %s | grep -q ^Merge: &amp;&amp; git diff-tree --root -C --cc \\`git show %s  | grep ^Merge: | rev | cut -d' ' -f1 | rev\\`; echo\"</p>"

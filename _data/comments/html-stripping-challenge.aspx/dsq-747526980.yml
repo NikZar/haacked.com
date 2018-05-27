@@ -1,0 +1,6 @@
+id: dsq-747526980
+date: 2008-11-11T13:05:21.0000000-08:00
+author: Colin
+email: colin.newell@gmail.com
+gravatar: 1bae18aebc08108ae3c9b58f45407e0d
+message: <p>Won't you need to be careful about the code page that is being read in and ultimately the page it will be written out as otherwise you could miss the utf-7 xss attacks?</p>

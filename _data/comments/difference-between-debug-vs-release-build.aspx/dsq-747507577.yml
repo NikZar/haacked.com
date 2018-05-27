@@ -1,0 +1,6 @@
+id: dsq-747507577
+date: 2011-06-14T04:47:37.0000000-07:00
+author: Nathon Dalton
+email: nathon@hotmail.com
+gravatar: 1e20eee9d408fbb5bd8eebbb50946caa
+message: <p>In debug mode...<br>- Some batch optimizers are disabled.<br>- Additional debugging paths are enabled.<br>- More memory is used at runtime.<br>- Scripts &amp; images downloaded from WebResource.axd are not cached.<br>Hope that helps!</p>

@@ -1,0 +1,6 @@
+id: dsq-747525007
+date: 2008-05-03T19:22:30.0000000-07:00
+author: SAprelov
+email: s.aprelov@mail.ru
+gravatar: 82a60715db40e644496282d6232e4776
+message: '<p>I guess "view" must be in "view":)<br>jQuery rules:<br>CSS:<br>table tr:nth-child(odd)<br>{<br>  background-color: magenta;<br>}<br>Code:<br>$("tr:nth-child(odd)").addClass("odd");</p>'

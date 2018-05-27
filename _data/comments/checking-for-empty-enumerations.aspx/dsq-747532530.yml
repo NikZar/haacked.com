@@ -1,0 +1,6 @@
+id: dsq-747532530
+date: 2010-06-14T19:59:29.0000000-07:00
+author: Dan Atkinson
+email: dan@dan-atkinson.com
+gravatar: 923164a150f414e076b32c4c6bbfecab
+message: <p>I also wrote an extension where you can pass a query and check whether that's returned with any results.<br><code><br>  public static bool IsNullOrEmpty&lt;T&gt;(this IEnumerable&lt;T&gt; source, Func&lt;T, bool&gt; query)<br>  {<br>    return source == null || !source.Any(query);<br>  }<br></code></p>

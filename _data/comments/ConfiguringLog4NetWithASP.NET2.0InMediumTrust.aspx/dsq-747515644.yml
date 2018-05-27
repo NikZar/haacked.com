@@ -1,0 +1,6 @@
+id: dsq-747515644
+date: 2009-12-17T12:52:40.0000000-08:00
+author: Robertjan Tuit
+email: robertjan_tuit@none.disqus.net
+gravatar: cf27d1937e23d46d228c8e7fe67335ac
+message: <p>Would it not be easier to use one extension method:<br>[code]<br>public static class LoggerExtension<br>{<br>    public static ILog Logger(this object obj)<br>    {<br>        var logger = LogManager.GetLogger(obj.GetType());<br>        return logger;<br>    }<br>}<br>[/code]</p>

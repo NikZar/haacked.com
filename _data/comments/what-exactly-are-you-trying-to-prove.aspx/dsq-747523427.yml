@@ -1,0 +1,6 @@
+id: dsq-747523427
+date: 2007-11-19T08:43:36.0000000-08:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Frans - Out of curiosity, do you have a proof that LLBLGen Pro is correct? In other words, can you prove that there are no bugs in the code? What tool/tools did you use to do the proof?<br>If you didn't do an automated proof, how do you know your proof is correct?</p>

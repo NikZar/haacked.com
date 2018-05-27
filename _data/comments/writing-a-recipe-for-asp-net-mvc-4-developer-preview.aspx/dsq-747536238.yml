@@ -1,0 +1,6 @@
+id: dsq-747536238
+date: 2011-11-03T03:37:12.0000000-07:00
+author: Marc Gravell
+email: marc.gravell@gmail.com
+gravatar: b4ae7f8b50a2c32287e456394570679e
+message: "<p>Do you know what would be awesome? (IMO)<br>If this nuget mechanism could cater for some of the \"custom tool\" stuff for generating code from (for example) DSLs etc. At the moment, this is a: hard to do, and b: even harder to deploy - but if it could be done via a nuget-deployed \"recipe\"-type-thing...<br>Just sayin' - looks good, though.</p>"

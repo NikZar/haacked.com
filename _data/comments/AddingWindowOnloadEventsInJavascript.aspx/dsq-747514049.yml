@@ -1,0 +1,6 @@
+id: dsq-747514049
+date: 2008-06-20T11:15:36.0000000-07:00
+author: Irfan
+email: mirazzaq2000@yahoo.com
+gravatar: c247225db20434599bcbe8c779c8dcbd
+message: <p>Hello,<br>You make a function and call it in body onload<br>&lt;script&gt;<br>   function callme()<br>     {<br>      //body of function<br>     }<br>&lt;/script&gt;<br>&lt;body onload="callme()"&gt;<br>&lt;/body&gt;<br>or then use the following<br>window.onload= function()<br>  {<br>   //body of function<br>  }<br>sur it will work</p>

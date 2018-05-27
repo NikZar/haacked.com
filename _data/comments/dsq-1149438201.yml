@@ -1,0 +1,6 @@
+id: dsq-1149438201
+date: 2013-12-03T13:31:16.0000000-08:00
+author: Andy Abbott
+email: asabbott@yahoo.com
+gravatar: c77018e88d79c6b0bbe0bd9e87395d5c
+message: "<p>It looks like some of your page URLs didn't transfer correctly.</p><p>- Google: <a href=\"http://haacked.com/archive/2011/12/13/better-git-with-powershell.aspx‎\" rel=\"nofollow noopener\" title=\"http://haacked.com/archive/2011/12/13/better-git-with-powershell.aspx‎\">http://haacked.com/archive/...</a><br>- Actual: <a href=\"http://haacked.com/archive/2011/12/12/better-git-with-powershell.aspx/\" rel=\"nofollow noopener\" title=\"http://haacked.com/archive/2011/12/12/better-git-with-powershell.aspx/\">http://haacked.com/archive/...</a></p><p>My guess would be a timezone issue with your export script or Jekyll.</p>"

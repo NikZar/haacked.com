@@ -1,0 +1,6 @@
+id: dsq-747529598
+date: 2010-11-04T21:44:24.0000000-07:00
+author: Rob Edwards
+email: raedwa01@gmail.com
+gravatar: 349ea5cff94b3c7b2a8dbe8dae0ec5dc
+message: <p>It seems to me that in order to make things separate in the Order/Customer scenario, the following would be considered.  The Order doesn't need access to all of the properties of a customer, just a subset.  That subset could be encapsulated into a class, like Billing Info or Shipping Info that contains a customer's name, address and the like.  Just like the wallet example has the Officer class consuming the Driver's License class, the Order class should consume a BillingInfo or ShippingInfo class that Customer provides.</p>

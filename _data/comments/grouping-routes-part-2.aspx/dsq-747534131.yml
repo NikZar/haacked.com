@@ -1,0 +1,6 @@
+id: dsq-747534131
+date: 2011-01-09T07:45:46.0000000-08:00
+author: simon
+email: simon@wordpress.disqus.net
+gravatar: b1c5532d336766e675ea17bbea2eb8a4
+message: <p>I really wish you'd address the problem of inheriting route values sometime in a blog post :-) Even when using RouteUrl(...) with an explicit named route route parameters such as 'gender', 'id' and even 'controller' and 'action' are inherited if they're not explicitly specified. It's tripped me up many times. Thanks!<br><a href="http://stackoverflow.com/questions/1148443" rel="nofollow noopener" title="http://stackoverflow.com/questions/1148443">http://stackoverflow.com/questions/1148443</a></p>

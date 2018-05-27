@@ -1,0 +1,6 @@
+id: dsq-747535915
+date: 2011-08-16T15:33:53.0000000-07:00
+author: Neil A
+email: neil@travelz.net
+gravatar: afb47dbba4cf6d21c082cd8e0a77fb21
+message: <p>What about something more re-usable; two generic extension methods like this?<br><code><br>T1 ValueChoice&lt;T0,T1&gt;(Func&lt;T&gt; predicate, T1 valueIfTrue, T1 valueIfFalse)<br></code><br>and<br><code><br>T1 ActionChoice&lt;T0,T1&gt;(Func&lt;T&gt; predicate, T1 actionIfTrue, T1 actionIfFalse)<br></code><br>So then you could do...<br><code><br>Model.ValueChoice(m=&gt;m.Count==1,"theme","themes")<br></code></p>

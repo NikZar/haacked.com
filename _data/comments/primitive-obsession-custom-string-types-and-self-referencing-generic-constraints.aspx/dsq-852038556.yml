@@ -1,0 +1,6 @@
+id: dsq-852038556
+date: 2013-04-04T09:52:48.0000000-07:00
+author: Mario Pareja
+email: pareja.mario@gmail.com
+gravatar: 024705a643897616a8fa66a3f76d954b
+message: '<p>Given your base class uses OrdinalIgnoreCase for its equality comparisons, you should probably use same for GetHashCode:</p><p>return StringComparer.OrdinalIgnoreCase.GetHashCode(Value ?? "");</p><p>Update: I should probably mention that not doing this prevents case insensitive access when working with hash table like collections (HashSet, Dictionary).</p>'

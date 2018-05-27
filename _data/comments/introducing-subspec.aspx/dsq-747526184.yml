@@ -1,0 +1,6 @@
+id: dsq-747526184
+date: 2008-08-25T04:08:50.0000000-07:00
+author: Brad Wilson
+email: dotnetguy@gmail.com
+gravatar: 2560112a578efab82a5fddd7284ef4f2
+message: <p>@tgmdbm, I find:<br>x.ShouldBeEqualTo(y);<br>to be preferable to:<br>Assert.That(x, Is.EqualTo(y));</p>

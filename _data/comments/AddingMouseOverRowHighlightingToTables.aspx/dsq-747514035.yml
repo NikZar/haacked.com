@@ -1,0 +1,6 @@
+id: dsq-747514035
+date: 2006-10-23T19:06:35.0000000-07:00
+author: Drogfild
+email: drogfild@wordpress.disqus.net
+gravatar: fe43f3686fd717c9e805d5dac68f4c6d
+message: <p>It seems that IE doesn't support method ".getAttribute('class')".<br>If you replace line "if(table.getAttribute('class') &amp;&amp; table.getAttribute('class').indexOf('highlightTable') &gt; -1)" with "if(table.className &amp;&amp; table.className.indexOf('highlightTable') &gt; -1)" it seems to work with IE also.<br>--<br><i>Drogfild</i></p>

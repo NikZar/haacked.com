@@ -1,0 +1,6 @@
+id: dsq-747525662
+date: 2008-07-11T21:29:04.0000000-07:00
+author: Tom Fanning
+email: ml@tomfanning.eu
+gravatar: 57e5e6066ca2c99d6a2a997ba30bcaf4
+message: <blockquote>Notice that I made use of the System.Diagnostics.Stopwatch class, which provides more accuracy than simply calling taking the difference between two calls to DateTime.Now.</blockquote><p><br>Does this really provide more accuracy? Can you substantiate this?</p>

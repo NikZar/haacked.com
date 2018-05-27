@@ -1,0 +1,6 @@
+id: dsq-2081746076
+date: 2015-06-16T05:16:22.0000000-07:00
+author: Eric D. Burdo
+email: edburdo@gmail.com
+gravatar: 55bccfcf9a1f808a01d74d5fd9663ff3
+message: <p>Mine was in the world of FileMaker database system.  Shortly after it became "relational".  I was working on a project, and triggered a re-lookup of data.  Which promptly started updating 200k rows.  Our entire customer database was getting "refreshed".  VERY BAD MOVE.</p><p>I learned a lot that day about "always have a backup" and "always know what a feature does before triggering it".</p>

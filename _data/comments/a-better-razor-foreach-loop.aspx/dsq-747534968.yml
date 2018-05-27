@@ -1,0 +1,6 @@
+id: dsq-747534968
+date: 2011-04-14T21:00:10.0000000-07:00
+author: Alberto Chvaicer
+email: achvaicer@gmail.com
+gravatar: 515479b799de3f978a5006a8ff38d0a0
+message: <p>Set items.Count() into a variable.<br>It's a tiny thing, but why not reduce the number of calls of something that never changes?</p>

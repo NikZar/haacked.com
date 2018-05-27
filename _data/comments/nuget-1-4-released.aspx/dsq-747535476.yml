@@ -1,0 +1,6 @@
+id: dsq-747535476
+date: 2011-06-18T18:46:45.0000000-07:00
+author: Soul_Master
+email: soul_master@live.com
+gravatar: 387dc8e40555b6fde2ec44233a17d53a
+message: <p>One major thing that NuGet does not have is fully supporting source control. I think NuGet should automatically add all packages to solution folder name “packages”. So when we change/update package, project source control will automatically update source file too.<br>Currently, I need to manually update all file in packages folder to source control.<br></p>

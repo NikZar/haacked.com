@@ -1,0 +1,6 @@
+id: dsq-2755968769
+date: 2016-06-28T18:37:47.0000000-07:00
+author: dotnetchris
+email: chris@marisic.com
+gravatar: f0e7c2d0d5d83c928cfcfce66928160e
+message: <p>You can mutate strings due to the internal implementation of a reference type emulating a primitive.</p><p>Here's proof you can mutate strings <a href="http://stackoverflow.com/a/37253663" rel="nofollow noopener" title="http://stackoverflow.com/a/37253663">http://stackoverflow.com/a/...</a></p>

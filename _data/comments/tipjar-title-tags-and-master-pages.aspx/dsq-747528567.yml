@@ -1,0 +1,6 @@
+id: dsq-747528567
+date: 2009-04-02T22:59:42.0000000-07:00
+author: Erik Porter
+email: tech@erikporter.com
+gravatar: 099f7ab5964d7d4db3043201cfd14db6
+message: <p>Or you could just remove runat="server" on the head tag.  Found that to get rid of all the quirks.  Didn't really find it necessary to be able to set the title in code with MVC anyway.</p>

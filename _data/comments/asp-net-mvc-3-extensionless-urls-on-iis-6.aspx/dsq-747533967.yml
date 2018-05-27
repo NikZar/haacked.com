@@ -1,0 +1,6 @@
+id: dsq-747533967
+date: 2011-09-01T02:02:27.0000000-07:00
+author: DamianR
+email: damreev+blogcomment@gmail.com
+gravatar: f5d4a9afb7903df696931b48f0ac01f2
+message: <p>This didn't work for me. I've been trying to setup a local nuget repository on iis6 win2k3 and after hours of trying all sorts of combinations I still need to browse to Default.aspx manually and the extensionless stuff just doesn't work for me. :(</p>

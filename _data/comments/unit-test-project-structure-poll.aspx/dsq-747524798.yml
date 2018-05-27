@@ -1,0 +1,6 @@
+id: dsq-747524798
+date: 2008-04-09T20:07:46.0000000-07:00
+author: Joe Brinkman
+email: joe.brinkman@dotnetnuke.com
+gravatar: d2e1ea2c6ad92f27635dd2ccc899cab9
+message: <p>Another Microsoftie spouting off on TDD when they clearly don't....  Oh, wait... sorry, this was supposed to go on Rob's blog ;)<br>I'm with you Phil.  The last thing I want on my webserver is a bunch of code that will never execute (and should never execute in production).  On the web, every byte counts, whether it is traveling across the wire or consuming server memory.</p>

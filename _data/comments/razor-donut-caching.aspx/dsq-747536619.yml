@@ -1,0 +1,6 @@
+id: dsq-747536619
+date: 2011-11-27T19:01:58.0000000-08:00
+author: Jarrett Meyer
+email: jarrettmeyer@gmail.com
+gravatar: 9f9343a7aff0c85814a9470fea1c0264
+message: <p>Well, Jimmy beat me to it. Razor is a templating engine. Using Razor for outbound HTML-formatted emails is awesome. But adding a cache/nocache Razor-level directive doesn't really make sense in this case.<br>You could just as easily create an extension such as <code>@using (Html.Cache.NoCache) { }</code> or <code>@using (Html.Cache.FromSeconds(15) { }</code> to accomplish what you want.</p>

@@ -1,0 +1,6 @@
+id: dsq-747512196
+date: 2008-06-08T20:25:45.0000000-07:00
+author: Golf Shot Tips
+email: brian@golfingstars.info
+gravatar: 50c91ccac36a41a48fc8ef46bc676fa3
+message: <p>Thanks Phil,<br>I have been fighting with my unit tests for a while now trying to simulate a FormsAuthentication session and kept running into the HttpContext for storing the cookie. This is a big help.</p>

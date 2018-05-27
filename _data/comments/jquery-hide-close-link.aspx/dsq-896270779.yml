@@ -1,0 +1,6 @@
+id: dsq-896270779
+date: 2013-05-13T13:01:37.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Glad you figured it out. By the way, having multiple elements with the same "id" is invalid HTML. You really shouldn't do that as it can cause all sorts of problems down the road. Use class="post" instead. :)</p>

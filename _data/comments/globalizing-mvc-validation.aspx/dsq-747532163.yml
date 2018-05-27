@@ -1,0 +1,6 @@
+id: dsq-747532163
+date: 2010-05-10T23:10:40.0000000-07:00
+author: Raphael Cruzeiro
+email: raphael.cruzeiro@gmail.com
+gravatar: 6f2c9d59e8c8675a57c05a152cd30c67
+message: <p>What about setting the error message for invalid data, is there anyway to override the default message so I can pass a string from my resource?</p>

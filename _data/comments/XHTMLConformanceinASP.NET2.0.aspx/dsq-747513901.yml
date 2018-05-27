@@ -1,0 +1,6 @@
+id: dsq-747513901
+date: 2006-01-19T01:04:00.0000000-08:00
+author: Matthijs van der Vleuten
+email: matthijs_van_der_vleuten@wordpress.disqus.net
+gravatar: c6b12cfd7a25b1c3b222fd87f905a0ed
+message: <p>According to the MSDN article you linked to, the default xhtmlConformance mode is Transitional. Thus, your example Web.config setting does not affect anything.</p>

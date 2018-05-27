@@ -1,0 +1,6 @@
+id: dsq-747530800
+date: 2010-10-20T23:31:05.0000000-07:00
+author: Hernan
+email: hernangm@hotmail.com
+gravatar: 97894ed80f951c70bb68e20f1e752809
+message: <p>.css files with @import directive are not correctly parsed, since the imported files are being looked in a completely different directory. It should be looking for files relative to the file being parsed. Any solutions to this? Thanks!<br>Hernan</p>

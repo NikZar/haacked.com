@@ -1,0 +1,6 @@
+id: dsq-747536013
+date: 2011-08-18T15:45:19.0000000-07:00
+author: Andy
+email: andy.booth.uk@gmail.com
+gravatar: 4c762bc328a4e94271b5e9d83c0ea00e
+message: <p>I agree with @ashic that client side routing would be a great addition, but that it should not be tied to jQuery Ajax. Though I assume that a production version of this code would indeed allow both routing only and full Ajax scenarios.</p>

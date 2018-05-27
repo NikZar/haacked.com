@@ -1,0 +1,6 @@
+id: dsq-747514077
+date: 2006-02-06T21:56:00.0000000-08:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>Jayson, you'd  be surprised at how big my subtext_URLs table got.  It was 70,000K and shrunk down to 7,000K.  It is already back up to 9,000K.<br><br><br><br>The culprit is the URL column which is an nvarchar 255.  I get so many Google searches that the sucker fills up.<br><br><br><br>Keyvan, I think we'll probably want to do two things.  Provide the ability to clean up referrals as part of the admin tool and add a plug-in to filter incoming referrals.</p>

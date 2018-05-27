@@ -1,0 +1,6 @@
+id: dsq-747507626
+date: 2006-11-01T00:17:08.0000000-08:00
+author: Alex Zach
+email: alezacx@yahoo.com
+gravatar: 6a97b4c3ab0b0af91120dfa4043a8e0b
+message: <p>You dont need to create a temp table<br>DECLARE @i As int<br>SET @i = 1<br> UPDATE    USERS<br> SET       @i= Counter = @i+1<br></p>

@@ -1,0 +1,6 @@
+id: dsq-747529624
+date: 2009-07-31T04:12:00.0000000-07:00
+author: Pita.O
+email: pitao@wordpress.disqus.net
+gravatar: 5fed0bae2afe6360d04bcbabe4de0809
+message: '<p>Phil,<br>What can I say?! Thank you, again. This is great news. Am not sure if anyone has thought about how these projects (areas) will manage security across their boundaries ... like session or authentication tokens: for instance, are areas also authorization boundaries, do user have to reauthenticate on crossing area boundaries, do child areas inherit token from the parent, etc. Is this configurable behavior? I like configurable.<br></p>'

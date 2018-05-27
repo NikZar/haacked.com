@@ -1,0 +1,6 @@
+id: dsq-747510604
+date: 2011-09-19T01:24:20.0000000-07:00
+author: Imran Amjad
+email: imran.amjad@us.ing.com
+gravatar: 9e24b5dc62129e5fc218efed0224c0c1
+message: <p>Well, If constants are to be changed ever, I'll make them configurable through App.Config. Don't need to recompile and redeploy anything in this case.</p>

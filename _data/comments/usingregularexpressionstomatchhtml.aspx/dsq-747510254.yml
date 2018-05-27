@@ -1,0 +1,6 @@
+id: dsq-747510254
+date: 2009-03-08T20:05:12.0000000-07:00
+author: Mo
+email: stuhlmann@fifty-nine.de
+gravatar: f9c3ee45cf6fda138e3bdfe535297493
+message: <p>Hi,<br>I need to match double quotes within a string, when they are not within html-tags. What ist the pattern to match "up" but not "highlight"?<br>Hello &lt;span class="highlight"&gt;Peter&lt;/span&gt;, what's "up"?<br>I'm using a VB-RegEx-Engine...</p>

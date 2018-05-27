@@ -1,0 +1,6 @@
+id: dsq-747529776
+date: 2009-08-19T17:30:00.0000000-07:00
+author: Steve
+email: steve@wordpress.disqus.net
+gravatar: 06b9bcb0cb1819245209d379f1b26260
+message: <p>@Vito:<br>What a stupid comment, you are using the transaction without committing (just reading) so you wouldn't need this at all...</p>

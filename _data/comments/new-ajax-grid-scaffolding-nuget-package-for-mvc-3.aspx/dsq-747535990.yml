@@ -1,0 +1,6 @@
+id: dsq-747535990
+date: 2011-09-19T03:16:20.0000000-07:00
+author: Dave
+email: davegaines@live.com
+gravatar: d56d02801c21bef9a6841b228124812d
+message: <p>Hi,<br>I installed the package and gave it a whirl with an EF4.1 (database first) model annotated using metadata classes.  <br>The package fails reporting that it is unable to retrieve metadata for the object and that the supplied connection is not valid because it contains insufficient mapping or metadata information.<br>Suggestions?</p>

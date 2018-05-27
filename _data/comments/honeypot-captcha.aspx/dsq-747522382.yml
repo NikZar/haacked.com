@@ -1,0 +1,6 @@
+id: dsq-747522382
+date: 2007-10-11T16:33:23.0000000-07:00
+author: Pheadrus
+email: pheadrus0110@gmail.com
+gravatar: 916233f48ffbd8684c3af08c2699c638
+message: <p>i think this is a good idea. maybe some php or asp coding to change the hidden forms name at every page load. course then you could just compare snapshots of the page a before an after to find the changing form. or have all form names change within their context.<br></p>

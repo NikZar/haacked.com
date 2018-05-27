@@ -1,0 +1,6 @@
+id: dsq-1437647186
+date: 2014-06-16T06:36:56.0000000-07:00
+author: badoka
+email: al_cenov@yahoo.com
+gravatar: 6b45fdbff4a42342801fd8e497fa1406
+message: <p>Hi,</p><p>I am hosting own NuGet feed with latest version from Nuget.Server.</p><p>That is IIS Web application developed by <br><a href="http://docs.nuget.org/docs/creating-packages/hosting-your-own-nuget-feeds" rel="nofollow noopener" title="http://docs.nuget.org/docs/creating-packages/hosting-your-own-nuget-feeds">http://docs.nuget.org/docs/...</a></p><p>Application is working correctly, if we are using latest version from <br>Nuget package e.g. XXXXXX.Common.DataTypes V.2.0.0, but if we are using <br>previous version e.g. XXXXXX.Common.DataTypes V.1.0.0 we have from <br>Visual Studio the following message The version<br> 1.0.0 from packet XXXXXX.Common.DataTypes is not found.</p><p>All package file are published correctly and Nuget as a file server is working correctly with the same folder.</p><p>The problem seems to be something with IIS............</p><p>Thanks</p>

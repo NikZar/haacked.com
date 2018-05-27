@@ -1,0 +1,6 @@
+id: dsq-747535532
+date: 2011-06-30T02:51:05.0000000-07:00
+author: Gurdeep Singh
+email: sm.gurdeep@gmail.com
+gravatar: 72d195a5644ca4bd3d47619139173049
+message: <p>Very well explained. Thanks for the write up! Still wondering what if the browser do not support json.stringify natively? Resort back to plugins? Though, I myself use very little json for post backs and that too without the need of any stringifiers.</p>

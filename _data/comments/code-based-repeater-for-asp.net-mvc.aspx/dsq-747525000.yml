@@ -1,0 +1,6 @@
+id: dsq-747525000
+date: 2008-05-03T11:10:14.0000000-07:00
+author: Peli
+email: jonathan.dehalleux@gmail.com
+gravatar: 1483c2dadea59a1f658586d4231a426b
+message: "<p>2 more bytes: instead of putting logic to alternate the css class, you force the user to duplicate the entire row generation. that's a lot of duplication.</p>"

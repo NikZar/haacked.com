@@ -1,0 +1,6 @@
+id: dsq-747525262
+date: 2008-10-07T12:54:20.0000000-07:00
+author: HakonB
+email: hakonb@gmail.com
+gravatar: 52ed9ccaca9090a0a008629b5a8112f7
+message: <p>Hi Phil<br>Is there any chance that you will make this work with ASP.NET 3.5 sp 1 (and without ASP.NET MVC). Currently there is a dependency on HttpContextWrapper2 which is not available in the later MVC previews.<br>Thanks,<br>Hakon</p>

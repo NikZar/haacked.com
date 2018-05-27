@@ -1,0 +1,6 @@
+id: dsq-747508239
+date: 2004-06-01T23:57:00.0000000-07:00
+author: Lance Olson
+email: lance_olson@wordpress.disqus.net
+gravatar: 48416c0da6e1f784cf7c7e062a320d3e
+message: <p>You can turn off the HttpWebRequest 100 continue behavior using the System.Net.ServicePointManager.Expect100Continue property.<br><br><br><br>-Lance</p>

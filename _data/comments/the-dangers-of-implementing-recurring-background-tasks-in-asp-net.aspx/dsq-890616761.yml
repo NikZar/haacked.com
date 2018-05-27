@@ -1,0 +1,6 @@
+id: dsq-890616761
+date: 2013-05-09T01:42:36.0000000-07:00
+author: Rob Church
+email: rob@uber-rob.co.uk
+gravatar: 9a7d35f88cd07c2e30b6efd444ef60c5
+message: <p>Instead of locking just to set the flag, could you not use the volatile keyword on the bool? It would prevent any code hanging around for locks and you could even check it more easily through-out your work() function.</p>

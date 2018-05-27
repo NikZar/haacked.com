@@ -1,0 +1,6 @@
+id: dsq-2203653983
+date: 2015-08-19T13:10:05.0000000-07:00
+author: hsirah
+email: harishd1414@gmail.com
+gravatar: 6ea4e8b2602e8ebadcbbe69738bd33a7
+message: <p>I realize this is an old post. However, this helped me a lot when I started using Git with PowerShell.</p><p>With the release of Git for Windows 2.5, the "ssh-add.exe" (and other such exe's) have been moved to C:\Program Files (x86)\Git\usr\bin. Hope this helps someone.</p>

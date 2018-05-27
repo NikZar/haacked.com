@@ -1,0 +1,6 @@
+id: dsq-747525679
+date: 2011-05-26T14:55:24.0000000-07:00
+author: Adam dudley
+email: adudley@gratte.com
+gravatar: 981043deb97fa79664d47f53b5323f15
+message: <p>Thanks for that. <br>I've also added this<br>public static string GetCurrentLoadTime()<br>        {<br>            Stopwatch stopwatch =<br>                  (Stopwatch)HttpContext.Current.Items["Stopwatch"];<br>            //Didn't find the stopwatch, reutrn something<br>            if (stopwatch == null) return "";<br>            //Get a timespand from our stopwatch<br>            TimeSpan ts = stopwatch.Elapsed;<br>            //Return a nice string<br>            return String.Format("{0}.{1}s", ts.Seconds, ts.Milliseconds);<br>        }<br><br>so that in the footer of my page I can add<br>&lt;%= Namespace.TimingModule.GetCurrentLoadTime() %&gt;<br>- it always seems to be the same number, so rendering the very last portion of my footer (a bar) can be ignored!<br></p>

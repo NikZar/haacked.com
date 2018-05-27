@@ -1,0 +1,6 @@
+id: dsq-747524580
+date: 2011-10-28T09:54:39.0000000-07:00
+author: Saeed Neamati
+email: me@nefcanto.com
+gravatar: 2de6bd7ec436bb58a82e0b644b1d5426
+message: <p>Haccked, <br>I think I can use this code to implement a totally customized ASP.NET MVC authentication mechanism. In other words, I can use this to see which action has been requested, then see if that action has a special attribute (like NeedsLogin for example), etc.<br>Do you think I really can use this code?</p>

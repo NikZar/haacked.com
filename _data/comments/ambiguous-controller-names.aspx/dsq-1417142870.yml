@@ -1,0 +1,6 @@
+id: dsq-1417142870
+date: 2014-06-02T21:53:12.0000000-07:00
+author: ozbob
+email: rpm@acsmail.net.au
+gravatar: 0c9c3e26e21fe72b2b287b426e444172
+message: '<p>@Html.ActionLink("AnchorContent","Portal","App", routeValues: new { area = "areaname" }, htmlAttributes:new { title = "actionlinktitle", alt = "link description"})</p>'

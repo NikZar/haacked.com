@@ -1,0 +1,6 @@
+id: dsq-747533086
+date: 2010-09-26T12:32:20.0000000-07:00
+author: Ben
+email: oresama@dokoka.net
+gravatar: 485c4ebb5566a396bdaefb85a4d5c6f8
+message: <p>While I agree with your solution, I still think that there is an opportunity to transition to the better solution. Create a copy of the CSS file, leave the old version, update locations as you can. Eventually, you should probably be able to remove the old file and re-enable the security check.</p>

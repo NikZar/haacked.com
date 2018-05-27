@@ -1,0 +1,6 @@
+id: dsq-747527630
+date: 2009-01-05T01:56:57.0000000-08:00
+author: James Newton-King
+email: james@newtonking.com
+gravatar: e43cefbb045bbe6e800589876dc5677b
+message: "<p>Well that's something I didn't know: Using the Regex constructor doesn't cache and reuse the compiled expression.<br>Thanks Atif.</p>"

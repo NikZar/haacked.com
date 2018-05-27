@@ -1,0 +1,6 @@
+id: dsq-747530808
+date: 2012-01-23T05:30:22.0000000-08:00
+author: Eric
+email: eric@wordpress.disqus.net
+gravatar: 778f5bf34b3a32d983ebbe765443fa90
+message: '<p>For VS 2010 compatibility, change the path to this dependency:<br>&lt;#@ assembly name="$(SolutionDir)..\..\Build\DotLess_1_2_2_0\dotless.Core.dll" #&gt;<br>And to prevent warning, remove the .Net 3.5 reference:<br>&lt;#@ template language="C#" debug="false" hostspecific="true"#&gt;</p>'

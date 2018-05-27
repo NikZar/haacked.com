@@ -1,0 +1,6 @@
+id: dsq-747526449
+date: 2008-10-14T05:04:15.0000000-07:00
+author: John Sheehan
+email: johnsheehan@gmail.com
+gravatar: 54b75f6fbf4434162bfcda6b0cb9b86b
+message: <p>You didn't show a proper doctype, which I believe would cause IE8 to display it correctly without the meta tag.</p>

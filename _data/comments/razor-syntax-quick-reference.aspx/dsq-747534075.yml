@@ -1,0 +1,6 @@
+id: dsq-747534075
+date: 2011-02-23T23:25:59.0000000-08:00
+author: arootbeer
+email: arootbeer@gmail.com
+gravatar: bb95167937ee39b89251fcac6377951a
+message: <p>What is the correct way to make generic method calls in razor?  I don't seem to be able to google it appropriately :)<br>I want to be able to do<br><code><br>&lt;td&gt;@MyStringMethod&lt;MyClass&gt;(params)&lt;/td&gt;<br></code></p>

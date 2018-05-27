@@ -1,0 +1,6 @@
+id: dsq-1768912991
+date: 2015-01-02T11:42:13.0000000-08:00
+author: kns98
+email: kns98@yahoo.com
+gravatar: 011bb182d836877a52be02398289d560
+message: <p>nice solution and good tip to reference the timer :) - to avoid garbage collection. I think you can also use HostingEnvironment.QueueBackgroundWorkItem and avoid needing the iregisterobject.</p>

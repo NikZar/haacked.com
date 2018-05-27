@@ -1,0 +1,6 @@
+id: dsq-747537321
+date: 2012-01-03T08:11:58.0000000-08:00
+author: Russ Painter
+email: russp@geekymonkey.com
+gravatar: 8f6aa0cc0f1d81a44e0b88916157e615
+message: <p>I have previously been naming my test functions with [FUNCTIONNAME]_[TESTNAME].  But I've tried this method and I'm liking it so far.  It forces you to keep related tests together.<br>In the VS2010 Test Results view I found it useful to add a column for "Class Name" which when combined with the "Test Name" column gives you all the info.  Very nice.</p>

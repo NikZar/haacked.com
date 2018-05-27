@@ -1,0 +1,6 @@
+id: dsq-747524878
+date: 2010-11-19T03:25:22.0000000-08:00
+author: Peter Morris
+email: mrpmorris@gmail.com
+gravatar: 34aa378340f5e4d6bfa6d1816729a096
+message: "<p>@phil : Catch all was no use, because some of my routes look like this<br>{controller}/{action}/{make}/{model}<br>Where both make and model may contain any number of weird characters, that's why I had to go with the approach above.</p>"

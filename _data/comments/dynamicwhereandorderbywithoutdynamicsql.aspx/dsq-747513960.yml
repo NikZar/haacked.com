@@ -1,0 +1,6 @@
+id: dsq-747513960
+date: 2006-01-26T04:22:00.0000000-08:00
+author: Marty Thompson
+email: marty_thompson@wordpress.disqus.net
+gravatar: cf254472f046ae3c893078ec5b66b60a
+message: <p>Yeah, sorry about that, I spoke incorrectly.  It was an index scan that we were having problems with as well, and it was enough of a performance hit for our purposes that we had to do away with it.<br><br><br><br>We did have a problem with full table scans, but that's because I'm an idiot with indexes.</p>

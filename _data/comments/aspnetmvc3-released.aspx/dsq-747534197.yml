@@ -1,0 +1,6 @@
+id: dsq-747534197
+date: 2011-01-14T01:19:53.0000000-08:00
+author: ebb
+email: ebb@pcfreaks.dk
+gravatar: 364ec3efa0872fbc0151668b26ae2596
+message: <p>"Improved support for Dependency Injection"<br>Is there any examples up that shows how to use DI with MVC 3 RTM? - The post you refer to is outdated and none of the interfaces/classes is in the System.Web.MVC assembly?</p>

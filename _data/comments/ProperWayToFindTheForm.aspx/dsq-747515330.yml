@@ -1,0 +1,6 @@
+id: dsq-747515330
+date: 2006-06-13T23:58:00.0000000-07:00
+author: Scott
+email: scott@wordpress.disqus.net
+gravatar: 01e6d1ee6388f655a2a70b79a54ea92e
+message: <p>Would a more useful, generalized method be <br>public string GetControlId(Type controlType).  <br>or <br>public static string GetControlId(Type controlType, Control page)</p>

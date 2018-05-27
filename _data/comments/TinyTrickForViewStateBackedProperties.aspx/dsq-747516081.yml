@@ -1,0 +1,6 @@
+id: dsq-747516081
+date: 2006-08-06T14:41:57.0000000-07:00
+author: Jeff Atwood
+email: jeff_atwood@wordpress.disqus.net
+gravatar: 3e2571529e45e212e96ece43b2defc17
+message: <p>Wouldn't (!ViewState["WillSucceed"].IsNullOrEmpty()) work as well? Are we casting a string to a bool?</p>

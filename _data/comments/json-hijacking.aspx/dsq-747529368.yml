@@ -1,0 +1,6 @@
+id: dsq-747529368
+date: 2009-06-25T19:42:00.0000000-07:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Todd I believe SSL *only* solves the caching issue because browsers are not supposed to cache SSL content. But I could be wrong.</p>

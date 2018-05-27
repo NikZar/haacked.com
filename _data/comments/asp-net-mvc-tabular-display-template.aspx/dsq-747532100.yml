@@ -1,0 +1,6 @@
+id: dsq-747532100
+date: 2010-05-05T11:21:40.0000000-07:00
+author: Raj Kaimal
+email: rajkaimal@gmail.com
+gravatar: 4d5b060ad97e0d3b71a984fc8ad4bd35
+message: <p>Phil,<br>The MVCContrib Grid makes it much easier to do this. <br>You add this (can be customized too):<br> &lt;%= Html.Grid(Model).AutoGenerateColumns()%&gt;<br>and add an attribute on the PublishDate property<br>[DisplayFormat(DataFormatString= "{0:dddd MMMM dd, yyyy}")]<br>Raj</p>

@@ -1,0 +1,6 @@
+id: dsq-747530504
+date: 2009-11-17T01:01:00.0000000-08:00
+author: lynn
+email: lynn@wordpress.disqus.net
+gravatar: 367b1b3fe1d3d2aa99b169eac733f755
+message: <p>Phil, was the team able to improve output caching scenarios with RenderAction? I believe right now you need to call an intermediate partial view to get the correct caching.</p>

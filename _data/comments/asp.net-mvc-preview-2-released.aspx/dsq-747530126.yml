@@ -1,0 +1,6 @@
+id: dsq-747530126
+date: 2009-10-02T20:18:00.0000000-07:00
+author: Gauthier Segay
+email: gauthier_segay@wordpress.disqus.net
+gravatar: 17d2a42aaa148992b5c9bc7f528fb549
+message: <p>Hi, nice to see the framework maturing.<br>I'm wondering if there is anything supporting the viewcomponent system found in Castle MonoRail.<br>As some may know, they are similar to usercontrols or customcontrols but most importantly are viewengine agnostic where usercontrols / customcontrols are for WebForm viewengine only.<br>I'll try to look at the advances on the client side validation, I'm pretty used to (almost) automatic jquery validate plugin integration with the use of MR FormHelper and expecting great things with ms.mvc</p>

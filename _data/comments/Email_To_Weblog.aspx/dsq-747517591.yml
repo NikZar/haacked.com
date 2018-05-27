@@ -1,0 +1,6 @@
+id: dsq-747517591
+date: 2006-11-07T16:36:52.0000000-08:00
+author: Keyvan Nayyeri
+email: nayyeri@gmail.com
+gravatar: 22957966c27e3f7edb86fac3ad234e8e
+message: <p>@ AsbjornM:<br>This is new because we haven't had same service so far.<br>BlogMailr lets you to publish your posts regardless of blogging tool you're using (Community Server, SubText, DasBlog, Single User Blog, WordPress, ...).  What it needs is a MetaBlogAPI support and what it gets is username, password and URL of your blog.  I haven't worked with DasBlog to know what's the feature you're talking about but BlogMailr isn't limited to pop-enabled emails.</p>

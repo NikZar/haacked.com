@@ -1,0 +1,6 @@
+id: dsq-747521781
+date: 2007-07-30T00:42:11.0000000-07:00
+author: Adam Kinney
+email: adam@adamkinney.com
+gravatar: 9653dc25283f3533dac091d0b74c9213
+message: <p>Funny I just wrote some filtering code as well.  Mine was focused around the img tag not being closed and ensuring there is an alt attribute even its empty.  Good idea using a module though, seems appropiate for the situation.</p>

@@ -1,0 +1,6 @@
+id: dsq-747528622
+date: 2009-04-14T13:10:00.0000000-07:00
+author: Zachary Snow
+email: zachary_snow@wordpress.disqus.net
+gravatar: 841b772605e4eaa84ccb8e585efe0296
+message: <p>The line:<br>jQuery(document).ready(function(){<br>});<br>can be shortened to:<br>jQuery(function(){<br>});<br>and even further if you use the $:<br>$(function(){<br>});</p>

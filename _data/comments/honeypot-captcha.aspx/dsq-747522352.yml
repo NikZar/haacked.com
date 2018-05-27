@@ -1,0 +1,6 @@
+id: dsq-747522352
+date: 2007-09-10T20:07:31.0000000-07:00
+author: Wyatt Barnett
+email: wwb_99@yahoo.com
+gravatar: 99f9c177aa45493eca8ea94ff878dfab
+message: "<p>@Mads: Yeah, people with a screen reader will see the input, but they should also see the label telling them not to fill it in. Spambots won't read labels, except maybe field ids/names, so if you name it something ingenious, like email2, they will fill 'er in.</p>"

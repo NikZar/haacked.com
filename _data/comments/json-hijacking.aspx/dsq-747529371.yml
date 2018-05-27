@@ -1,0 +1,6 @@
+id: dsq-747529371
+date: 2009-06-25T20:04:00.0000000-07:00
+author: Asbj&#248;rn Ulsberg
+email: asbj248rn_ulsberg@wordpress.disqus.net
+gravatar: e230ad2fef0c609a16b6c67dd8e16526
+message: "<p>@Haacked: You're correct with your caching scenario, but what if we force the browser not to cache the response in the first place? It will still be better than using POST to GET something, imho.</p>"

@@ -1,0 +1,6 @@
+id: dsq-1059237614
+date: 2013-09-25T16:47:02.0000000-07:00
+author: Vic1ouS
+email: varsovski11@gmail.com
+gravatar: 6e9549aa1f04456c029d9679e62d05b1
+message: <p>So, this is the reason why the REST social services (graph.facebook for <br>example) returns arrays inside of a "data"-called object.. I mean <br>suddenly that "data" wrapping seems like "convenient" coincidence, isn't<br> it..</p><p>I however still miss the point of why GET is vulnerable and<br> POST isn't.. When the site sends request to the malicious site to load <br>the script, what "magic" does POST have over GET to prevent sending the <br>browser's "cookie ID" to the malicious site.. Do post-type requests not <br>send that ID ?, what's the main difference ?</p><p>// Sorry for being not-specific in professional terms a bit though</p>

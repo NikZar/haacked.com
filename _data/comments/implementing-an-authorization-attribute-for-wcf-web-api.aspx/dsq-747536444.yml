@@ -1,0 +1,6 @@
+id: dsq-747536444
+date: 2011-11-15T22:15:11.0000000-08:00
+author: Cory
+email: c_remick@hotmail.com
+gravatar: 7c741bf17833969a59a16e96aebd1f2e
+message: <p>Can someone explain why we have to go this route in the first place? Why don't the attribute [code]<br>[PrincipalPermission(SecurityAction.Demand, Role = "myrole")] [/code]<br>and the service behavior work using WCF WebApi?<br>[code]<br>  &lt;system.serviceModel&gt;<br>      &lt;behaviors&gt;<br>        &lt;serviceBehaviors&gt;<br>          &lt;behavior&gt;<br>            &lt;serviceAuthorization principalPermissionMode="UseAspNetRoles"<br>                                  roleProviderName="AspNetSqlRoleProvider" /&gt;<br>          &lt;/behavior&gt;<br>        &lt;/serviceBehaviors&gt;<br>      &lt;/behaviors&gt;<br>[/code]</p>

@@ -1,0 +1,6 @@
+id: dsq-1118435699
+date: 2013-11-11T11:09:43.0000000-08:00
+author: martijnhoekstra
+email: martijnhoekstra@gmail.com
+gravatar: 64cb01262bf686f65805e70fd99c5b1a
+message: <p>an if statement in a language like C# can only funcion because of side effects. The code taken in the if branch must have an effect on something outside the if body to have any visible effect. That can be IO, or mutating state outside the if body. The mutations here increase coupling and makes your code harder to reason about. Maybe if I'm failing to convey the idea, you could give an example of an if statement in c# that does something so I can show you what I mean, and where the side effects are.</p>

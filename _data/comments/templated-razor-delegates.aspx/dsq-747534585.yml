@@ -1,0 +1,6 @@
+id: dsq-747534585
+date: 2012-01-19T20:02:25.0000000-08:00
+author: Martin
+email: martin@atsworldwide.com
+gravatar: bd9e9d29fb9c6eb4c051bb92d9e2bf96
+message: <p>FYI, it took me a while to figure out that HelperResult belongs to namespace <code>System.Web.WebPages</code>.  HTH someone!</p>

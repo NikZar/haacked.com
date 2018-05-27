@@ -1,0 +1,6 @@
+id: dsq-747534978
+date: 2011-04-15T05:52:25.0000000-07:00
+author: Luk&#225;š Novotn&#253;
+email: lukas@dramiel.com
+gravatar: 5f32c2ba7c62354ed73d68c23fb96096
+message: <p>I came up with <a href="http://www.dramiel.com/2011/04/index-in-foreach-loop.html" rel="nofollow noopener" title="http://www.dramiel.com/2011/04/index-in-foreach-loop.html">this</a>. It is not as simple, but it enumerates any collection only once and doesn't wrap items to another class.</p>

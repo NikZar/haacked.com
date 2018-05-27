@@ -1,0 +1,6 @@
+id: dsq-747507658
+date: 2008-10-20T14:51:49.0000000-07:00
+author: trisith
+email: trisith_k@hotmail.com
+gravatar: 041b3524b54a3fde585fbe6f7856a5de
+message: '<p>Thanks for your sharing.<br>I want to share somethings.<br>Select IDENTITY(smallint, 1, 1) as counter, username<br>from #user;<br>OR <br>Select IDENTITY(smallint, 100, 1) as counter, username<br>from #user;<br>OR <br>Select IDENTITY(smallint, 1, 5) as counter, username<br>from #user;<br>have a nice day.<br>cheer.<br></p>'

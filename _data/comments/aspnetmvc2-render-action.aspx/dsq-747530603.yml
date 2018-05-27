@@ -1,0 +1,6 @@
+id: dsq-747530603
+date: 2009-11-18T06:02:00.0000000-08:00
+author: asper
+email: asper@wordpress.disqus.net
+gravatar: 2c70b9e4a68a8cc374184ae56f4d033a
+message: <p>why do we have 2 ways on doing same thing? we don't have Html.Partial('control') where it returns a string of the control.</p>

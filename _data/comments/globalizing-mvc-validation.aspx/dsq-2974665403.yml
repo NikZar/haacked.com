@@ -1,0 +1,6 @@
+id: dsq-2974665403
+date: 2016-10-29T06:40:20.0000000-07:00
+author: Даниил Бережнов
+email: daniilberezhnov@gmail.com
+gravatar: b2a843796f8fad24cf3763580836ee7e
+message: <p>Hi,<br>Is this CDN address permanent? If there are new versions, will they be available at the same link?</p><p>Thanks in advance for your answer.</p><p>P.S. Also, let me disagree that ~ in the default path is a bug. It will work perfectly if you supply these scripts from that folder, you would just have to bother to do it (by default MVC assumes you'll do). Or, as you said, just take a ready-made one.</p>

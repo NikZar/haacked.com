@@ -1,0 +1,6 @@
+id: dsq-760614098
+date: 2013-01-08T16:46:19.0000000-08:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Well if you're writing a library, then the caller is mistakenly calling you and it's helpful to report it to them immediately. If it's your own code at fault, an ArgumentNullException gives you more information. When all you have is a stack trace from a user of your software, an ANE has way more info than an NRE. :)</p>

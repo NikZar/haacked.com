@@ -1,0 +1,6 @@
+id: dsq-747515601
+date: 2010-11-18T12:34:52.0000000-08:00
+author: KC Lee
+email: kc_lee@wordpress.disqus.net
+gravatar: caf10fdd379e40d4d78089b2f219e6a4
+message: '<p>Great Articles - simple and yet very manageable way to maintain database changes. This worked for me and my team for many years too.<br>However, we are going into a SAAS application design, and we will be doing multi-tenant database design: having multiple databases, schemas, services, and scripts for each customer instance, I am not entirely sure if this method would last us long.</p>'

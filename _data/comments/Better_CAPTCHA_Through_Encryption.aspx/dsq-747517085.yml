@@ -1,0 +1,6 @@
+id: dsq-747517085
+date: 2006-10-13T06:54:09.0000000-07:00
+author: CB
+email: cb3431@hotmail.com
+gravatar: d37c71cf2364d2f739d84f427f9be5fe
+message: <p>Excellent!<br>I am a little confused with this line:<br>Page.ClientScript.RegisterHiddenField<br>    (this.HiddenEncryptedAnswerFieldName<br>    , EncryptAnswer(answer));<br>How is this being done this.HiddenEncryptedAnswerFieldName?</p>

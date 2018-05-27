@@ -1,0 +1,6 @@
+id: dsq-747526277
+date: 2008-09-18T20:50:55.0000000-07:00
+author: James Taylor
+email: jtaylor@myonlinejunkdrawer.com
+gravatar: 01e2aa47b5ca0bb738bbf1cbf7a008b9
+message: <p>I was also having a problem with Visual Studio 2008 SP1 crashing every time I tried to open a View.  I uninstalled "PowerCommands for Visual Studio 2008" and the problem has gone away.  I don't have time to investigate why this worked, but wanted to share this just in case it helps anyone else out.</p>

@@ -1,0 +1,6 @@
+id: dsq-747535574
+date: 2011-07-13T07:26:44.0000000-07:00
+author: Ray
+email: ray@thisplaceiknow.com
+gravatar: 749b4749b2feda3dbce25f2e450b6bb2
+message: <p>I'd love to see some better support for model binding collections of things. If I have a parent model with a collection of child view models (products with options for instance), I'd like to be able to edit all of them with one post without having to use the FormCollection. That would make me very happy.</p>

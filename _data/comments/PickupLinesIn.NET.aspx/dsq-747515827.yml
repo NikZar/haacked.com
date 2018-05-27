@@ -1,0 +1,6 @@
+id: dsq-747515827
+date: 2006-07-24T23:06:00.0000000-07:00
+author: Sahil Malik
+email: sahil_malik@wordpress.disqus.net
+gravatar: 20ccbdf66c2f124144f3225ffcec1303
+message: <p>Debug.Assert(dotnetPickUpLines == GetLaid() || GetLaid() == dotnetPickUpLines) ; // Will always assert.</p>

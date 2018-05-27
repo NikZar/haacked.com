@@ -1,0 +1,6 @@
+id: dsq-747533497
+date: 2010-11-09T00:59:09.0000000-08:00
+author: BluCoder
+email: ali62b@yahoo.com
+gravatar: ba6a2084fd129549c0230c9be7eb4483
+message: <p>Are you sure you uninstalled MVC3 Beta (and VS Tools) ASP.NET Wep Pages  and Nupack before install the new RC release? because the MV3C.NET installer inculdes:<br>•ASP.NET MVC 3 run-time components.<br>•ASP.NET MVC 3 Visual Studio 2010 tools.<br>•ASP.NET Web Pages run-time components.<br>•ASP.NET Web Pages Visual Studio 2010 tools.<br>•Third-Party Library Package Manager (based on NuGet){Nupack}.<br>It is better to uninstall any previous versions of these components <br></p>

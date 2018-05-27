@@ -1,0 +1,6 @@
+id: dsq-747511539
+date: 2006-06-20T17:06:00.0000000-07:00
+author: James Gregory
+email: james_gregory@wordpress.disqus.net
+gravatar: 984caca9c53a61b953e6921505f8fcb9
+message: <p>Interesting article, first time i've seen use of the 'SetRenderMethodDelegate' method, must investigate.<br>Did you try using the Caption attribute of the DataGrid for this purpose? It doesn't create a cell as such, but it does create a fully stylable tag for the table, more semantically correct for those buffs too.</p>

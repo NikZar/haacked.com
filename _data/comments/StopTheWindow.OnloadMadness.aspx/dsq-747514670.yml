@@ -1,0 +1,6 @@
+id: dsq-747514670
+date: 2007-11-04T22:24:48.0000000-08:00
+author: bsgu_drew
+email: bgsu_drew@yahoo.com
+gravatar: 8b259caf509bf1a4cda91fd56b295424
+message: <p>// Prototype version<br>Event.observe(window, "load", some_function);</p>

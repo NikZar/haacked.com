@@ -1,0 +1,6 @@
+id: dsq-747517750
+date: 2006-11-23T09:53:34.0000000-08:00
+author: Tom
+email: tom@wordpress.disqus.net
+gravatar: 1d116f6eff0e6ad4f7ce33b617a142aa
+message: <p>Truong Hong, why do you do this?<br><code>for (int i = 1, n = fakes.Length; i &lt; n; i++)</code><br>This is no different than the more simple version:<br><code>for (int i = 1; i &lt; fakes.Length; i++)</code><br>These two statements cause the compiler to generate the same code in the loop, so your optimized version is not any faster.</p>

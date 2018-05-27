@@ -1,0 +1,6 @@
+id: dsq-747524440
+date: 2009-01-11T13:58:11.0000000-08:00
+author: Edmund
+email: edmund@wordpress.disqus.net
+gravatar: 5c9e05c820d60397fad5e3e0aa4d08d3
+message: <p>I tried implementing this with MasterPages, where the master page folds the links to other pages (used as a menu). However, Html.Routlink does not exsit on the master page as it is implemented at the page class level.<br>How to have the link on a master page?<br>Thanks</p>

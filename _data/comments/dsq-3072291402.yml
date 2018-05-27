@@ -1,0 +1,6 @@
+id: dsq-3072291402
+date: 2016-12-28T06:01:46.0000000-08:00
+author: Wolfgang
+email: haacked_com@voglfrei.de
+gravatar: b53d18543a84d9e02a24d85aa6b239b5
+message: <p>A simple alias that helps me to keep track of the aliases:<br>aliases = config --get-regexp '^alias\\.'</p>

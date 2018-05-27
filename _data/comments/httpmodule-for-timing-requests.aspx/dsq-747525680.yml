@@ -1,0 +1,6 @@
+id: dsq-747525680
+date: 2012-06-06T06:53:11.0000000-07:00
+author: Deirdre
+email: deirdre.collins@accenture.com
+gravatar: f01359afe25354b63fe2d662b0f52b53
+message: <p>Hi<br>The code is great, exactly what I needed however, outputting to the screen is fine, but I want then take the result and pass it to the server as a variable, but I can't read the value, how do I access it?<br>I also tried using httpcontextsession to set the value to a variable and then access that variable, but the session is always null<br>Can anyone advise please?  Thanks<br>Deirdre</p>

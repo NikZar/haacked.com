@@ -1,0 +1,6 @@
+id: dsq-747528924
+date: 2009-04-25T02:49:00.0000000-07:00
+author: zihotki
+email: zihotki@wordpress.disqus.net
+gravatar: 31c64178d94b251e8a06a429d394a33d
+message: <p>Daniel,<br>CSharpCodeProvider can be used only in FullTrust environment. But the main goal of this article is to show to make this working in MediumTrust too. So CSharpCodeProvider can not be used here.</p>

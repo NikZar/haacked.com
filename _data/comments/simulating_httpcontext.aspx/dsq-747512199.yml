@@ -1,0 +1,6 @@
+id: dsq-747512199
+date: 2009-02-18T10:28:31.0000000-08:00
+author: Ranjan Ojha
+email: ranjano@maqsoftware.com
+gravatar: d6108598425a7b3347f8a20e2a883913
+message: <p>Hi everybody,<br>Did anyone get work around for HttpContext.Current.Server.MapPath? Can we test method which contains HttpContext.Current.Request.UrlReferrer?</p>

@@ -1,0 +1,6 @@
+id: dsq-747538417
+date: 2012-10-01T01:43:06.0000000-07:00
+author: Diego F.
+email: diego.frata@gmail.com
+gravatar: 0b2fda46df2b995095dcc1030e483487
+message: <p>@Cam Yes, it's a good practice to implement INPC when using WPF if you need notifications. But sometimes you have the perfect POCO in a read-only one time binding situation, so why not? Regarding the memory leak I can confirm you it's gone for good -- just tested for it.</p>

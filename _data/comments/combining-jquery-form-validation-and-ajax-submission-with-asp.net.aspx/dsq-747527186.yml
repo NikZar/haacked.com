@@ -1,0 +1,6 @@
+id: dsq-747527186
+date: 2008-11-21T18:29:53.0000000-08:00
+author: Matt Hinze
+email: mhinze@gmail.com
+gravatar: 0d6043840ea98542a9c9331c7e7940b1
+message: <p>This doesn't really apply to most ajax scenarios.  Why not just go the normal, non-ajax way with this form?  You need validation (and server side) PLUS modals plus multiple forms and success and failure json wrappers to your response html.</p>

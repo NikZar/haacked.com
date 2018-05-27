@@ -1,0 +1,6 @@
+id: dsq-747511710
+date: 2005-05-08T23:06:00.0000000-07:00
+author: AC
+email: ac@wordpress.disqus.net
+gravatar: 669dcad1c427f9efa7eb756d91c0f070
+message: <p>Very interesting work you're planning.  I'm already doing some of this with the v0.95 as my baseline.  Maybe some of my changes could be incorproated into your version.  I plan to do a complete Enterprise Library implementation replacing some of the config options (like connection strings, managed paths, etc).</p>

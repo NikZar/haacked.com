@@ -1,0 +1,6 @@
+id: dsq-747531248
+date: 2012-01-03T18:36:40.0000000-08:00
+author: Sam
+email: sam.hinton@canberra.edu.au
+gravatar: b6bc103635d9d49640d38307fdfc6560
+message: <p>Sean,<br>It might be the bit shifting - Javascript keeps all numbers in floating point format, so it first converts to integer, then does the bit shift, then converts back to floating point again.  On some JS implementations this could be slow.</p>

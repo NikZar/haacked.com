@@ -1,0 +1,6 @@
+id: dsq-747534535
+date: 2011-12-02T19:07:09.0000000-08:00
+author: Andy Cohen
+email: omegaluz@gmail.com
+gravatar: 204b863933ae08f2562dbe25828096d5
+message: <p>Whoops... I see what you meant, it is of type HtmlHelper&lt;Tmodel&gt; but it is a property of the class WebViewPage&lt;TModel&gt;.</p>

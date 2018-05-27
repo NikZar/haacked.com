@@ -1,0 +1,6 @@
+id: dsq-747528431
+date: 2009-03-29T15:36:12.0000000-07:00
+author: Mike
+email: mike@mike.com
+gravatar: 27b9aaca2520d605651e0314c557f662
+message: "<p>Good choice. A few days ago I got an invitation to do a questionaire on Codeplex. I told them that Codeplex was way to slow (it looks like it was built by some coder that has just discovered the UpdatePanel: \"Het let's use that everywhere\") and that it was ridiculous to build an open source code hosting platform on Visual Studio Team System... what were they smoking?<br>I think they can get the site faster if they stop using those silly webforms and switch to MVC + jQuery. I don't think the Subversion issue will ever be resolved, because they seem to not understand the issue with Team System and they certainly don't understand Subversion.</p>"

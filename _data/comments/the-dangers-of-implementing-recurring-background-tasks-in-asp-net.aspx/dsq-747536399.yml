@@ -1,0 +1,6 @@
+id: dsq-747536399
+date: 2011-12-18T08:51:31.0000000-08:00
+author: Chris M
+email: chris@brass9.com
+gravatar: 354c23d7ab1248c0d1a9c3868caa68b2
+message: <p>So then the documentation is incorrect? The app will be torn down as soon as you return from the Stop method, rather than only after UnregisterObject() is called as the docs state?</p>

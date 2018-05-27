@@ -1,0 +1,6 @@
+id: dsq-747517217
+date: 2006-10-11T20:25:23.0000000-07:00
+author: jokiz
+email: joeycalisay@gmail.com
+gravatar: a712dc7c87bc222b7e6f2cd8c4d556ea
+message: '<p>ncover has assemblylist configuration and you just have to configure mbunit console to run the tests on two assemblies (space delimited).  re: separation of integration and unit tests, i believe the category attribute of mbunit fit for this, there is also a blog post somewhere on how to configure TD.NET to just run a particular category (unittests in most scenarios) on right click run tests.</p>'

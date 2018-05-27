@@ -1,0 +1,6 @@
+id: dsq-747519098
+date: 2008-12-28T21:59:58.0000000-08:00
+author: E. Rolnicki
+email: erolnicki@hotmail.com
+gravatar: c6667dc8db722b7946450d761421a392
+message: <p>Any idea how to implement the attribute configSource=""?<br>the above would then become <br>&lt;BlogSettings configSource="externalBlogSettings.config" /&gt;</p>

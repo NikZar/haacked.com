@@ -1,0 +1,6 @@
+id: dsq-747519585
+date: 2007-04-12T17:00:35.0000000-07:00
+author: German Rumm
+email: nevermore@car.ee
+gravatar: 72c4e02df8f4dc4311bca26914e5b734
+message: <p>I like you "ugly" solution more. It clearly expresses logic - "if first value is not null, then display second"<br>I wouldn't use a ternary there, simple "if" would be much better.<br>But your solution is much prettier, yes.</p>

@@ -1,0 +1,6 @@
+id: dsq-747533617
+date: 2010-11-25T11:29:42.0000000-08:00
+author: Alxandr
+email: alxandr@alxandr.me
+gravatar: 5a87311ea4c9950793397f01eb208830
+message: "<p>Intresting post. Just thought I'dd point out that I do think you have a typo: \"mock.Setup(r =&gt; r.GetNext()\" should probably be \"mock.Setup(r =&gt; r.GetNext())\"</p>"

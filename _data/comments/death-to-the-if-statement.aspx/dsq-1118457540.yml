@@ -1,0 +1,6 @@
+id: dsq-1118457540
+date: 2013-11-11T11:22:50.0000000-08:00
+author: Guest
+email: anonymized-1118457540@disqus.com
+gravatar: 24333277fbf151333b669b7ff642a1f6
+message: <p>an example...</p><p>string something (int number) {<br>   if (number &gt; 17) <br>       return "lala";<br>   else</p><p>       return "lolo";</p><p>}</p><p>i can't see where is the side effect here.</p>

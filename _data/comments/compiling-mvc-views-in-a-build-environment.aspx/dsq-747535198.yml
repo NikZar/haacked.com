@@ -1,0 +1,6 @@
+id: dsq-747535198
+date: 2011-10-16T08:35:00.0000000-07:00
+author: Paul Marsh
+email: paul.marsh@gmail.com
+gravatar: 0ff4b2f49c3df249959a4560c0e16510
+message: <p>@John Hughes<br>The fix for that problem is what Marnix mentioned up a few comments up. Marke sure you have this<br><code><br>  &lt;Target Name="AfterBuild"&gt;<br>&lt;RemoveDir Directories="$(BaseIntermediateOutputPath)" /&gt;<br>  &lt;/Target&gt;<br></code></p>

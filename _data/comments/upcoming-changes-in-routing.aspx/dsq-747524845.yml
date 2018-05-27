@@ -1,0 +1,6 @@
+id: dsq-747524845
+date: 2008-04-10T11:16:41.0000000-07:00
+author: tgmdbm
+email: james.mdb@gmail.com
+gravatar: 941b5f10fdfcc7f251a3da321a8d5614
+message: <p>@Vijay, yeah spaces are encoded to "%20", i think perhaps they should be encoded to "+" which is what happens when you submit a form with method="get"<br>That would also mean that routing should decode "+" to space! As it stands at the moment, you would end up with a + in the RouteData.<br>@Haacked, lovin these changes! Keep it up.</p>

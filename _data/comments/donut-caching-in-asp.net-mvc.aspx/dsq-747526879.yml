@@ -1,0 +1,6 @@
+id: dsq-747526879
+date: 2010-03-04T22:02:45.0000000-08:00
+author: Eric
+email: eric.sims@sorc.com
+gravatar: 6082f7e86f7cf234e28a21922968b050
+message: <p>UNFORTUNATELY, this only works for strings. You can't get this to work if you are using RenderAction or RenderPartial because they return void.<br>Silly that nobody has come up with an easier way to exclude these methods from cache.</p>

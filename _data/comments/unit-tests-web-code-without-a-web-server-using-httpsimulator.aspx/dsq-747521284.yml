@@ -1,0 +1,6 @@
+id: dsq-747521284
+date: 2008-02-07T20:26:14.0000000-08:00
+author: Slevdi
+email: slevdi@yahoo.co.uk
+gravatar: 5bc70e3dc3c27556689a52573b48fea4
+message: '<p>Phil - I am having great success so far with HttpSimulator. Thanks for it.<br>Question: How do I do resources using it? E.g.:<br>string key = (string) HttpContext.GetGlobalResourceObject(classKey,resourcekey);<br></p>'

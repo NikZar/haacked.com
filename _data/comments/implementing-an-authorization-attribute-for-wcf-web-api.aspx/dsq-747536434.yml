@@ -1,0 +1,6 @@
+id: dsq-747536434
+date: 2011-10-20T02:50:11.0000000-07:00
+author: Pedro
+email: pmhsfelix@gmail.com
+gravatar: 69d8b493312a1ed70943abf6cc2dcf72
+message: <p>I also don't like the Thread.Principal solution, specially in this new age of asynchronicity, where the underlying thread may change several times.<br>The authentication "component" should instead <br>  a) attach the identity to the HttpRequestMessage (as a property), <br>  b) output it as a parameter, so that it can be used by downstream handlers or by the operation.<br>The authorization component retrieves the identity from the HttpRequestMessage or declares it as an input parameter.<br>The post mentioned by Cecil uses this approach.</p>

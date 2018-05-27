@@ -1,0 +1,6 @@
+id: dsq-747534921
+date: 2011-05-04T18:37:36.0000000-07:00
+author: Marc Simkin
+email: marcs@mhcomp.com
+gravatar: d57178ae85a5063120b31a06f94e686c
+message: <p>Got it to work in classic mode.  It seems that the issue is not routing but a 404/Page not Found.  Shouldn't the routing info be displayed even with a page not found?</p>

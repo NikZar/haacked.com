@@ -1,0 +1,6 @@
+id: dsq-747530015
+date: 2009-09-25T07:08:00.0000000-07:00
+author: Joe Chung
+email: joe_chung@wordpress.disqus.net
+gravatar: a9d521bce815ddf0ce811d69d1ae034c
+message: "<p>How about one for HTML attribute encoding? I would recommend &lt;%@ (for the XPath @ attribute syntax), but it's already reserved for directives.<br>Example:<br><a href=\"<%:@ Model.LinkUrl %>\" rel=\"nofollow noopener\" title=\"<%:@ Model.LinkUrl %>\">&lt;%: Model.LinkText %&gt;</a><br>If we keep it up, we'll become as \"awesome\" as Perl and Ruby when it comes to making symbol soup!</p>"

@@ -1,0 +1,6 @@
+id: dsq-747517712
+date: 2006-11-21T10:23:31.0000000-08:00
+author: ShoeLace
+email: davidpyke@colesmyer.com.au
+gravatar: e630ced2dcf4b1ffb270f9f0641aa68d
+message: <p>I like it..<br>I use a very similar construct in Perl.<br>but i start with a delimited string..<br>use split to create the array.<br>manipulate teh arraneg as needed<br>the rejoin the sting using join.<br>i like it.. its neat and consice.</p>

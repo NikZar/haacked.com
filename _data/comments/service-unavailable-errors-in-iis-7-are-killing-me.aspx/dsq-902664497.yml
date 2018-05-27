@@ -1,0 +1,6 @@
+id: dsq-902664497
+date: 2013-05-19T22:23:00.0000000-07:00
+author: Mehran Halimi Asl
+email: mehran.net1@gmail.com
+gravatar: 02e5bd99e2b5066182120e1ce7e3b764
+message: <p>I had they same problem, it is solved by:</p><p>netsh<br>http<br>delete urlacl url=http://+:8080/</p><p>it seems that port 8080 had problem</p>

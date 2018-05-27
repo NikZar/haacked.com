@@ -1,0 +1,6 @@
+id: dsq-747535911
+date: 2011-08-16T14:57:55.0000000-07:00
+author: Andy Norman
+email: andy@norman.cx
+gravatar: d31a6c302161c58ef2cc3339e66221bc
+message: <p>I just looked at the Inflector class. It doesn't correctly pluralise <em>virus</em> to <em>viruses</em> opting instead for <em>viri</em>, which doesn't bode well.</p>

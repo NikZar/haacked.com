@@ -1,0 +1,6 @@
+id: dsq-747516281
+date: 2006-08-12T12:30:54.0000000-07:00
+author: Ron Grabowski
+email: ron_grabowski@wordpress.disqus.net
+gravatar: 59bb48c18dd5f939f852ec0abfd920a1
+message: <p>I wonder how important it is to mark the methods with this attribute so the compiler doesn't optimize the stack somehow:<br> [MethodImpl(MethodImplOptions.NoInlining)]</p>

@@ -1,0 +1,6 @@
+id: dsq-2833448407
+date: 2016-08-11T22:28:56.0000000-07:00
+author: Dima
+email: vasya@gmail.com
+gravatar: 56c18950aa63fb97f39f681e1dab722f
+message: <p>The root problem is cookie highjacking here and for this - rule of a thumb that all request producing data must have auth token on request header.</p>

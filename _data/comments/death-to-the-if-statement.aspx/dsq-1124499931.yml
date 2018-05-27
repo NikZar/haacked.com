@@ -1,0 +1,6 @@
+id: dsq-1124499931
+date: 2013-11-15T06:12:00.0000000-08:00
+author: Steve
+email: foo@bar.com
+gravatar: f3ada405ce890b6f8204094deb12d8a8
+message: <p>This is exactly the kind of bug that not using a conditional would help avoid. Your solution has 2 behaviors whereas the Concat solution only has one.</p>

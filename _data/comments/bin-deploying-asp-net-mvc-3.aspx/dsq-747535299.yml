@@ -1,0 +1,6 @@
+id: dsq-747535299
+date: 2011-05-25T18:10:33.0000000-07:00
+author: Terry Brown
+email: terry@hairylemon.net
+gravatar: 5faac5e340a7461a337b02f31d57f7cc
+message: <p>it'd be really nice if this followed the same convention as nuget and used the packages folder (or at least allowed you to choose so that you could elect to follow that convention).<br>Great feature, though I'd rather not mess up my web project with the dependencies if I could store them elsewhere.</p>

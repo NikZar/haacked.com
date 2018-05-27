@@ -1,0 +1,6 @@
+id: dsq-747536285
+date: 2011-10-10T11:59:58.0000000-07:00
+author: Paul Alexander
+email: paul.public@xheo.com
+gravatar: 7094bef129a85ebc3ad19703b584e934
+message: '<p>The attribute implementation is interesting and useful for potentially other issues, but why not just add the token directly to the values submitted instead of adding a custom header?<br> data: window.JSON.stringify($.extend( obj, headers) ),<br></p>'

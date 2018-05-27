@@ -1,0 +1,6 @@
+id: dsq-747522354
+date: 2007-09-10T20:24:11.0000000-07:00
+author: Steven Harman
+email: steven@harmanly.com
+gravatar: 1bc0f66d5f0ef810ddfad0dc29649ae3
+message: <p>A possible enhancement... you could make use of <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> 2.0+'s Web Resource's and have the control actually pull an embedded CSS file down automagically. As you said, this would make it even harder for bots as they don't tend to apply CSS, let alone external CSS files, to the form fields.<br>Of course, we'd want to make this configurable so a consumer of the control could use InlineStyles, ExternalStyle, or NoStyles.</p>

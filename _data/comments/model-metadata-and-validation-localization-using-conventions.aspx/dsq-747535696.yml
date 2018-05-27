@@ -1,0 +1,6 @@
+id: dsq-747535696
+date: 2011-07-15T03:18:12.0000000-07:00
+author: John Teague
+email: jcteague@gmail.com
+gravatar: 4ec3c07d6f4527238a3f5c6ec5fefd63
+message: <p>OR<br>You could just use FluentValidation which is far more appropriate for MVC apps than dataannotations anyway.</p>

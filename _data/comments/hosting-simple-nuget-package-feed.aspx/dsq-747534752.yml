@@ -1,0 +1,6 @@
+id: dsq-747534752
+date: 2012-04-20T09:53:47.0000000-07:00
+author: Robbie
+email: robbiewareham@hotmail.com
+gravatar: 732e9d76d19b37b64c2266e6313a7f22
+message: <p>I have the same problem as Doug except that  if I add a trailing backslash to teh request VS makes, then it works.<br>The question is;<br>How do I get VS to add the trailing backslash or how do I get IIS to handle the missing backslash?</p>

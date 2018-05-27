@@ -1,0 +1,6 @@
+id: dsq-747530067
+date: 2009-09-30T10:30:00.0000000-07:00
+author: Matt Hamilton
+email: matt_hamilton@wordpress.disqus.net
+gravatar: 5261bcd88c465eb497d065e66240c5c5
+message: <p>@LazyCoder I also think that mocking IDataReader isn't the easiest way anymore. Check out my ToDataReader() extension method idea:<br><a href="http://www.madprops.org/blog/faking-idatareader-with-todatareader/" rel="nofollow noopener" title="http://www.madprops.org/blog/faking-idatareader-with-todatareader/">www.madprops.org/.../faking-idatareader-with-to...</a><br>I use that nowadays to test IDataReader code.</p>

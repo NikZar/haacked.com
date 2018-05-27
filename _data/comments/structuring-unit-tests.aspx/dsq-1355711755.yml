@@ -1,0 +1,6 @@
+id: dsq-1355711755
+date: 2014-04-25T13:38:19.0000000-07:00
+author: Steven Cramer
+email: steventcramer@gmail.com
+gravatar: f04c2e095988cb5dfeb995e9de8aca22
+message: <p>So if your class under test has a constructor, where do you test that?  If you create a nested class for the Constructor, what do you name it?</p>

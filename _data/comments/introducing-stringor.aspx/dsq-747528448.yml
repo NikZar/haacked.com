@@ -1,0 +1,6 @@
+id: dsq-747528448
+date: 2009-03-31T19:35:27.0000000-07:00
+author: tawani
+email: a1@aspwebsolution.com
+gravatar: 692d5a86cc3ded91932621c57f7ea0f7
+message: <p>This is BS. This is the test you want to perform:<br>StringOr&lt;int&gt; userInput = "abc123";<br>Assert.AreEqual(123, userInput.OtherValue);</p>

@@ -1,0 +1,6 @@
+id: dsq-747529218
+date: 2009-06-03T03:06:00.0000000-07:00
+author: Elad Ossadon
+email: elad_ossadon@wordpress.disqus.net
+gravatar: 5ba976b90ce41644cc7117e95fe95f92
+message: '<p>OK, answering myself: That method I looked for is Html.BuildUrlFromExpression&lt;T&gt;()<br>I would have expected it to be in UrlHelper and not in HtmlHelper, but at least it exists.</p>'

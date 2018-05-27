@@ -1,0 +1,6 @@
+id: dsq-1689808223
+date: 2014-11-12T09:12:21.0000000-08:00
+author: dotnetchris
+email: chris@marisic.com
+gravatar: f0e7c2d0d5d83c928cfcfce66928160e
+message: <p>I seriously don't understand why they made async void any different than async Task, it's ridiculous that they leave this tiny difference be the cause for a world of hurt.</p><p>I also think they really botched ConfigureAwait(). There is absolutely no reason we should be forced to muck around with that, the TPL really should be able to figure out ConfigureAwait on its own.</p>

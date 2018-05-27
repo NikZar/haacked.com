@@ -1,0 +1,6 @@
+id: dsq-1334515353
+date: 2014-04-13T07:57:33.0000000-07:00
+author: odinserj
+email: odinserj@gmail.com
+gravatar: 0a71abb01f527c8830f708948ca07351
+message: <p>Yes, you still need to implement IRegisteredObject, but this solution has different problems. If you want to use fire-and-forget tasks in a reliable way, take a look at <a href="http://hangfire.io" rel="nofollow noopener" title="http://hangfire.io">http://hangfire.io</a>.</p>

@@ -1,0 +1,6 @@
+id: dsq-747508319
+date: 2011-04-14T02:23:53.0000000-07:00
+author: Darren Thurman
+email: darren_thu@msn.com
+gravatar: 3b72a57945cc215fc316fe4f3abcb41f
+message: "<p>I have tried both  System.Net.ServicePointManager.Expect100Continue = false and (HttpWebRequest)myRequest.ServicePoint.Expect100Continue =false, just before myRequest.GetResponse()<br>Fiddler still shows Expect: 100-continue in my request header.<br>I'm working with .Net 4.0.<br>Any thoughts on why setting the property to false is not working?<br>Thanks!</p>"

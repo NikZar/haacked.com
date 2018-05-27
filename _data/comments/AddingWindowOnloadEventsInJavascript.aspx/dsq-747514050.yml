@@ -1,0 +1,6 @@
+id: dsq-747514050
+date: 2008-07-17T19:31:11.0000000-07:00
+author: freelancer
+email: gyrus@ukr.net
+gravatar: a1995095acca145ba2da8e97b2f71839
+message: <p>addLoadEvent is a great solution (which is still actual).<br>Irfan, such a simple solution is not good as it would override existing onload function.</p>

@@ -1,0 +1,6 @@
+id: dsq-975699582
+date: 2013-07-25T04:13:51.0000000-07:00
+author: Mateusz
+email: mateusz@kijowski.net
+gravatar: 4c1d62a4323fbd0b5733b238ca586b9a
+message: <p>If you change last two lines (except the parantheses) to:<br>    var rgb = blue | (green &lt;&lt; 8) | (red &lt;&lt; 16) | (1 &lt;&lt; 24);<br>    return digits[1] + '#' + rgb.toString(16).substring(1,8);<br>works much better. Otherwise it omits leading zeroes...</p>

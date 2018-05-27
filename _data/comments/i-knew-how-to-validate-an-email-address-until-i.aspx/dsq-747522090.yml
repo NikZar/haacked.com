@@ -1,0 +1,6 @@
+id: dsq-747522090
+date: 2008-11-10T09:24:01.0000000-08:00
+author: Mark
+email: haacked.com.markie1@dfgh.net
+gravatar: 182833167c826ae06d7174f2a234e948
+message: <p>that first preg_match should be a match with $Email, not $number, incidentally..<br>:)</p>

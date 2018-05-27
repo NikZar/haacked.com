@@ -1,0 +1,6 @@
+id: dsq-747538473
+date: 2012-10-09T13:35:59.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Frank yeah, but you could transform the first sequence like so:<br><br></p><pre>public static IObservable&lt;tret&gt; ContinueAfter&lt;t, tret=""&gt;(<br>  this IObservable&lt;t&gt; observable, Func&lt;iobservable&lt;tret&gt;&gt; selector)<br>{<br>  return observable.Select(_ =&gt; default(TRet))<br>    .IgnoreElements()<br>    .Concat(selector());<br>}<br></pre>

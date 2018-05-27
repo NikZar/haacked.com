@@ -1,0 +1,6 @@
+id: dsq-747512370
+date: 2005-06-19T22:13:00.0000000-07:00
+author: Scott Williams
+email: scott_williams@wordpress.disqus.net
+gravatar: 5c71713f4321b5e3888d9a9d2e08f39f
+message: <p>I'd also recommend that the SQL Server you try to connect to doesn't constantly time out whenever you try to run the update scripts. That has been the bane of my upgrading woes. :(</p>

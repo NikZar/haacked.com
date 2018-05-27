@@ -1,0 +1,6 @@
+id: dsq-3094631557
+date: 2017-01-11T11:57:12.0000000-08:00
+author: Matt Richardson
+email: matt@redgumtech.com.au
+gravatar: 1eefcbc7407dc25032529c9e50994326
+message: <p>Thanks Phil!</p><p>To deal with the ssh remote urls:</p><p></p><pre>[alias]<br>open = !open `git config remote.origin.url | sed -e 's/git@github.com:/https:\\/\\/github.com\\//'`<br>browse = !git open<br></pre><p></p><p>Works on a mac at least.</p>

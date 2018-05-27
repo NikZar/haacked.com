@@ -1,0 +1,6 @@
+id: dsq-2414147710
+date: 2015-12-17T06:04:01.0000000-08:00
+author: Sotirios Mantziaris
+email: smantziaris@gmail.com
+gravatar: 77b9abe2cc4f99740bdc9592ecbe1b13
+message: <p>string and System.String are the same. the former is just an alias to the latter. <br>string or String is always reference type!!!</p>

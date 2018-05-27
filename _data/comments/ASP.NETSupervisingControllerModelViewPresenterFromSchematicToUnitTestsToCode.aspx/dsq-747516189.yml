@@ -1,0 +1,6 @@
+id: dsq-747516189
+date: 2007-01-29T01:34:42.0000000-08:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Yes, IsPostBack is tied to ASP.NET. I did that on purpose, which I explain in a <a href="http://haacked.com/archive/2006/08/09/TyingMVPToTheASP.NETEventModel.aspx" rel="nofollow noopener" title="Justification for tying MVP to ASP.NET">follow-up post</a>.</p>

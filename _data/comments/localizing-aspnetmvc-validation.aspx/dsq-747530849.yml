@@ -1,0 +1,6 @@
+id: dsq-747530849
+date: 2011-03-10T21:50:58.0000000-08:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Esmaltes you can't. If you're running on .NET 4, use the DisplayAttribute instead.</p>

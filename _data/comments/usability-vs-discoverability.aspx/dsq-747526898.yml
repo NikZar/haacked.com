@@ -1,0 +1,6 @@
+id: dsq-747526898
+date: 2008-11-06T03:23:55.0000000-08:00
+author: Thomas Eyde
+email: thomas.eyde@gmail.com
+gravatar: 459097b9ced4413093907cbbcbcab2e8
+message: <p>A dumb question, couldn't you solve this with overloading?<br>This also remind me of the CommandArgument property, which is a string, while the event handler providing the actual value defines it as an object. It can never be anything but a string, yet we have to downcast it every time. No one bothered to explain this decision as far as I know.</p>

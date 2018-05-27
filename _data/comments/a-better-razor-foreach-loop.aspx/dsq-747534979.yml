@@ -1,0 +1,6 @@
+id: dsq-747534979
+date: 2011-04-15T07:38:13.0000000-07:00
+author: Ian
+email: ian@signswift.com
+gravatar: 89f96b6cfa418e26293a911b21d1f485
+message: <p>foreach (var item in Model.Select((value,i) =&gt; new {i, value}))<br>This gets you the item (item.value) and its index (item.i).<br></p>

@@ -1,0 +1,6 @@
+id: dsq-1724525303
+date: 2014-12-03T14:28:20.0000000-08:00
+author: magikid
+email: chris@christopherjones.us
+gravatar: 523824a82ce5f7554e01f1789fbda351
+message: <p>Exactly what I was coming to comment.<br>git stash will save changes since your last commit then git pop will put them back.</p>

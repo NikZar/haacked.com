@@ -1,0 +1,6 @@
+id: dsq-878335158
+date: 2013-04-28T02:35:18.0000000-07:00
+author: SquadWuschel
+email: joecorporation@gmx.de
+gravatar: 24a57e52bff11b9904f29006f321913f
+message: <p>If You have <br>&lt;mvcbuildviews&gt;true&lt;/mvcbuildviews&gt;<br>this option in your csproj you also get the <br>allowDefinition='MachineToApplication' error<br>Just Remove the Entry, then it Works</p>

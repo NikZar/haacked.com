@@ -1,0 +1,6 @@
+id: dsq-747525077
+date: 2008-12-06T21:55:56.0000000-08:00
+author: Todd Smith
+email: mtsmith@gmail.com
+gravatar: 6bf4d11cfab70f3c495cc5e775274beb
+message: <p>@Barry these type of helper methods are only used by the view engine. The model and controller are oblivious to them.</p>

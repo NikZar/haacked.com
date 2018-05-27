@@ -1,0 +1,6 @@
+id: dsq-2471445285
+date: 2016-01-22T00:26:22.0000000-08:00
+author: dingx
+email: xdxn2010@gmail.com
+gravatar: 1e82729c025d051846866906a11d0c04
+message: <p>Why this"While adding an overload is not a runtime breaking change, it can result in a compile time breaking change. Doh!"<br>from the following example of Blah(0), it should be OK.</p>

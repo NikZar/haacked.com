@@ -1,0 +1,6 @@
+id: dsq-747513955
+date: 2006-01-26T02:52:00.0000000-08:00
+author: Marty Thompson
+email: marty_thompson@wordpress.disqus.net
+gravatar: cf254472f046ae3c893078ec5b66b60a
+message: <p>We have been doing that at my company until recently.  A problem we discovered is that using COALESCE or ISNULL will cause a full-table scan.</p>

@@ -1,0 +1,6 @@
+id: dsq-747515578
+date: 2006-07-05T06:48:00.0000000-07:00
+author: Haacked
+email: haacked@wordpress.disqus.net
+gravatar: 53310821577d3a1d3a0295e9b0d35e08
+message: <p>@Eber - Time to get on the phone and call Larry Ellison and ask for Information_Schema support in ORACLE.  As far as I know, it doesn't support it.  Though there is probably some equivalent.<br>@lb - I assumed the same until I started digging into it recently. I've been using the "Columns" view for a long time and never thought to stop and ask, "Are there other views?".  I learned a lot in the process.</p>

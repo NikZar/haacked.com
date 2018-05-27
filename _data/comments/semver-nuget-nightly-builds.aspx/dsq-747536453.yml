@@ -1,0 +1,6 @@
+id: dsq-747536453
+date: 2011-10-25T02:54:56.0000000-07:00
+author: Brad Wilson
+email: dotnetguy@gmail.com
+gravatar: 2560112a578efab82a5fddd7284ef4f2
+message: '<p>Re: your examples, SemVer strictly only A-Z, a-z, 0-9, and dash (-) in the special version number. Your examples used underscores, which would not be legal.</p>'

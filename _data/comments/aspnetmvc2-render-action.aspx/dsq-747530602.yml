@@ -1,0 +1,6 @@
+id: dsq-747530602
+date: 2009-11-18T05:03:00.0000000-08:00
+author: Dmitriy Nagirnyak
+email: dmitriy_nagirnyak@wordpress.disqus.net
+gravatar: baad3ef181e1e91610c66af69c3d2059
+message: <p>I think IsChildAction is not such a good property.<br>It does not represent nested child-actions.<br>Better one would probably be "ParentContext" or similar, so we can track the nested calls easily this way.</p>

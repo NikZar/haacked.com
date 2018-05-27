@@ -1,0 +1,6 @@
+id: dsq-747507916
+date: 2007-03-02T10:27:38.0000000-08:00
+author: Shan Plourde
+email: shan_plourde@wordpress.disqus.net
+gravatar: b1dbb8c0863a0eb6be9481b4a200b040
+message: <p>Hi Phil, I use this type of technique all the time too. BUT your solution will always leave a comma at the end of the string ;) This could have been the deal breaker for that senior job ;) <br>DECLARE @FirstNames VARCHAR(8000)<br>SET @FirstNames = '' <br>SELECT top 10 @FirstNames = @firstNames + case len(@firstnames) when 0 then '' else ',' end + FirstName<br>FROM tblnames<br>print @firstnames</p>

@@ -1,0 +1,6 @@
+id: dsq-747524821
+date: 2008-04-09T15:08:41.0000000-07:00
+author: Peter Morris
+email: peter_morris@wordpress.disqus.net
+gravatar: 897c248df03e1c56da2da6a5c31865ce
+message: <p>I love the MS MVC web approach.  However, I really wish the controllers could have been completely decoupled from HTTP so that the same controllers could have been used in local WinForm apps, websites, and remote server apps.</p>

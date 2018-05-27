@@ -1,0 +1,6 @@
+id: dsq-747516618
+date: 2006-09-13T02:43:41.0000000-07:00
+author: Dave
+email: dave@wordpress.disqus.net
+gravatar: 28f4b3c97147643d85dfdcb8b6627b60
+message: <p>For the CPU-intensive stuff, why not go native? And for that matter, why not a natively-compiled Ruby extension? I've done it with Ruby's RegEx interface because Java's was too slow for my purposes, and it's screaming fast at some pretty heavyweight recursive RegEx parsing on long strings. If it's just one or even a few areas that have the need for speed, isolate them and use a native dll. You can save dev AND cpu cycles...</p>

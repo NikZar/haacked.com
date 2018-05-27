@@ -1,0 +1,6 @@
+id: dsq-747534418
+date: 2012-04-26T15:05:51.0000000-07:00
+author: Paul
+email: paul@paul.com
+gravatar: f16f6aa3b000916dc48e6947660c201d
+message: <p>Hey Phil - i cant get the 301 redirect to work - i simply want to redirect to the same controller but with a lower case starting letter ie from "MyControllerName/" to "myControllerName" so that the url in the user's browser changes - can you advise a simple example? Thanks</p>

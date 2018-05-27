@@ -1,0 +1,6 @@
+id: dsq-747515650
+date: 2006-07-09T22:33:00.0000000-07:00
+author: Steve Harman
+email: steve_harman@wordpress.disqus.net
+gravatar: c02eeb0df6e3c7f316ea5008470fb25d
+message: <blockquote>Of course the potential for abuse is high and the rewards are low...</blockquote><p> Agreed! I see such proxies quickly becoming a sort of <i>Open Relay</i> system not unlike those used by email spammers.<br>Perhaps a slightly less <i>open</i> solution is to have the hosting providers make a track/ping-back service available to their hosted applications. Then they could restrict access to the service to only allow thier clients to use the proxies.</p>

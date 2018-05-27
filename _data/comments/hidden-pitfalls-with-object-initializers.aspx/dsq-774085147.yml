@@ -1,0 +1,6 @@
+id: dsq-774085147
+date: 2013-01-21T10:07:02.0000000-08:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Ah, good point. The dependency member is assigned, but since the Owner wasn't fully constructed, its Dispose method is never called. :)</p>

@@ -1,0 +1,6 @@
+id: dsq-747526450
+date: 2008-10-14T05:04:20.0000000-07:00
+author: maudite
+email: fake@false.com
+gravatar: 32c5eb42b5c3d853366839da1b6c007b
+message: <p>didn't know select would render. <br><code> <br>&lt;select&gt;<br>  &lt;option&gt;A&lt;/option&gt;<br>&lt;/select&gt;&lt;select&gt;<br> <br>&lt;/select&gt;</code></p>

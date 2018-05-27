@@ -1,0 +1,6 @@
+id: dsq-747530490
+date: 2009-11-10T03:04:00.0000000-08:00
+author: Aaron Fischer
+email: aaron_fischer@wordpress.disqus.net
+gravatar: 4affa52566f8f4ecfc08e9a88bcb7bb4
+message: '<p>And if you wanted ISuperHero to have a Name...<br>public interface ISuperHero : IPerson {<br> new  string Name { get; set; } <br> string Alias { get; set; }<br>}</p>'

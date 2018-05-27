@@ -1,0 +1,6 @@
+id: dsq-1132375937
+date: 2013-11-21T01:12:17.0000000-08:00
+author: Alexander Troup
+email: graham.troup@gmail.com
+gravatar: 27621ca32a252313f07fda4f65517052
+message: <p>Aside from the fact you should probably get more sleep, You've hit on what seems like the crux of the argument here:</p><p>Some people prefer readable code over efficient, some will prefer efficient code over readable.</p><p>That may be over simplifying though.  In reality I think context is the important thing to consider in choosing here.  If your code is on a hot path then you may need to have the less readable method, with the benefit of faster code.</p>

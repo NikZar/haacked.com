@@ -1,0 +1,6 @@
+id: dsq-747525820
+date: 2008-07-22T22:39:25.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Russell If you write code and test in your database, then I probably <em>would</em> call that test a unit test. You haven't crossed boundaries. But if you wrote your test in C# as part of your business object tests, then you're reaching across from one system (C# app) into another (database) and that would be an integration test.</p>

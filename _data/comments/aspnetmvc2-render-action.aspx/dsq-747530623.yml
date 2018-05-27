@@ -1,0 +1,6 @@
+id: dsq-747530623
+date: 2009-11-19T00:15:00.0000000-08:00
+author: born2code
+email: born2code@wordpress.disqus.net
+gravatar: 338ceca2537e0ba69474ec59cca650f0
+message: <p>so i have been doing this for a while now by simply using jquery to call my PartialResult controller method and setting the html with the PartialView that comes back.<br>does the exact same thing with the added benefit of async loading the partial view, without having to rely on a separate RenderAction method.<br></p>

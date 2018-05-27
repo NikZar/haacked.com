@@ -1,0 +1,6 @@
+id: dsq-747534464
+date: 2011-02-20T02:52:01.0000000-08:00
+author: S&#248;ren Gregersen
+email: soreng@gmail.com
+gravatar: 05a4781c4a84aae9ea939e9194f8eeb1
+message: <p>Hi Phil, You've been hacked!<br>Well, technicaly you've just inserted an empty H2-element before the "The Workaround"-heading, so IE9 makes the rest of the page look really akward. <br>Other browser render the "closed" H2 (&lt;h2 /&gt;) as an empty header, that is 0 (zero) pixel tall.</p>

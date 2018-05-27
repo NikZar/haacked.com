@@ -1,0 +1,6 @@
+id: dsq-747524154
+date: 2008-02-12T01:27:45.0000000-08:00
+author: Damien Guard
+email: damien@envytech.co.uk
+gravatar: dc72963e7279d34c85ed4c0b731ce5a9
+message: <p>You might also want to consider:<br><code><br>&lt;httpHandlers&gt;<br>&lt;remove verb="*" path="*.asmx"/&gt;<br>&lt;add path="*.aspx" verb="*" type="System.Web.HttpForbiddenHandler"/&gt;<br>&lt;/httpHandlers&gt;<br></code></p>

@@ -1,0 +1,6 @@
+id: dsq-747510434
+date: 2004-11-17T17:33:00.0000000-08:00
+author: Brad Wilson
+email: brad_wilson@wordpress.disqus.net
+gravatar: e84a2060dfd6638f21cf3a4001b0087b
+message: "<p>Yep, I've run into this, too.<br><br><br><br>A hint: the way he's calling Response.Redirect, it will result in a call to Response.End.<br><br><br><br>By the way, there's a related oddity in HTTP handler factories. Ever run across that one?</p>"

@@ -1,0 +1,6 @@
+id: dsq-763628530
+date: 2013-01-11T03:55:20.0000000-08:00
+author: WickyNilliams
+email: mr.nicksta@gmail.com
+gravatar: 3161505908c3ae19ee8280f4ee893ecb
+message: "<p>Another, slightly related, problem with object initialisers: If you are initialising an object with a lot of properties and something goes wrong with with one of the set operations, the stack trace doesn't tell you which set failed. Instead it points to the first line of the initialiser, meaning it can be hard to diagnose issues from logs. </p>"

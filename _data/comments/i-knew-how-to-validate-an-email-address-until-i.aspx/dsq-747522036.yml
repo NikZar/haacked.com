@@ -1,0 +1,6 @@
+id: dsq-747522036
+date: 2007-08-21T23:16:08.0000000-07:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Bill Thanks for pointing that out. I need to make sure that fix gets into the next version of Subtext.<br>I changed my email validation to be very liberal. .*?@.*</p>

@@ -1,0 +1,6 @@
+id: dsq-747531443
+date: 2010-01-19T00:05:52.0000000-08:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@John Aleč is correct. Code in the App_Code directory is compiled  <em>at runtime</em> using the ASP.NET compilation system.<br>The distinction between Web Application and Web Site projects is a Visual Studio Project distinction, not a runtime distinction.</p>

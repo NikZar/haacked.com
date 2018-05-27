@@ -1,0 +1,6 @@
+id: dsq-747525791
+date: 2008-07-17T08:22:33.0000000-07:00
+author: tgmdbm
+email: james.mdb@gmail.com
+gravatar: 941b5f10fdfcc7f251a3da321a8d5614
+message: <p>Hey Phil, I thought that the RenderAction method was the best way to encapsulate some reusable logic... that is until it came time to test it. You really see how badly it breaks the MVC model.<br>ComponentController was fine but you lost your IoC goodness.<br>Looking forward to how this looks in the next preview.</p>

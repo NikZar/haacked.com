@@ -1,0 +1,6 @@
+id: dsq-747521273
+date: 2007-11-09T06:21:05.0000000-08:00
+author: Kevin G
+email: kevin.gabbert@state.or.us
+gravatar: e4399bcd90949b14e2215733de340bc7
+message: <p>ah. Found the answer here:<br><a href="http://haacked.com/archive/2007/06/20/what-a-difference-a-revision-makes---iconfigmappath-is-inaccessible.aspx" rel="nofollow noopener" title="http://haacked.com/archive/2007/06/20/what-a-difference-a-revision-makes---iconfigmappath-is-inaccessible.aspx">http://haacked.com/archive/...</a><br>I upgraded to .net 3.5, which replaced System.Web with a newer version.</p>

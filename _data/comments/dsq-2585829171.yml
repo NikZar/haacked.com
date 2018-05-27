@@ -1,0 +1,6 @@
+id: dsq-2585829171
+date: 2016-03-23T15:28:46.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Really nice catch! The example I provided was simplified for the sake of demonstration and the actual regex for usernames is more complicated than this and doesn't have the same flaw.</p><p>Having said that, I will fix up this example and you just gave me an idea for a follow-up blog post! Thanks! :)</p>

@@ -1,0 +1,6 @@
+id: dsq-1508583472
+date: 2014-07-28T11:50:29.0000000-07:00
+author: Latish
+email: sehgal_latish@yahoo.com
+gravatar: 88db2c68c166442d5bda768d0ebc00c1
+message: <p>Great stuff! If I have a project with binaries checked in, I use the this for ignoring them in diffs</p><p>dt = !git difftool -- $(git difftool --name-only | grep -Ev "*dll")</p>

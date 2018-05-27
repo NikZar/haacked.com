@@ -1,0 +1,6 @@
+id: dsq-747512186
+date: 2007-10-09T16:49:34.0000000-07:00
+author: Glenn Belardo
+email: glenn_a_belardo@yahoo.com
+gravatar: 4a5001b7f3b673ce2a3abec2741c99a3
+message: <p>This is a great approach but I think this will not work. HttpContext.Current is a read-only property so we cannot assign a new instance of HttpContext to it.</p>

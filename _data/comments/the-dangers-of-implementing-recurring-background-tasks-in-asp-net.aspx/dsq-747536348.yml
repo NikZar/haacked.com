@@ -1,0 +1,6 @@
+id: dsq-747536348
+date: 2011-10-16T07:25:03.0000000-07:00
+author: Marcus McConnell
+email: marcus@bvsoftware.com
+gravatar: d3774e268d5307a768130efb445b422e
+message: <p>I just finished up a similar background scheduler but I wasn't sure how to handle app domain shutdowns. Thanks for the code. Very helpful!<br>It would be great if we had a way for ASP.NET apps to register scheduled tasks outside of the web app domain but sandboxed to only access their parent application. Kind of a safe way to allow a medium trust web app to add a windows scheduled task. Just brainstorming...</p>

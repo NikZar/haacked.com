@@ -1,0 +1,6 @@
+id: dsq-2773745834
+date: 2016-07-09T02:43:03.0000000-07:00
+author: William
+email: shakespeare2000@users.noreply.github.com
+gravatar: b2af00c16a0c2d96a0306df5894e1c9b
+message: <p>Had the same problem. It seems like Posh-Git is only extracted / downloaded when you open PowerShell using the Git Shell shortcut (only once of course).</p>

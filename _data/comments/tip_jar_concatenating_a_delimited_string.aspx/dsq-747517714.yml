@@ -1,0 +1,6 @@
+id: dsq-747517714
+date: 2006-11-21T10:24:16.0000000-08:00
+author: Steven Harman
+email: steven@harmanly.com
+gravatar: 1bc0f66d5f0ef810ddfad0dc29649ae3
+message: <p>I feel your pain!<br>I've actually used Join in both C# and Javascript for some code I wrote for manipulating the CSS Styles of a DOM element. It's nice to deal with the styles as an array, but when added back to the element, they need to be a single string with each Style separated by a space (" ").<br>Anyhow, good Tip!</p>

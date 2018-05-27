@@ -1,0 +1,6 @@
+id: dsq-747516036
+date: 2006-09-20T00:14:06.0000000-07:00
+author: si
+email: sshnug.si@gmail.com
+gravatar: 1fb4dd0367698e1d81f0b8c1d4d215c1
+message: <p>Hi there, nice of your company to allow it be released.<br>I've been working on something similar for a while now (see website link), and although NAnt has been pushed (way) beyond it's purposes, you might some interesting stuff in there. Then again, you may think it's crud :) but I found using Subversion properties to control post-commit emails to be quite useful.<br>One day, probably a few weeks after i've won the lottery and am sitting on a beach in Fiji, i'll rewrite Subnant in straight C# using the NSvn library in AnhkSVN.<br>Anyway, good luck!</p>

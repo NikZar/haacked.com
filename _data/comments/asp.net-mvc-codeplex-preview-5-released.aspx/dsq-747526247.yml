@@ -1,0 +1,6 @@
+id: dsq-747526247
+date: 2008-08-29T19:20:05.0000000-07:00
+author: shawn
+email: shawn@wordpress.disqus.net
+gravatar: 3903eb24f6608424b58153e26a953121
+message: <p>@Derik<br>Replace &lt;%=Html.RenderUserControl("foo.aspx",model)<br>with<br>&lt;%Html.RenderParital("Foo")</p>

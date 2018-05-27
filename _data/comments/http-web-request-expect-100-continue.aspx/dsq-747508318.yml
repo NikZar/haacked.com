@@ -1,0 +1,6 @@
+id: dsq-747508318
+date: 2010-12-14T01:06:09.0000000-08:00
+author: Kris Krause
+email: kris.krause@gmail.com
+gravatar: c1f5b2a79a5cf952693754e2cbc9fa85
+message: <p>Thanks guys. The following code removed the header for me:<br>webRequest.ServicePoint.Expect100Continue = false;<br>One can verify the raw HTTP using Fiddler (if you want).</p>

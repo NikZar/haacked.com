@@ -1,0 +1,6 @@
+id: dsq-747536002
+date: 2012-10-26T16:22:51.0000000-07:00
+author: Robert Wagnon
+email: rwagnon@acumen-corp.com
+gravatar: 8bb38c87e5a68a784ca2e6651e8f7b84
+message: '<p>The installation script loads the DLL Assembly, but it is inaccessible after.  An error says "make sure that the assembly containing this type is loaded"<br>I can confirm that it is loaded by executing this in the Visual Studio Package Powershell:  [System.Threading.Thread]::GetDomain().GetAssemblies() | sort -property fullname | format-table fullname</p>'

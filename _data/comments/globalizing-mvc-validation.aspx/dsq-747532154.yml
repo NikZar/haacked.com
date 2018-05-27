@@ -1,0 +1,6 @@
+id: dsq-747532154
+date: 2010-05-10T02:11:24.0000000-07:00
+author: Jake
+email: cipherzero@gmail.com
+gravatar: 62ce3d1eb42259c30fa65e2178e212b8
+message: <p>I think you meant<br>I’m applying a range from <strong>10</strong>0 to 1000.<br>public class Product<br>{<br>    [Range(<strong>10</strong>0, 1000)]<br>    public int QuantityInStock { get; set; }<br>Otherwise it doesn't make sense why you would get the validation that you are talking about...<br>Other than that, very cool!<br></p>

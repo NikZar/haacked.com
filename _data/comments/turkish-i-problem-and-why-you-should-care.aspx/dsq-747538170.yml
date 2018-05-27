@@ -1,0 +1,6 @@
+id: dsq-747538170
+date: 2012-07-05T19:12:47.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@John great question. That's a rule I generally ignore unless I have some specific reason that requires it. It really depends on the application. For example, I ignore all the rules about COM because I don't care about COM interoperability. When that becomes a requirement, then maybe I'll turn them on.</p>

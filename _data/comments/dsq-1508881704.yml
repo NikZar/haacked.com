@@ -1,0 +1,6 @@
+id: dsq-1508881704
+date: 2014-07-28T15:09:58.0000000-07:00
+author: ecksun
+email: invalid@email.adress
+gravatar: e0737262d87e0c2a9e1ea7f2a69983b0
+message: <p>I like the idea of letting simple aliases doing so much work.</p><p>However, you are not actually using git grep, but ordinary grep:<br>"Git Grep prints out lines matching the pattern."</p><p>bclean = ... | grep -v " ${1-master}$" | ...</p>

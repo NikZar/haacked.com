@@ -1,0 +1,6 @@
+id: dsq-747508866
+date: 2007-07-29T20:34:51.0000000-07:00
+author: Pirmin
+email: pirmin@wordpress.disqus.net
+gravatar: e9d27756ebfb957467b3177568414565
+message: <p>I had the same problem!<br>Instead of StringDictionary, now I'm using<br>Dictionary&lt;string, string&gt; (System.Collections.Generic).<br>This works fine for me.</p>

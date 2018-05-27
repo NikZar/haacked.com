@@ -1,0 +1,6 @@
+id: dsq-747515454
+date: 2008-05-21T17:52:44.0000000-07:00
+author: Chris Woodward
+email: chrismwoodward@yahoo.co.uk
+gravatar: 51b8f3d8d5712996a6d3ef0878e777a0
+message: <p>One alternative to Chris Hedgate having his Views call the presenter directly and so needing to know about it, is to have an intermediary class than listens to the View and calls the appropriate method on the Presenter.<br>This means your unit tests that test the presenter logic don't need to deal with events. Testing that the intermediary maps View events to the correct Presenter method calls would be easier to test.</p>

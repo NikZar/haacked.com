@@ -1,0 +1,6 @@
+id: dsq-747522245
+date: 2007-09-05T01:42:06.0000000-07:00
+author: Joe Cheng [MSFT]
+email: joe.cheng@microsoft.com
+gravatar: 27eda340a4782f0c07eeefeadc3a4b07
+message: <p>Extensibility is great. Unfortunately, it doesn't come for free, and exposes you to long term constraints for as long as you intend to keep backwards compatibility. So it's not "why not allow me to switch it out", it's "why not design, implement, test, document, and maintain an extensible API for test framework integration while also creating v1 of your own test framework". Still a good idea, but it takes effort, and not even Microsoft is free of resource constraints.</p>

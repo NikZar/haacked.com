@@ -1,0 +1,6 @@
+id: dsq-747508798
+date: 2008-12-01T05:48:08.0000000-08:00
+author: Doug
+email: douglas.rathbone@alphasalmon.com.au
+gravatar: adeb323c3d920da1a36a8c09c7018159
+message: <p>The thing that most surprised me about this is that it works in subsonic:<br>SubSonic.SqlQuery qry = Select.AllColumnsFrom&lt;Gallery&gt;().<br>                Top("6").OrderAsc("NEWID()");</p>

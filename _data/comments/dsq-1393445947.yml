@@ -1,0 +1,6 @@
+id: dsq-1393445947
+date: 2014-05-19T09:13:30.0000000-07:00
+author: Petar Repac
+email: petar.repac@gmail.com
+gravatar: 6ad089a817870c9f92db929863b30495
+message: <p>Yes, the backward compatibility issue is an interesting one. I have the feeling that some breaking changes (and not minor ones) will be necessary.</p><p>But, I think/hope the community will not be bothered too much is some things break if in return we get a new and improved ASP.NET architecture/API with some old issues solved and some old baggage is thrown away.</p>

@@ -1,0 +1,6 @@
+id: dsq-747525673
+date: 2008-09-17T03:07:33.0000000-07:00
+author: John
+email: john@wordpress.disqus.net
+gravatar: 804e1fb9d0b3d98c0b953781dd76127d
+message: '<p>You could also use:<br>void Application_EndRequest()<br>    {<br>        Response.Write("Time Elapsed: " + DateTime.Now.Subtract(HttpContext.Current.Timestamp).TotalMilliseconds);<br>    }</p>'

@@ -1,0 +1,6 @@
+id: dsq-3039484028
+date: 2016-12-06T14:35:59.0000000-08:00
+author: Andrew Arnott
+email: andrewarnott@gmail.com
+gravatar: ebc5e94561110bbfb1ea487665849fdc
+message: "<p>I've written a powershell script that does this, and prints out a table of the nuget packages for easy human parsing: <a href=\"https://gist.github.com/AArnott/71a59642d0beb117034a4f92d1981385\" rel=\"nofollow noopener\" title=\"https://gist.github.com/AArnott/71a59642d0beb117034a4f92d1981385\">https://gist.github.com/AAr...</a></p>"

@@ -1,0 +1,6 @@
+id: dsq-747531689
+date: 2010-02-16T19:38:46.0000000-08:00
+author: MikeC
+email: mikecallaghan@yahoo.com
+gravatar: 951f3669e43ff3604594fedf445233d9
+message: <p>I just rebuilt my development box, but I appear to be missing something. I'm getting the following error on building my MVC2 project, which worked fine two days ago:<br></p><blockquote><br>The name 'UrlParameter' does not exist in the current context</blockquote><p><br>Did I forget to install something?<br>Thanks!<br>Mike<br></p>

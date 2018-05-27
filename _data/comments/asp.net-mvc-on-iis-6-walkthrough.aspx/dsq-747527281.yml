@@ -1,0 +1,6 @@
+id: dsq-747527281
+date: 2010-09-16T13:18:48.0000000-07:00
+author: muzammil ahmed
+email: muzammil_ahmed76@hotmail.com
+gravatar: 34c2a671ad4fdadb68aec1efcd51577b
+message: <p>Hey, <br>thanks for the great post. but i have a problem.<br>After i implemented what you have mentioned in your post, my db connection went for a toss. i started getting the following error<br>sqlException{"Cannot open database \"BLAHBLAH\" requested by the login. The login failed.\r\nLogin failed for user BLEEHBLEEh\\ASPNET'."}System.Data.SqlClient.SqlException<br></p>

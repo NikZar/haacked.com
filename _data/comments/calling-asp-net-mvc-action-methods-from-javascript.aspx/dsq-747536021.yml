@@ -1,0 +1,6 @@
+id: dsq-747536021
+date: 2011-08-18T19:23:42.0000000-07:00
+author: Joey Robichaud
+email: joey.robichaud@gmail.com
+gravatar: 0a9eca449c699296b754464c749c3721
+message: <p>Instead of generating javascript when called. It should generate the javascript when the controller is saved. That way it can be referenced when writing the rest of your site's js.</p>

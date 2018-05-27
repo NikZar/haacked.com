@@ -1,0 +1,6 @@
+id: dsq-747522013
+date: 2007-08-21T02:21:02.0000000-07:00
+author: Damien Guard
+email: damien@envytech.co.uk
+gravatar: dc72963e7279d34c85ed4c0b731ce5a9
+message: <p>I've been using a regex that basically checks for at least one non-whitespace char before the @ sign, another one after, a dot and then another two.<br>Looks like you haven't touched on the international UTF-8 symbols and accented characters that are recommended to be valid (a later RFC perhaps - I think I saw it in the IETF DRUMS 08 on SMTP)<br>[)amien</p>

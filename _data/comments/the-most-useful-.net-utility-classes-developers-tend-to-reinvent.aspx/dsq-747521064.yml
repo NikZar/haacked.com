@@ -1,0 +1,6 @@
+id: dsq-747521064
+date: 2007-06-13T18:36:01.0000000-07:00
+author: Justin Pierce
+email: justin@justinpierce.com
+gravatar: 1b055c1de618c7e3350d62277975fcce
+message: <p>Everything in the Enum and Array static classes should be on this list. I practically threw a party when I found out about Enum.Parse().</p>

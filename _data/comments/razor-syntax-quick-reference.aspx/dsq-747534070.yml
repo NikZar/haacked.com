@@ -1,0 +1,6 @@
+id: dsq-747534070
+date: 2011-01-07T04:43:22.0000000-08:00
+author: Martin
+email: super@lynhurtig.dk
+gravatar: 250f5adb5322904a0e52fa8fed5fe6d8
+message: <p>You have had a guide about Conditional Compilation Statements earlier, and they work fine with Razor, the color change of the condition which is not true is not working though.<br>But unlike WebForms, it doesnt crash the intellisense in the editor when using them.</p>

@@ -1,0 +1,6 @@
+id: dsq-747522342
+date: 2007-09-10T16:23:24.0000000-07:00
+author: Philippe LACHAISE
+email: philippe.lachaise@gmail.com
+gravatar: 64cefc5969da4ae702d86c9f26cb8733
+message: <p>I would suggest NOT to use id="honeypot" (they might learn to spot that), rater something like id="userComment" or some other pest appetizer ;-)</p>

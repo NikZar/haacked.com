@@ -1,0 +1,6 @@
+id: dsq-747534922
+date: 2011-05-05T03:23:38.0000000-07:00
+author: Jonas Stawski
+email: jstawski@live.com
+gravatar: e4cdb760a3e422640d515f5789145b3c
+message: <p>Awesome debugger, saved me a headache trying to figure out why the right action was not executing. Just FYI that jQuery breaks if using the route debugger. It is kind of annoying hitting the conitnue (or ignore) button in VS for every JS error. Other than that, great work, like usual...</p>

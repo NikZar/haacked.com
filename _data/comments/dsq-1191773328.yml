@@ -1,0 +1,6 @@
+id: dsq-1191773328
+date: 2014-01-07T22:32:59.0000000-08:00
+author: the_real_cuban
+email: roman.fq@gmail.com
+gravatar: 0e083392e632d21efcad4b26990ad9d0
+message: <p>I am still surprised at not seeing complete mentions of semantics of the called method, only a vague reference to its signature, is that enough?<br>What if you require certain assertions to hold on the returned value prior to calling the method, e.g, you require a "quack" that is guaranteed to return a 5-letter string? Is that part of the "like a duck" in your title?</p>

@@ -1,0 +1,6 @@
+id: dsq-747531450
+date: 2010-02-01T19:15:21.0000000-08:00
+author: John Dyer
+email: johndyer@gmail.com
+gravatar: 35b73fc3ae0d85723c10db44dc0a40a2
+message: <p>I'm trying to use something like this to build a CMS (in 4.0) that uses a catch-all and constraints to determine which URLs to handle. The problem I'm getting is that catch-all/wildcards don't catch URLs with a trailing slash (/). I know it's a bit off topic, but do you know a way to catch the trailing slash on a catch-all?</p>

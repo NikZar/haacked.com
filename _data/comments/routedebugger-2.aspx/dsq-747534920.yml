@@ -1,0 +1,6 @@
+id: dsq-747534920
+date: 2011-05-04T02:14:09.0000000-07:00
+author: Marc Simkin
+email: marcs@mhcomp.com
+gravatar: d57178ae85a5063120b31a06f94e686c
+message: <p>With IIS 7.x, .Net 4, and MVC 3, if the application pool is set for classic mode, the HttpModule dynamic registration doesn't work.<br>Any suggestions on how to get it to work in classic mode?<br>thanks</p>

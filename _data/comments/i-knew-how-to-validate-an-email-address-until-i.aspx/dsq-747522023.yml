@@ -1,0 +1,6 @@
+id: dsq-747522023
+date: 2007-08-21T04:01:45.0000000-07:00
+author: Lamby
+email: chris@chris-lamb.co.uk
+gravatar: a3b4dae5c1fbd8aa90c78ad1f3814329
+message: <p>Has anyone considered accepting pretty much anything that's not malicious and then looking up whether MX records for that domain exist?<br>It actually catches typos, it's not dependent on anyone's interpretation of a dodgy specification, and it's fairly future-proof too.</p>

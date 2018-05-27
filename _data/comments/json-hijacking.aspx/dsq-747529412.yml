@@ -1,0 +1,6 @@
+id: dsq-747529412
+date: 2011-02-15T19:15:24.0000000-08:00
+author: Mauricio Szabo
+email: mauricio.szabo@gmail.com
+gravatar: f45c92880baef3593e58fb0b241212cc
+message: <p>Could not reproduce the error with Firefox 3.0.10, nor with chromium browser 11.0.665.0 (on Ubuntu) or Safari, on iPhone. Only with Midori I could reproduce the problem (but I don't think anybody uses this, so I believe I'm safe).</p>

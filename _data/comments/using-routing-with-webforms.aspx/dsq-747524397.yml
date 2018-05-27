@@ -1,0 +1,6 @@
+id: dsq-747524397
+date: 2008-03-11T15:44:25.0000000-07:00
+author: Tim van der Schaaf
+email: tim@moorwebsoftware.com
+gravatar: 43549db66bca93d65d0fdb4354526b5c
+message: <p>Hi Phil, thanks for the interesting posting. We are currently looking into Url Rewriting on an ASP.Net 2.0 based website. After reading this post I am considering using the Routing engine as it seems a much nicer, cleaner solution. So the question is, can we use the required dll's with ASP.Net 2.0? <br>Cheers,<br>Tim</p>

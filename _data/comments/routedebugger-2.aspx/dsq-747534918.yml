@@ -1,0 +1,6 @@
+id: dsq-747534918
+date: 2011-04-27T17:15:00.0000000-07:00
+author: alexandros
+email: abithyzis@allthingsweb.gr
+gravatar: e682a6be30c903b25ba61c7c553624d6
+message: <p>With the old debugger I could see a trace in cases when my routes weren't working at all (an exception was thrown due to bad routes). is there a way to achieve this now?</p>

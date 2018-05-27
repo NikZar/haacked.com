@@ -1,0 +1,6 @@
+id: dsq-747529733
+date: 2009-08-19T00:12:00.0000000-07:00
+author: Colin Whitlatch
+email: colin_whitlatch@wordpress.disqus.net
+gravatar: b8af37ed93d7d1815f807e2f5d019b08
+message: <p>I use the same technique ( passing actions around ) forgeneric  exception handling ( just logging! ) &amp; launching simple threads.  I hadn't thought about doing it with transactions, I like it!</p>

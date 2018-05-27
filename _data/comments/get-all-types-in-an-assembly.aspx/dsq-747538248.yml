@@ -1,0 +1,6 @@
+id: dsq-747538248
+date: 2012-07-23T19:19:51.0000000-07:00
+author: Luke Usher
+email: flukus@gmail.com
+gravatar: 689107856b5a794181624031eb6df776
+message: <p>What would also be use full is some better exception messages in the reflection API.<br>Eg "the assembly could not be loaded because its missing a dependency". Great, which dependency?</p>

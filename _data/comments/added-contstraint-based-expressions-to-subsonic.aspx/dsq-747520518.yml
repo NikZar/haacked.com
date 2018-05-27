@@ -1,0 +1,6 @@
+id: dsq-747520518
+date: 2007-05-22T14:33:35.0000000-07:00
+author: Andy Stopford
+email: astopford@gmail.com
+gravatar: cf3af1fa0f57cddb8ae002a60f42462a
+message: <p>Phil it's actually MbUnit Gallio (v3) that will feature this not v2.*. It's likely to based on the 3.5 expression tree's but will as much as possible have allowance for NUnit's expressions.</p>

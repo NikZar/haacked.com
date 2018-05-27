@@ -1,0 +1,6 @@
+id: dsq-747525657
+date: 2008-07-02T05:53:40.0000000-07:00
+author: Jeff Atwood
+email: jatwood@codinghorror.com
+gravatar: 51d623f33f8b83095db84ff35e15dbe8
+message: <p>oh, right, you gotta add it to the  &lt;system.webserver&gt;/&lt;modules&gt; section to get it to work in IIS7 -- you should update your post to reflect this.</p>

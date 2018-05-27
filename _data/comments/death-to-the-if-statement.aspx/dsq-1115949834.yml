@@ -1,0 +1,6 @@
+id: dsq-1115949834
+date: 2013-11-09T15:47:07.0000000-08:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Right. Original implementation with the "if" is telling the computer what to do. The latter implementation is more about telling the computer what you want.</p><p>It's like the difference between "Go north 100 steps, Go east 50 steps, Go North another 100 steps." instead of "Go to the store." I prefer declarative code.</p>

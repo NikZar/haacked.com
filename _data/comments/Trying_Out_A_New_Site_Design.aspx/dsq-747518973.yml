@@ -1,0 +1,6 @@
+id: dsq-747518973
+date: 2007-03-06T22:50:34.0000000-08:00
+author: Phil Scott
+email: philip@maximumasp.com
+gravatar: 4efbd5565ff7e40d17ffc8384b3674aa
+message: "<p>For what it's worth, the left:60% on #searchWrapper is throwing things off.  I think it's keeping it's width and just shoving it 60% to the right.  Adding something like width:40% to the element should get rid of the horizontal scrollbar.</p>"

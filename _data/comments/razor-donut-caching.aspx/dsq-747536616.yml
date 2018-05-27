@@ -1,0 +1,6 @@
+id: dsq-747536616
+date: 2011-11-27T09:26:14.0000000-08:00
+author: Sean
+email: sean@wordpress.disqus.net
+gravatar: ea1072f2a002fc1d662a6f21118fd78d
+message: <p>Instead of @nocache, would it not make more sense to add an overload for @cache so you could just express it as @cache(false)?</p>

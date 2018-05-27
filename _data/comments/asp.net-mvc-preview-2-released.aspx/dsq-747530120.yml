@@ -1,0 +1,6 @@
+id: dsq-747530120
+date: 2009-10-01T19:07:00.0000000-07:00
+author: Diego
+email: diego@wordpress.disqus.net
+gravatar: 5c296d0dab59017cbef230735ecbd51f
+message: <p>Uhm.... i tried to run my project developed with the preview 1 with this new release, but i got several errors caused by new MvcHtmlString result of Helpers.<br>It's there a way to resolve or I have to add a "ToString()" on every helper?<br>Thanks a lot.<br>Bye<br>Diego</p>

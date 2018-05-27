@@ -1,0 +1,6 @@
+id: dsq-2543811414
+date: 2016-02-29T11:06:06.0000000-08:00
+author: Eduardo
+email: eduardobramires@hotmail.com
+gravatar: cf505bb311205cc230ee1a06b25fea01
+message: <p>It only works for me when i remove the Currency Symbol from the string. Like this:<br>valueResult.AttemptedValue.Replace(<br>CultureInfo.CurrentCulture.NumberFormat.CurrencySymbol,string.Empty).Trim()</p>

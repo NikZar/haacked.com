@@ -1,0 +1,6 @@
+id: dsq-747529770
+date: 2009-08-19T14:34:00.0000000-07:00
+author: Luis Abreu
+email: luis_abreu@wordpress.disqus.net
+gravatar: 18cf09a3b16dbe32ed5051067e049d66
+message: <p>I've been using similar code to that for some time now (but since I tend to use NH, I tipically use the ITransaction interface). You could also consider passing the transaction object to the action method so that it has control over the final result.</p>

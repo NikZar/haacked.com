@@ -1,0 +1,6 @@
+id: dsq-747533597
+date: 2010-11-22T00:13:32.0000000-08:00
+author: Matt Tester
+email: matt@pureblue.co.nz
+gravatar: 1dc1bfb6258deeee46ec76b29047f84e
+message: <p>I use named routes so that I don't have to define the "controller" and "action" parameters when using it (in your final example, these can be removed from the routeValues). This helps when you end up refactoring the action name or even the controller!</p>

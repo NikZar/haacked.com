@@ -1,0 +1,6 @@
+id: dsq-747521888
+date: 2007-08-13T14:32:41.0000000-07:00
+author: Simone Chiaretta
+email: simone@piyosailing.com
+gravatar: 444625287c652a4e31f4a271905b713a
+message: <p>The biggest concerns from YSlow are the gzip, Expires headers and ETags, which are valued 11, while the CSS, and other stuff are valued a lot less.</p>

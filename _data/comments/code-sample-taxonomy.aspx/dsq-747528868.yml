@@ -1,0 +1,6 @@
+id: dsq-747528868
+date: 2009-04-17T11:20:00.0000000-07:00
+author: Louis DeJardin
+email: louis_dejardin@wordpress.disqus.net
+gravatar: 15bddd6dd9684c4dcd10f64f29aabc07
+message: <p>I'm guessing you'll find a lot of<br>public void SomeSampleAction() <br>{<br>try <br>{<br>throw new CutAndPasteException("Hey, this is sample code! Don't copy it!"); <br>} catch {}<br>//... bunch of sample code.<br>}<br>in code reviews. ;)<br>Good ol' "catch {}". The "on error resume next" of csharp.<br></p>

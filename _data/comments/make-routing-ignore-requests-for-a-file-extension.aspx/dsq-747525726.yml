@@ -1,0 +1,6 @@
+id: dsq-747525726
+date: 2008-07-14T23:52:59.0000000-07:00
+author: mark
+email: mark@wordpress.disqus.net
+gravatar: 0e335f04676ab05f7d0d816a91e44cca
+message: "<p>Hi, whats the difference from adding and not adding: <br>routes.IgnoreRoute(\"{*allaspx}\", new {allaspx=@\".*\\.aspx(/.*)?\"});<br>when i didn't have that, my .aspx pages still works.<br></p>"

@@ -1,0 +1,6 @@
+id: dsq-747527796
+date: 2009-01-27T17:01:52.0000000-08:00
+author: dario-g
+email: dgi@isp.net.pl
+gravatar: 7b71a5f2d60445f2f4e5cfbddd5f57c4
+message: <p>Hi, great stuff. Beta uninstalled and RC installed and... projest doesn't compile. Why FilePathResult within controller was named File??? File is the name of very often used class from System.IO!!! :(</p>

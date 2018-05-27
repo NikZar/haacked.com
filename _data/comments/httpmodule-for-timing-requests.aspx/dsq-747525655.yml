@@ -1,0 +1,6 @@
+id: dsq-747525655
+date: 2008-07-02T05:42:14.0000000-07:00
+author: Jeff Atwood
+email: jatwood@codinghorror.com
+gravatar: 51d623f33f8b83095db84ff35e15dbe8
+message: <p>I suspect this doesn't work under IIS7 for some reason.. works great locally in Cassini, but nothing on our dev server.</p>

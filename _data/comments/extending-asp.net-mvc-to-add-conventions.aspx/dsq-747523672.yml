@@ -1,0 +1,6 @@
+id: dsq-747523672
+date: 2007-12-19T07:11:21.0000000-08:00
+author: Francois Tanguay
+email: francois.tanguay@nventive.net
+gravatar: 2b02af26938a44e74fc0fb37111e50e6
+message: "<p>Not sure the ConventionController supports RedirectToAction. From what I see:<br>class MyController : ConventionController<br>{<br>public void Foo()<br>{<br>  RedirectToAction(\"Bar\");<br>}<br>}<br>When Foo returns, won't it result in a call to RenderView(\"Foo\")?</p>"

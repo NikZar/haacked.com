@@ -1,0 +1,6 @@
+id: dsq-747521051
+date: 2007-06-13T14:15:29.0000000-07:00
+author: Jon Rowett
+email: jon@jonrowett.com
+gravatar: 0947e13bb83c3ca9f40609ba7efa2510
+message: <p>is this a typo?<br>&gt; string path = VirtualPathUtility.ToAbsolutePath("~/Controls/Test.ascx");<br>&gt; ~/MyApp/Controls/Test.ascx</p>

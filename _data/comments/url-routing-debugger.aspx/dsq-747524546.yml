@@ -1,0 +1,6 @@
+id: dsq-747524546
+date: 2010-04-26T21:47:15.0000000-07:00
+author: eric
+email: ericgsims@yahoo.com
+gravatar: 47f60493c6ef5e3bd047f4ea9176a53b
+message: <p>Not that hard to make it work for MVC2, or framework 4.<br>Just download the source code (above) and replace the System.Web, System.Web.Routing, and System.Web.Abstractions with the ones in the v4 Framework directory and rebuild. Worked for me.</p>

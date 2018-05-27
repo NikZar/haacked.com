@@ -1,0 +1,6 @@
+id: dsq-747526304
+date: 2008-09-01T22:10:22.0000000-07:00
+author: Steve Sanderson
+email: steve@codeville.net
+gravatar: ff2012dcfd9ec0c29df3d4c164cc0d14
+message: "<p>@Justice: You're right, having generic helpers infer the action name from a detected [ActionName] attribute would be possible, but it would make a mockery of the whole system. You'd then use one action name when you reference it with a string, and a different name when you reference it with a lambda expression.</p>"

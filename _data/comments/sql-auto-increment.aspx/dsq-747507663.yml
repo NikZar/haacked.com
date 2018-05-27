@@ -1,0 +1,6 @@
+id: dsq-747507663
+date: 2009-03-08T22:57:14.0000000-07:00
+author: QuickChuck
+email: ctnospam@gmail.com
+gravatar: 59bbb217576f1a38f433652c76b9f56c
+message: <p>Im changing my autoincrement column to manual incrementing so it becomes an accurate count. I renamed the column to old_column and removed the identity setting. I dropped the existing indexes and created a clustered index on the old_column. I then ran above script and the new column has values in the same order as the old_column but without the holes left due to the identity functionality. The application will now increment the column.<br>Thanks for the original code!</p>

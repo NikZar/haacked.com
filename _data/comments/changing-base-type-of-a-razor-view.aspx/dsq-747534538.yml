@@ -1,0 +1,6 @@
+id: dsq-747534538
+date: 2011-12-30T16:54:20.0000000-08:00
+author: Ben
+email: ben@benlesh.com
+gravatar: 9035acc6a3970f0a52f66ed3f703219b
+message: <p>I'm trying this technique with the RazorEngine, and I'm getting an error every time.  Basically it will say "Unable to compile template. The name 'Html5Helper' does not exist in the current context".<br>I'm a bit stumped, ATM. Any advice would be helpful.</p>

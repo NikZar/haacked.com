@@ -1,0 +1,6 @@
+id: dsq-747537217
+date: 2011-12-19T21:05:45.0000000-08:00
+author: Bradley T. Landis
+email: bradley_t_landis@wordpress.disqus.net
+gravatar: d8fb9911e29e23a700ae1e5bb0403b08
+message: <p>Okay, I think I figured it out.  It doesn't work if your "Home" Directory path has spaces in it.  Mine is "C:\Users\Bradley T. Landis" on both machines where I had problems.</p>

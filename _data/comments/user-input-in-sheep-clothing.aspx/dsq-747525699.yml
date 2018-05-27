@@ -1,0 +1,6 @@
+id: dsq-747525699
+date: 2008-07-08T23:58:45.0000000-07:00
+author: HB
+email: hb@wordpress.disqus.net
+gravatar: 55d8c4df39ce5e0136bc4ed255605dc1
+message: <p>Does that mean all data found in Server Variables can be modified by the user? Like for example REMOTE_HOST (or whichever one has the IP Address in it).<br>If they aren't all dangerous, is there a list somewhere that has those that can be trusted?</p>

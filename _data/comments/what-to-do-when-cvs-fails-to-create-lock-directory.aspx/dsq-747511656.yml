@@ -1,0 +1,6 @@
+id: dsq-747511656
+date: 2007-07-23T15:39:14.0000000-07:00
+author: Mukesh
+email: mukesh_rist@rediffmail.com
+gravatar: cd0d51d3756be773bf9718b6fd56c4b8
+message: '<p>The server reported an error while performing the "cvs commit" command.<br>  : cvs server: failed to create lock directory for #cvs.lock): Permission denied<br>  : cvs server: lock failed - giving up<br>  : cvs [server aborted]: lock failed - giving up<br></p>'

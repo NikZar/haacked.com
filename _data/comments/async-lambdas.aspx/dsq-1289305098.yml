@@ -1,0 +1,6 @@
+id: dsq-1289305098
+date: 2014-03-17T19:56:53.0000000-07:00
+author: Rex
+email: rexcfnghk@gmail.com
+gravatar: 75b35db6dc6eb2514b4d584e54443d30
+message: <p>Can someone please explain the line Assert.Throws&lt;t&gt;(() =&gt; { })? Why pass an empty lambda there?</p>

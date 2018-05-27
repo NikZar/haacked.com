@@ -1,0 +1,6 @@
+id: dsq-747538497
+date: 2012-10-21T10:53:17.0000000-07:00
+author: mr metro
+email: mr_metro@wordpress.disqus.net
+gravatar: 9f5b1bc7830773fb82c2f60ee545289f
+message: <p>WinRT is not 'a tiny bit of effort' like you said - I've spent several weeks trying to port my existing C# code. There's lots of API's that existed in .NET that don't exist in the Metro version (<a href="http://system.io" rel="nofollow noopener" title="system.io">system.io</a> has changed radically, arraylists, hashtables etc... etc...)</p>

@@ -1,0 +1,6 @@
+id: dsq-747523568
+date: 2007-12-07T09:54:03.0000000-08:00
+author: mcgurk
+email: yesthatmcgurk@gmail.com
+gravatar: 6ec3dc6216ff8444d6f29b25ca2f8825
+message: <p>The project I'm currently working on at my company uses custom app blocks to implement the provider model.  We've got about seven different providers from logging to state machine.  I've created mock implementations for many of them.  Its a very convenient way to test objects that rely on the blocks.  Set the MockDatabase.ThrowException, call your method, and assert on MockLog.LastErrorMessage.  Yes, its extra code, but its incredibly simple code.</p>

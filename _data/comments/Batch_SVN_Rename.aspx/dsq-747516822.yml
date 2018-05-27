@@ -1,0 +1,6 @@
+id: dsq-747516822
+date: 2010-06-28T13:43:47.0000000-07:00
+author: Keith
+email: keith@wordpress.disqus.net
+gravatar: a428e9d612494ed6a1a8638505d25ff2
+message: <p>Thanks for the info.<br>To do a rename recursively I used:<br>FOR /r %A in (*.prc) do svn rename "%~fA" "%~dpnA.sql"<br>or if used in a batch file:<br>FOR /r %%A in (*.prc) do svn rename "%%~fA" "%%~dpnA.sql"</p>

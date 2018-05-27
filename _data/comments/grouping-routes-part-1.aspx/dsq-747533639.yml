@@ -1,0 +1,6 @@
+id: dsq-747533639
+date: 2010-12-02T12:30:57.0000000-08:00
+author: Maarten Balliauw
+email: maarten@maartenballiauw.be
+gravatar: 112c461046c64635060557a5a566d6a4
+message: <p>The "AppRelativeCurrentExecutionFilePath" is exactly the same headache we have in the MvcSiteMapProvider. We fixed it similarly, by creating a wrapper around HttpContextBase and rewriting the URL in an overloaded property.<br>This makes two of us running against that wall, so maybe a small update in the route system can be handy :-p</p>

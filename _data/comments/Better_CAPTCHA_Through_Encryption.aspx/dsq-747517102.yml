@@ -1,0 +1,6 @@
+id: dsq-747517102
+date: 2011-10-18T21:20:22.0000000-07:00
+author: Joshua Wright
+email: jwright@hasborg.com
+gravatar: 3009822414b7330e002c0c2aea91f0c0
+message: <p>This method of remembering the CAPTCHA for validation can be susceptible to encryption oracle attacks, allowing an adversary to decrypt the CAPTCHA value without the key, and potentially create a page where the CAPTCHA value is crafted (CAPTCHA graffiti).</p>

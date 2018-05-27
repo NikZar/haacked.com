@@ -1,0 +1,6 @@
+id: dsq-747536308
+date: 2011-10-15T07:46:48.0000000-07:00
+author: Riza
+email: riza.marhaban@hotmail.com
+gravatar: 021b9f76566f9b5fbca007dc6a8c0a1d
+message: <p>Yep. I've use in my website since MVC2 and it works great. Passing RequestVerificationToken data to $.ajax() will surely (hopefully) prevent CSRF.</p>

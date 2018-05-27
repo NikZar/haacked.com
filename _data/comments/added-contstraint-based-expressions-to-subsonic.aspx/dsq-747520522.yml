@@ -1,0 +1,6 @@
+id: dsq-747520522
+date: 2007-05-22T17:44:00.0000000-07:00
+author: kevin
+email: kfricovsky@gmail.com
+gravatar: af0c0f120ded1fa94dee488bd6b70f5a
+message: <p><br>If you're gonna go this route then I'd even propose:<br>new Query("Products").WHERE("ProductId").IsLessThan(5);<br></p>

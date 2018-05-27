@@ -1,0 +1,6 @@
+id: dsq-747528521
+date: 2009-04-03T05:58:39.0000000-07:00
+author: James
+email: james@ciseware.com
+gravatar: 51a043c53ce525e2105b9c4fc48c44a3
+message: <p>Actually having just thought about it some more, I suppose you could use an IFrame to load the remote page and then parse the DOM.</p>

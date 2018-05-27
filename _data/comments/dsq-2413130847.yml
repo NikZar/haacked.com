@@ -1,0 +1,6 @@
+id: dsq-2413130847
+date: 2015-12-16T12:45:01.0000000-08:00
+author: Brad Westness
+email: brad.westness@outlook.com
+gravatar: f8c5039394984f32ef8d9782967754d3
+message: <p>A DateTime has properties on it (like .Year, .Month, etc), which makes it more conceptually a complex type rather than a primitive IMHO.</p><p>The "primitive" types feel appropriate to me for things that can be initialized with a literal, e.g. <code>int foo = 12</code> or <code>string bar = "baz"</code>.</p>

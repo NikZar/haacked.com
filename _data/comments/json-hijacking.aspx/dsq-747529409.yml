@@ -1,0 +1,6 @@
+id: dsq-747529409
+date: 2010-11-21T21:10:14.0000000-08:00
+author: Robert
+email: corvus.robert@jobcorps.org
+gravatar: a9e26c993b69632f87a440236f991784
+message: <p>It sounds like this security issue only occurs when a json call is made to an outside website?  If our MVC2 app only makes json calls to our own website (to fill jqgrids for example), we should safely be able to override the Json method to always allow gets, correct?</p>

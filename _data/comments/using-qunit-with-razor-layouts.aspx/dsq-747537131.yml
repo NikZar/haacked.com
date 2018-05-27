@@ -1,0 +1,6 @@
+id: dsq-747537131
+date: 2011-12-11T20:30:19.0000000-08:00
+author: magellings
+email: magellings@wordpress.disqus.net
+gravatar: 7546295ea1ed84152ca059651d18bebb
+message: <p>We use regular htm pages for QUnit tests.  Tests can then be executed via NUnit with NQUnit and integrated with the build.</p>

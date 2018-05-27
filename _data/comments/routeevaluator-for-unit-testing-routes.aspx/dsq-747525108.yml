@@ -1,0 +1,6 @@
+id: dsq-747525108
+date: 2008-09-27T07:43:07.0000000-07:00
+author: Agus Suhanto
+email: agus.suhanto@gmail.com
+gravatar: 9311990368f16ae9874399d9ab1097ca
+message: <p>As addition, I think we can do more than just checking the count of matching route. If we want to be so precise to test which route is selected, the following code might be useful:<br>var urlPattern = "{controller}/{action}";<br>var matches = evaluator.GetMatches("~/commerce/test");<br>Assert.IsTrue(matches.Count &gt; 0);<br>Assert.AreEqual(urlPattern, ((System.Web.Routing.Route)matches[0].Route).Url);<br></p>

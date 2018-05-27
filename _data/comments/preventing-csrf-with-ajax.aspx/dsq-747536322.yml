@@ -1,0 +1,6 @@
+id: dsq-747536322
+date: 2012-06-05T05:47:21.0000000-07:00
+author: Johan Driessen
+email: johan@driessen.se
+gravatar: ffbf4d2094927573d442f79c50d74d0f
+message: "<p>As you may or may not know, this doesn't work anymore for ASP.NET MVC 4 RC. As a matter fact, it is not much easier. I have blogged about and updated (and almost embarrassingly simple) version: <a href=\"http://johan.driessen.se/posts/Updated-Anti-XSRF-Validation-for-ASP.NET-MVC-4-RC\" rel=\"nofollow noopener\" title=\"http://johan.driessen.se/posts/Updated-Anti-XSRF-Validation-for-ASP.NET-MVC-4-RC\">johan.driessen.se/...</a>.</p>"

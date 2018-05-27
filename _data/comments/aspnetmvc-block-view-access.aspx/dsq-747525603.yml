@@ -1,0 +1,6 @@
+id: dsq-747525603
+date: 2008-06-25T17:13:11.0000000-07:00
+author: Dragan Panjkov
+email: dp.webs@gmail.com
+gravatar: 6d15eff22fc60f5635d4aaf9e4d561a9
+message: <p>I agree with others. Content folder should be used for static content. In this way Views could be reserved only for View files, independently of View Engine used, not to repeat others.</p>

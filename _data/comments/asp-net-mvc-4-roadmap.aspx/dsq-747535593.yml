@@ -1,0 +1,6 @@
+id: dsq-747535593
+date: 2011-07-13T18:15:05.0000000-07:00
+author: Stephen Burns
+email: bzburns@gmail.com
+gravatar: 089e2d115e446286cc12d3d0e474a831
+message: <p>Some ideas...<br>1) Better bootstrapping<br>2) Bake in more from futures and/or community contributions, such as calling controller actions without magic strings.<br>3) Dynamic registration of HttpModules (without needing to reference an external assembly)</p>

@@ -1,0 +1,6 @@
+id: dsq-747525257
+date: 2008-07-18T16:25:16.0000000-07:00
+author: FTeR
+email: fter@wordpress.disqus.net
+gravatar: 8edc09ea7c5c1ae23a2fb7db34003a6b
+message: <p>Can I somehow use RouteLink or something similar inside a server tag, for ex. PostBackUrl=""?<br>The routes.Map("").To("~/Default.aspx"); not working for me.<br>I have sp1 and mvc prev4 installed. I'm using the built in VS dev server.<br>Setting routes.RouteExistingFiles = true not helped.<br></p>

@@ -1,0 +1,6 @@
+id: dsq-747509848
+date: 2005-04-15T00:13:00.0000000-07:00
+author: T Mercer
+email: t_mercer@wordpress.disqus.net
+gravatar: edb59e2ec38c8b754a1f8c1c0b63a49c
+message: <p>What you say is true, however, if you have to integrate with an existing application that is written in a different language classic ASP or PHP or whatever ... guess what ... Server.Transfer does not work!  You cannot mix application you will get an Error in child process.<br><br><br><br>Still working on this issue.</p>

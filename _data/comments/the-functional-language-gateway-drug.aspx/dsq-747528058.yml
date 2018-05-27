@@ -1,0 +1,6 @@
+id: dsq-747528058
+date: 2009-02-15T17:14:56.0000000-08:00
+author: Victor Kornov
+email: weexow@gmail.com
+gravatar: 9d2448d1c41d6b268b7929cf3d92c1db
+message: <p>In your first code snippet I don't see where you increment tryCount. Bug?</p>

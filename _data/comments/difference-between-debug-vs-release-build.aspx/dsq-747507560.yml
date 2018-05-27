@@ -1,0 +1,6 @@
+id: dsq-747507560
+date: 2008-04-22T15:26:30.0000000-07:00
+author: adeel
+email: adeel@wordpress.disqus.net
+gravatar: ddf9e091199631b7dad35a5ceb977783
+message: <p>The debug build is created with some embedded information which allows the debugger to debug the application and exposed the runtime behavior of the application. On the down side, the debug build is a bit slower and inefficient in execution and larger in size.</p>

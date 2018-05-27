@@ -1,0 +1,6 @@
+id: dsq-747535704
+date: 2011-07-25T21:51:53.0000000-07:00
+author: Andrej Slivko
+email: andrej_slivko@wordpress.disqus.net
+gravatar: 7aba934522f0c9a801f049af99d8ecfe
+message: <p>Is there any reasons why extension method <br>public static DisplayAttribute Copy(this DisplayAttribute attribute) doesn't copy all DisplayAttribute? <br>Like AutoGenerateField, AutoGenerateFilter, Prompt, Order?<br>Or it is just because this is not real thing but just prof of concept?</p>

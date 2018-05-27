@@ -1,0 +1,6 @@
+id: dsq-747532843
+date: 2010-09-20T11:03:29.0000000-07:00
+author: Scotteg
+email: scott.egan@tpg.com.au
+gravatar: 00d8db6d95e937279ed0f1b756c4d877
+message: <p>Phil,<br>In a masterpage it is possible to place html in the content placeholder that is only replaced if the 'child' page chooses to do so.<br>It doesn't look as if this is possible in a layout page.  I think this is a significant loss of functionality.<br>Thoughts?<br>ScottEg</p>

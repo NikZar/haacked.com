@@ -1,0 +1,6 @@
+id: dsq-747515586
+date: 2006-08-08T03:58:53.0000000-07:00
+author: WannaKnow
+email: wannaknow@wordpress.disqus.net
+gravatar: 6fbd54b5615e3f6c14524323edff0f8c
+message: <p>How do we write something to guard against the column datatype changes, like in your example, if there was a need to change the 'FavoriteColorId' from 'int' to 'varchar(10)'.<br>I am sure those things happen quite a bit in the course of development.</p>

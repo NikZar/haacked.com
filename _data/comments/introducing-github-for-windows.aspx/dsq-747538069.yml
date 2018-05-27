@@ -1,0 +1,6 @@
+id: dsq-747538069
+date: 2012-05-26T15:09:18.0000000-07:00
+author: LeoR
+email: romano@leoromano.com
+gravatar: 05cd41d13170458c0c4c849c247acb8d
+message: "<p>Hi Phil,<br>Can you write another post (or post refs) talking about how you did the great \"Click Once\" installer and seemless upgrades, especially with all the different components you are installing... and how the hell did you get all this to work on XP and why!!!??? That is not easy to do with all the \"moving parts\" you have in there.<br>Also maybe explain why you chose the Lib's you did and problems you were trying to solve, specially: CefSharp, Akavache, Markdown!!(what secret Ninja stuff is this), why JSON.NET and RestSharp?, what are you putting in the \"Roaming\" directory and why (click once is per user per machine)?, and finally Microsoft.WindowsAPICodePack.dll (assume this is just for PowerShell?)<br>Is the source for this app open-source and is it in GitHub :-)?</p>"

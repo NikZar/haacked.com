@@ -1,0 +1,6 @@
+id: dsq-747524839
+date: 2008-04-10T02:53:32.0000000-07:00
+author: Kurt
+email: kurt@mubble.net
+gravatar: c13bd49d1c0135cbbc3717270824b22e
+message: <p>@Haacked They suck down forward slashes too?  Maybe I should have used the word "wildcard" rather than greedy.  Last I read about those, they only worked as the last parameter in a route.</p>

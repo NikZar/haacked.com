@@ -1,0 +1,6 @@
+id: dsq-747531988
+date: 2010-05-11T20:37:24.0000000-07:00
+author: Richard Garside
+email: richard.garside@richardsprojects.co.uk
+gravatar: 7c430c7de712944cd892b24689594809
+message: <p>Is there a similar way to send XML to an MVC action method?<br>I'm creating an API and I want the API user to be able to use either json or xml.</p>

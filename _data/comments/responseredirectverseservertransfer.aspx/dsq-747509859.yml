@@ -1,0 +1,6 @@
+id: dsq-747509859
+date: 2005-04-29T02:21:00.0000000-07:00
+author: Mr. A
+email: mr_a@wordpress.disqus.net
+gravatar: e8507bd19685f754c92a98970c50bcd8
+message: <p>A word for the wise, uppon authentication the first response to the client should be a 302 "response.redirect" to avoid POST replay issues. ;)<br><br><br><br></p>

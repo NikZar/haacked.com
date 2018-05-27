@@ -1,0 +1,6 @@
+id: dsq-747534721
+date: 2011-04-06T13:29:26.0000000-07:00
+author: Jacco
+email: maatj05@gmail.com
+gravatar: 3e84640c712accbe01b0fe2b2f0ea6db
+message: <p>I realy like this solution, but I don't get it. Keep getting the 404 error. I made sure having the  &lt;modules runAllManagedModulesForAllRequests="true"&gt; entry in web.config. <br>Published the site to IIS 7 and added the mimetype as suggested by haacked. <br>Anyone any other suggestion?       please....</p>

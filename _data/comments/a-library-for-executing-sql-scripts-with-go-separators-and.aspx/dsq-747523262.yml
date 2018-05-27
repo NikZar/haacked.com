@@ -1,0 +1,6 @@
+id: dsq-747523262
+date: 2007-11-05T19:36:19.0000000-08:00
+author: secretGeek
+email: leonbambrick@gmail.com
+gravatar: 36f79355a0f99b6b033e479fcfffa51f
+message: <p>"dealing with GO statements in comments and quotes"<br>so i remember sql 7.0 there were bugs around how GO statements were handled in comments.... <br>i hope you've re-implemented the bugs so that people get proper backward compatability when connecting to down-level databases?<br>lb</p>

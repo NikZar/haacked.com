@@ -1,0 +1,6 @@
+id: dsq-1118407897
+date: 2013-11-11T10:52:32.0000000-08:00
+author: martijnhoekstra
+email: martijnhoekstra@gmail.com
+gravatar: 64cb01262bf686f65805e70fd99c5b1a
+message: <p>none of those are if statements, but if expressions, akin to the ternary operator in C#. The diffence is they produce a value without causing side effects.</p>

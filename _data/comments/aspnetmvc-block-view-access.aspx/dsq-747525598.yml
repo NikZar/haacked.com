@@ -1,0 +1,6 @@
+id: dsq-747525598
+date: 2008-06-25T13:10:40.0000000-07:00
+author: John Walker
+email: junior882@hotmail.com
+gravatar: 5deed1136d11094cfd699795ac283554
+message: <p>I know there have been big changes in IIS7, but it concerns me a bit that the web.config file has to be different compared to IIS6. As the change from IIS6 to 7 occurs, there's sure to be some grief. Sorry for the non-MVC comment, but this is the first time I've grokked this as a possibility.</p>

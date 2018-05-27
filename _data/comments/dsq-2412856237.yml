@@ -1,0 +1,6 @@
+id: dsq-2412856237
+date: 2015-12-16T10:00:46.0000000-08:00
+author: tvanfosson
+email: tvanfosson@gmail.com
+gravatar: 00aa1356e6f90fca08b36fb3c8d230c5
+message: <p>I only use the aliases because it's possible to define your own String class in a different namespace. That would be stupid, yes, but I've seen a lot of stupid things done. It's not a good reason, but it is a valid reason to stick with the aliases.</p>

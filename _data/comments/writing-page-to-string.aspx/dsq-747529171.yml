@@ -1,0 +1,6 @@
+id: dsq-747529171
+date: 2009-05-29T01:19:00.0000000-07:00
+author: Victor Kornov
+email: victor_kornov@wordpress.disqus.net
+gravatar: d6c3d55d4b0525409f4f588c34664041
+message: <p>Doesn't need any CreateHtmlTextWriter:<br>protected override void Render(HtmlTextWriter writer)<br>{<br>var sw = new StringWriter();<br>var w = new HtmlTextWriter(sw);<br>base.Render(w);<br>string html = sw.ToString();<br>html = html.Replace("REPLACE ME!", "IT WAS REPLACED!");<br>writer.Write(html);<br>}</p>

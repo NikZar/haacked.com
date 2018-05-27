@@ -1,0 +1,6 @@
+id: dsq-747531984
+date: 2010-04-26T02:40:23.0000000-07:00
+author: John McDowall
+email: john@mcdowall.info
+gravatar: 493e6c6fc3f24eb73295548cfd136574
+message: <p>The Value provider doesn't seem to reserialise certain characters correctly, such as the @ symbol used in an email address. Is this expected?</p>

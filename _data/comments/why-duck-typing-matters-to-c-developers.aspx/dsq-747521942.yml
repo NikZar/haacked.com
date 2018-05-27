@@ -1,0 +1,6 @@
+id: dsq-747521942
+date: 2007-08-19T21:01:37.0000000-07:00
+author: Jacob
+email: jacob@rabidpaladin.com
+gravatar: 1d0ac659ac68cf5a05f0fc758d79dce2
+message: <p>Why not use TypeMock? It allows you to mock sealed classes just fine without all the guff of other mock frameworks. You want to mock HttpContext, then mock HttpContext. If all you want to do is mock HttpContext.Request, you can do that easily as well without messing with ducks or any other barnyard animals.</p>

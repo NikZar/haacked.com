@@ -1,0 +1,6 @@
+id: dsq-825838124
+date: 2013-03-11T11:43:46.0000000-07:00
+author: plus-user
+email: me+sign@example.com
+gravatar: 80d71df7f9392028e9e0816c5717d240
+message: <p> There is no requirement for a domain to have an MX record. That's why you can't use looking up an MX record as a test of validity. By testing using MX, you're creating a dodgy interpretation of a reasonable standard.</p>

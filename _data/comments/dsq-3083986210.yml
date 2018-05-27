@@ -1,0 +1,6 @@
+id: dsq-3083986210
+date: 2017-01-05T01:41:09.0000000-08:00
+author: Andrew Flierman
+email: andrew@codenamed.nl
+gravatar: e58d6bf110d1ea660b128a7640a2d656
+message: <p>For KilnHg repo's it doesn't work. It appends .git to the url and apparently Kilnhg doesn't like that<br></p>

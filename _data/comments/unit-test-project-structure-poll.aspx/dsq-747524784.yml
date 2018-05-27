@@ -1,0 +1,6 @@
+id: dsq-747524784
+date: 2008-04-09T07:08:52.0000000-07:00
+author: Ed McCaffrey
+email: ed@edmccaffrey.net
+gravatar: 98889435b84fc451cfbb2f251c7c15d8
+message: <p>Different assemblies for the application and tests.  Sometimes different assemblies for the test of each project, if there are a lot of projects with a lot of tests.</p>

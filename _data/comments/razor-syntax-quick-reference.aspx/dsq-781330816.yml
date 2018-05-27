@@ -1,0 +1,6 @@
+id: dsq-781330816
+date: 2013-01-28T17:09:11.0000000-08:00
+author: Geo News
+email: geonews@yahoo.com
+gravatar: 682d4ebf127a0d00674d72c26258c39c
+message: <p>Generate Span tags in Viewfile like this</p><p>@Html.DisplayFor(model =&gt; model.Reading, "Reading")</p>

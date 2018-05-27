@@ -1,0 +1,6 @@
+id: dsq-747508296
+date: 2009-01-26T00:06:12.0000000-08:00
+author: Biju Alapatt
+email: bijusalapatt@gmail.com
+gravatar: 789cd58ed707beed3f17aa8fb32ca4aa
+message: <p>The problem solved by adding "ignore_expect_100 on" at the end of squid.conf file.</p>

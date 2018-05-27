@@ -1,0 +1,6 @@
+id: dsq-747528519
+date: 2009-04-03T05:53:06.0000000-07:00
+author: James
+email: james@ciseware.com
+gravatar: 51a043c53ce525e2105b9c4fc48c44a3
+message: <p>@ANaimi<br>Are you sure that's possible with javascript? As Phil points out, XMLHttpRequest will only work for the current domain.</p>

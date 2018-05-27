@@ -1,0 +1,6 @@
+id: dsq-747527832
+date: 2009-01-27T05:44:09.0000000-08:00
+author: Jamie
+email: jdcrutchley@spiffworks.com
+gravatar: 4a444a015a0383f84f3d164f42cec485
+message: <p>Couldn't you just not have the runat="server" part?  I took that out of my master pages and they work just fine.<br></p>

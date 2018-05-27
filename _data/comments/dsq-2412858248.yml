@@ -1,0 +1,6 @@
+id: dsq-2412858248
+date: 2015-12-16T10:01:56.0000000-08:00
+author: sonofpirate
+email: sonofpirate@comcast.net
+gravatar: 3966fcf5889bfd1548433a5a7721c5fa
+message: <p>I prefer to use the .NET Types, not the old C-style syntactic sugar, because I like to have all of my types highlighted the same color in the IDE.  As Phil said, "int" and "string" appear as keywords.  I want my keywords to appear as keywords and my types to appear as types.</p>

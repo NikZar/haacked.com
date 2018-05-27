@@ -1,0 +1,6 @@
+id: dsq-747520416
+date: 2012-11-19T12:23:55.0000000-08:00
+author: Erzsebet
+email: forizs.erzsebet@mku.hu
+gravatar: b487b7793d2cb5f43899168a5312e1d2
+message: '<p>Replacing for the web application in IIS<br>  Enabled protocols: net.tcp;http;https<br>with<br>  Enabled protocols: http<br>helped  me, Service Unavailable 503 disappeared<br></p>'

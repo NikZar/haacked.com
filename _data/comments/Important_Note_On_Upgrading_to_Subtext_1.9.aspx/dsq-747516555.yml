@@ -1,0 +1,6 @@
+id: dsq-747516555
+date: 2006-08-30T22:12:04.0000000-07:00
+author: Wyatt Barnett
+email: wyatt.barnett@gmail.com
+gravatar: 0dd7d17a52e2ae3784518ed795b73526
+message: '<p>Protip: Add an app_offline.htm file to your site before the host upgrades it. Once upgraded to 2.0, this file will be displayed until you get things in place and delete it, allowing one to have at least a friendly error message rather than the yellow screen of death.</p>'

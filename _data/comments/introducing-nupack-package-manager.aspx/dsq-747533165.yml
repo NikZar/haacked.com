@@ -1,0 +1,6 @@
+id: dsq-747533165
+date: 2010-10-05T23:07:02.0000000-07:00
+author: Chris
+email: chris.cyvas@gmail.com
+gravatar: 9a2957005c484ca4258e421e3b892da3
+message: <p>Was able to add a package after closing and restarting VS2010, but I don't see any changes to the web.config under httpModules section.</p>

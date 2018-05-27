@@ -1,0 +1,6 @@
+id: dsq-747535986
+date: 2011-09-04T06:30:25.0000000-07:00
+author: Jessica
+email: jessica.l.hamilton@gmail.com
+gravatar: faa23eb7c8f1d283acf6d8ea185e22f0
+message: "<p>It seems you're not generating properly escaped SQL. I got an EntitySqlException: 'set' is a reserved keyword and cannot be used as an alias, unless it is escaped.<br>At least the Entity Framework seems able to catch your security holes...</p>"

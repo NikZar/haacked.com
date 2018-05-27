@@ -1,0 +1,6 @@
+id: dsq-747529451
+date: 2009-06-26T21:39:00.0000000-07:00
+author: Brad Wilson
+email: brad_wilson@wordpress.disqus.net
+gravatar: e84a2060dfd6638f21cf3a4001b0087b
+message: <p>I think the problem with "only require POST for arrays" is that it becomes a "less obvious" point of failure... "some JSON thing was working just fine until we changed it to return an array of objects and now it stopped working!"</p>

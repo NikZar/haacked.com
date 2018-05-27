@@ -1,0 +1,6 @@
+id: dsq-747529366
+date: 2009-06-25T18:38:00.0000000-07:00
+author: Todd Price
+email: todd_price@wordpress.disqus.net
+gravatar: 5eda5fd1c3ec7d6aa66102a8a2145f1f
+message: <p>Would SSL really solve anything?  Wouldn't that just protect the data from being sniffed over the wire?  Once it arrives at the browser, it will have been decrypted, and the hijacked setter will still have access to the data, no?  Haven't actually tried it myself though.  Anybody have an answer?</p>

@@ -1,0 +1,6 @@
+id: dsq-747537075
+date: 2011-12-07T18:26:45.0000000-08:00
+author: Wojtek Turowicz
+email: wojtek.turowicz@gmail.com
+gravatar: b2864ecc0dd4f3ba765287f29abbf423
+message: <p>I would like to move from Codeplex (hg) to GitHub. Is there any automated way of doing that? I know that git itself can do such imports, but maybe you could bring some Codeplex ppl by adding such feature to the GitHub's UI. Because all .NET open source is there...</p>

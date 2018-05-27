@@ -1,0 +1,6 @@
+id: dsq-1141937870
+date: 2013-11-27T13:38:48.0000000-08:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Yep, I even mentioned that in my blog post:</p><p>&gt; I plan to look at the HTTP_X_FORWARDED_FOR header first and take the first IP address in the list if there are any.</p>

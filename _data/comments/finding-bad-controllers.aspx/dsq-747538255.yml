@@ -1,0 +1,6 @@
+id: dsq-747538255
+date: 2012-07-25T05:05:34.0000000-07:00
+author: Dan Ormisher
+email: dan@danielormisher.com
+gravatar: c3521e4cd3808603a0801f8ba4721a31
+message: <p>Funny seeing this post Phil - me and my colleagues were discussing this convention the other day after I got stuck for an hour wondering why my action method wasn't being hit. Turned out I had forgot the 'Controller' suffix. I posted <a href="http://stackoverflow.com/questions/11557194/why-do-mvc-controllers-have-to-have-the-trailing-controller-convention-on-thei" rel="nofollow noopener" title="http://stackoverflow.com/questions/11557194/why-do-mvc-controllers-have-to-have-the-trailing-controller-convention-on-thei">this question</a> on stackoverflow to see what other people thought of the convention too. I was annoyed by the proclamations of 'convention over configuration' which it clearly isn't!</p>

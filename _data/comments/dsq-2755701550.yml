@@ -1,0 +1,6 @@
+id: dsq-2755701550
+date: 2016-06-28T15:12:44.0000000-07:00
+author: Chris Rogers
+email: crogers@exemail.com.au
+gravatar: 32e519e9291102421c03e3e54c9a38f2
+message: <p>No.  When developers overwhelmingly use lowercase string/int/etc for their primitives (which they do), then it's definitely *not* consistent to sometimes use lowercase string and sometimes uppercase.  Phil himself said that these primitives feel special (an opinion I share) - lowercase in all the codes ... not just sometimes.</p>

@@ -1,0 +1,6 @@
+id: dsq-747530083
+date: 2012-05-01T22:53:35.0000000-07:00
+author: Ahmed Subhani
+email: asubhani@gmail.com
+gravatar: d4e4ebf31474d4d89e7495b04e9e73e6
+message: <p>Will reader.SetupSequence(r =&gt; r.Read())<br>           .Returns(true)<br>           .Returns(true)<br>           .Returns(false);<br>not work?</p>

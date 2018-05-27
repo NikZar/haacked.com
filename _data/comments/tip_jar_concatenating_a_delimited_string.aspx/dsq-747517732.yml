@@ -1,0 +1,6 @@
+id: dsq-747517732
+date: 2006-11-22T00:10:49.0000000-08:00
+author: Brandon
+email: ct_applications@hotmail.com
+gravatar: 432d11128c9f48be79c310794b63b197
+message: <p>In that case then why not make a second parameter that sets what you want to send in as your delimiter, you could even make it an optional parameter that way if you want to use the default you can, or you can use a different delimeter.  The code that would be needed isn't a huge change that way.</p>

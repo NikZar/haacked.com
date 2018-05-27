@@ -1,0 +1,6 @@
+id: dsq-758628211
+date: 2013-01-07T00:10:50.0000000-08:00
+author: Chris
+email: chris.pellett@gmail.com
+gravatar: 8cccb7e4342fa11f30187e3a9953214e
+message: <p>We do something very similar - we adopted the Option&lt;t&gt; type from F# into our C# setup. If something can be "null", we force it to be an Option which forces the consumer to handle both cases.</p>

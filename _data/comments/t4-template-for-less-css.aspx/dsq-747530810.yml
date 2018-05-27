@@ -1,0 +1,6 @@
+id: dsq-747530810
+date: 2012-01-30T11:07:39.0000000-08:00
+author: Gregoire Daussin
+email: gregoire.daussin@gmail.com
+gravatar: aa9a8b80c97e7e9d5cfe0459e1afaa7e
+message: '<p>For extend the Eric tips, (you save my day :), if you use Nuggets packages this path dependency should do the work<br>&lt;#@ assembly name="$(SolutionDir)packages\dotless.1.2.2.0\lib\dotless.Core.dll" #&gt;</p>'

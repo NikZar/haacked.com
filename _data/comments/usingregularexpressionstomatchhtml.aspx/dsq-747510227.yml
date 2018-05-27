@@ -1,0 +1,6 @@
+id: dsq-747510227
+date: 2008-05-01T05:18:20.0000000-07:00
+author: Mic
+email: mmcuk2004@gmail.com
+gravatar: 55e4b0576f28ab86f7ce9214a2fe21cc
+message: <p>Hi<br>I am using preg_split to split words...and then trying to match using <br>preg_grep, how do i match html tags?<br>Thanks</p>

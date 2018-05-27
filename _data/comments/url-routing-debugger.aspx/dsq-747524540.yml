@@ -1,0 +1,6 @@
+id: dsq-747524540
+date: 2010-01-20T02:39:48.0000000-08:00
+author: Sean Iannuzzi
+email: seaniannuzzi@gmail.com
+gravatar: 92d6791bc9a1e655b9ef146e28066124
+message: <p>The biggest issue I see with all of this is that you cannot step thru from Page Workflow from start to finish.  In other words stepping into the entire page route.  The tool is needed as a result of not having a fully integrated IDE when using MVC.</p>

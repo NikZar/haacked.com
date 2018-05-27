@@ -1,0 +1,6 @@
+id: dsq-747535912
+date: 2011-08-16T15:26:05.0000000-07:00
+author: Bertrand Le Roy
+email: bleroy@microsoft.com
+gravatar: b6991036e42b227c94c825c67dd2b92a
+message: "<p>What they said. This just won't work with localization. As you suspected, this is a solved problem: gettext is the standard solution.</p>"

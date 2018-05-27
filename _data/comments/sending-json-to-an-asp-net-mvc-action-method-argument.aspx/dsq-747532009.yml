@@ -1,0 +1,6 @@
+id: dsq-747532009
+date: 2010-10-22T14:31:35.0000000-07:00
+author: Sachin
+email: sachin.kotak@patni.com
+gravatar: 93d8308b0d883551feb8dfdb3fc25646
+message: <p>I have action method like<br>public ActionResult Save(Dictionary&lt;string, string&gt; dicObject)<br>I want to pass JSON as dictionary object but dictObject gives always null<br>I have added JSON Factory to global.asax<br>What i have to do? I have to create custom JSON Factory or any thing else?<br>Can any one help me, its urgent<br>Thanks for hep<br></p>

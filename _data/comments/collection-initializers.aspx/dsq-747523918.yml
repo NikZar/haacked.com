@@ -1,0 +1,6 @@
+id: dsq-747523918
+date: 2008-01-13T22:24:28.0000000-08:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Filini That's easy enough to fix. If you intend for the inferred type to be Class3, just do this:<br><code><br>var foo = {{myClass1, "foo1"}, {(Class3)myClass2, "foo2"}};<br></code><br>Or use the full syntax. :)</p>

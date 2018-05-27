@@ -1,0 +1,6 @@
+id: dsq-747529728
+date: 2009-08-18T23:26:00.0000000-07:00
+author: Peter Lanoie
+email: peter_lanoie@wordpress.disqus.net
+gravatar: b522f791495760f2ba6d74eef9c59d86
+message: <p>This seems like a logical implementation of a transaction.  After all, if you are explicitly using a transaction isn't the general intent to commit it?<br>How will this behave if I do an explicitly rollback from within the transaction's Action? Transaction.Complete() must respect a previous rollback() I imagine. (Haven't worked with txs much.) So after an explicit Rollback() the implicit Complete() really has nothing to do so it can still execute.</p>

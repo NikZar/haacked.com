@@ -1,0 +1,6 @@
+id: dsq-747534857
+date: 2011-04-19T21:27:54.0000000-07:00
+author: n0mad
+email: n0mad@live.com
+gravatar: 8f7ec088af7a076834c8df902c7d4e66
+message: <p>Hey Phil - Good work on this, we have some of it in production now.  I was at your presentations at MIX, I'm happy to see scaffolding and other productivity stuff.  <br>You made a point to show the new Project templates (and Hanselman talks about the white space in the tooling dialogs for adding new Views, Controller, Model types).  Is there any comprehensive docs on how to do that?<br>I want a custom MVC project template, with tooling integration - I think MvcScaffolding will get me some of that.  I want to put this in a NuGet package.</p>

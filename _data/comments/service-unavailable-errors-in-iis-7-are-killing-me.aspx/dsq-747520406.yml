@@ -1,0 +1,6 @@
+id: dsq-747520406
+date: 2012-01-25T15:08:18.0000000-08:00
+author: C Haddy
+email: itdeveloper007@yahoo.com
+gravatar: 870b52b7299467cf81d82045e15b0e48
+message: <p>Have you checked the Identity that your AppPool is running under in IIS?  If the APPpool was set to run under a specific (custom)  account (username and password), and you changed your Windows password, you will need to go and update the Identity's password on this AppPool.  Good luck!</p>

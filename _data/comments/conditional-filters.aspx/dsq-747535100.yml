@@ -1,0 +1,6 @@
+id: dsq-747535100
+date: 2011-04-28T01:42:24.0000000-07:00
+author: Kazi Manzur Rashid
+email: kazimanzurrashid@gmail.com
+gravatar: 48afc246be41f70d0594ed7eb640fd23
+message: '<p>Sorry man, too difficult to digest the code you have shown for the conditional filters, probably the framework should include a nice wrapper for filter registration. Comparing to rails though I am not an expert:<br>before_filter: do_this, :only =&gt; :index<br>or<br>before_filter: do_that, :except=&gt; :show</p>'

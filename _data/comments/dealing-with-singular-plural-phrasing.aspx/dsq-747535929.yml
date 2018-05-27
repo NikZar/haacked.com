@@ -1,0 +1,6 @@
+id: dsq-747535929
+date: 2011-08-16T19:22:41.0000000-07:00
+author: Sam
+email: sam@samritchie.net
+gravatar: 3803e5e39b4c83c85916702390e091a4
+message: "<p>@pop catalin: 'no real benefit' - this is why most developers shouldn't be making UX decisions. I'm fairly sure you believe this is true, but if you're building a product where customer experience is important, generating grammatically incorrect output is not a good look (or, in my view, correct code). <br>Yes, localization is hard. Accept the fact you're going to have to invest a fair bit of additional development if you want the reap the rewards of a larger market. Don't use it as an excuse for mediocrity.</p>"

@@ -1,0 +1,6 @@
+id: dsq-747517386
+date: 2006-10-29T22:08:59.0000000-08:00
+author: Jim Zimmerman
+email: jim@jimzimmerman.com
+gravatar: dbcee87da29d2e3a40a992b033f2ca62
+message: '<p>I just downloaded the source and built it fine, but when I went to view in browser from Visual Studio and it automatically forwarded to /Install to upgrade and I got this error:<br>MagicAjax.MagicAjaxException: The MagicAjax HttpModule is not included in web.config. Add [&lt;httpModules&gt;&lt;add name="MagicAjax" type="MagicAjax.MagicAjaxModule, MagicAjax" /&gt;&lt;/httpModules&gt;] inside the &lt;system.web&gt; section.<br>I checked the web config and it is in there properly.<br>This is where it bombed out:<br>Source File: Subtext-1.9.2.23-Source\Subtext.Web\Global.asax.cs    Line: 178 <br>Thanks and good job on the subtext blogging engine!<br></p>'

@@ -1,0 +1,6 @@
+id: dsq-747520383
+date: 2009-01-05T15:06:33.0000000-08:00
+author: PMR
+email: peter.rogers@weblogik.co.uk
+gravatar: 5bc1eaa0251227e420ed9e495dd542e7
+message: <p>Thanks Umesh, this:<br>netsh<br>http<br>delete urlacl url="http:+:80" <br>solved my problem</p>

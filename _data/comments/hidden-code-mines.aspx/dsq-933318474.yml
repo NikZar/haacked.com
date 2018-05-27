@@ -1,0 +1,6 @@
+id: dsq-933318474
+date: 2013-06-17T10:32:34.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Ah, but it doesn't look like exactly what I want. Unless I'm mistaken, it returns an ILookup which doesn't have a method to get the values for a key.</p>

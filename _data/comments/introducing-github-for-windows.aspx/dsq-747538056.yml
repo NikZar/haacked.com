@@ -1,0 +1,6 @@
+id: dsq-747538056
+date: 2012-05-23T10:13:12.0000000-07:00
+author: Jesse Brown
+email: jabrown85@gmail.com
+gravatar: b0239ab2e5fd4b37a96e689ab60d823d
+message: <p>You said I can easily plug in console2, but I'm not seeing how I can actually make it open the directory of the repository I've clicked on. I can't use -d "%1" as the input box restricts it to no parameters.</p>

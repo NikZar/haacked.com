@@ -1,0 +1,6 @@
+id: dsq-747538116
+date: 2012-10-12T10:57:41.0000000-07:00
+author: Florin
+email: florin.gogianu@gmail.com
+gravatar: 27b90238309d246814056b393fde9593
+message: <p>Hello, <br>Has anyone tried running PowerShell ISE as a default shell for github? PowerShell works just fine but I really want the tabs of the ISE, and the more advanced options. However when I set the path in GitHub to custom C:\WINDOWS\system32\WindowsPowerShell\v1.0\powershell_ise.exe the PS ISE won't load my Profile. The Execution Policy is set to Undefined and I get errors when trying to modify it because it runs without Admin Privileges.<br>Any suggestions for this? Can I set-up GitHub to start the PS ISE in admin mode?<br>Thanks</p>

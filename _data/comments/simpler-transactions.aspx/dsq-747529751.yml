@@ -1,0 +1,6 @@
+id: dsq-747529751
+date: 2009-08-19T05:32:00.0000000-07:00
+author: Tobin Harris
+email: tobin_harris@wordpress.disqus.net
+gravatar: b4427810893aaeb88fe45207532904ae
+message: <p>Actually, I concluded badly there. I think the <code>using</code> block should throw an exception if the transaction is neither committed or rolled back.</p>

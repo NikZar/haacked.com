@@ -1,0 +1,6 @@
+id: dsq-747529467
+date: 2009-06-28T11:16:00.0000000-07:00
+author: Rune Jacobsen
+email: rune_jacobsen@wordpress.disqus.net
+gravatar: 0b82d1c592ca70c55b391b9dc9e86045
+message: <p>Hi Phil,<br>Great post, great presentations, so thank you! Never mind about leaving the cleats at home. :)<br>We talked briefly after one of your sessions about putting elements that need model access into the master page - i.e. "Last 5 news items" kind of things that need to be on every page. You mentioned that you now have a way of doing this without using the Html.RenderAction() method in MVC Futures. Is it possible for you to give some information about this?<br>Again, thanks! :)<br></p>

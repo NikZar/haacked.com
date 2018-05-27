@@ -1,0 +1,6 @@
+id: dsq-747527989
+date: 2009-02-18T22:44:29.0000000-08:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Emad correction to my last comment to you. Set the Result property to new HttpUnauthorizedResult(). Sorry for that.</p>

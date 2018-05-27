@@ -1,0 +1,6 @@
+id: dsq-747511343
+date: 2005-04-24T05:35:00.0000000-07:00
+author: Michael Weinhardt
+email: michael_weinhardt@wordpress.disqus.net
+gravatar: 005c1ff9610fca22a74103555c1ed423
+message: <p>One nice feature of VS.NET 2005 is that it conforms to Point 3 when it creates a new WinForms project; the static Main method is deployed within a separate class, Program.</p>

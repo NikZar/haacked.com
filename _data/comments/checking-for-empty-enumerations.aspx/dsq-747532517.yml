@@ -1,0 +1,6 @@
+id: dsq-747532517
+date: 2010-06-13T13:03:06.0000000-07:00
+author: Dilyan Rusev
+email: dilyan_rusev@wordpress.disqus.net
+gravatar: 616d9cf35235a37e8b66a475b1929058
+message: <p>I think this code is not better than Count(), because both of them execute the IQueryable (call Execute, or, rather, GetEnumerable). If we deal with collections (which is almost always the case with Linq-To-Objects in my experience), Count() might even peform better (especially for arrays and IList-s), because it won't have to create an additional object and initialzie it (the enumerator).</p>

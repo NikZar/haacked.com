@@ -1,0 +1,6 @@
+id: dsq-3462296900
+date: 2017-08-10T21:32:10.0000000-07:00
+author: johnkors
+email: johnkors@gmail.com
+gravatar: abb0d6cd02a0218c07d17544ff55a952
+message: <p>Another option is a global Auth filter + a "NoAuthorize"-attribute on the logon-action. So auth by default, then opt out explicitly on the few that don't need it.</p>

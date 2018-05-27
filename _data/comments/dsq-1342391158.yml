@@ -1,0 +1,6 @@
+id: dsq-1342391158
+date: 2014-04-16T21:44:23.0000000-07:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Remove the .csproj entry if you don't want the `merge=union` behavior.</p>

@@ -1,0 +1,6 @@
+id: dsq-747515517
+date: 2006-06-29T10:22:00.0000000-07:00
+author: Other Scott
+email: other_scott@wordpress.disqus.net
+gravatar: 00d9547ce66e53076d406201a0571b70
+message: <p>Back in 2001 I looked at a few object databases. I was working for a Java house at the time so Gemstone was one I remember looking at. Aside from some of the transactional capabilities, what is the difference between using an object database and serializing your objects out to flat files?</p>

@@ -1,0 +1,6 @@
+id: dsq-747518959
+date: 2012-03-02T02:55:53.0000000-08:00
+author: Dominic Pascasio
+email: dominic_pascasio@wordpress.disqus.net
+gravatar: 84fd9bce2cfccc370a2c49ce3f929c13
+message: <p>I was thinking of this a while ago and thank God I found a proof. I'm currently working on Graph Data Structure and DFS, I used recursion first, then I searched the internet and found many are using stack instead. Only then I realized that I can use stack instead. Thanks!</p>

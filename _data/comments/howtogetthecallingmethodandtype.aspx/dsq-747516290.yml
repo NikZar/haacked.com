@@ -1,0 +1,6 @@
+id: dsq-747516290
+date: 2006-08-14T22:43:37.0000000-07:00
+author: Marcos
+email: marcosdotnet@yahoo.com.ar
+gravatar: aa08b416d33113497ee68064b521f154
+message: <p>I completely agree with Ron you must use the <br>[MethodImpl(MethodImplOptions.NoInlining)]<br>Because this is a perfect method to inline and the compile sure choice it has a candite.<br>Take into account that you calling method can be inlined too so you are returning the caller to the calling method,that is not what do you want.<br>The release mode optimizations can be a really mind cracker :P<br>just my 2 cents</p>

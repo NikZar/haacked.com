@@ -1,0 +1,6 @@
+id: dsq-997989730
+date: 2013-08-12T14:57:38.0000000-07:00
+author: Tarek
+email: tarek@g.com
+gravatar: 3de2401e5cfb4359a24b3828a163e225
+message: <p>It seems that the developer does not need to care about XSS in MVC 4 since the url is already encoded by default!</p>

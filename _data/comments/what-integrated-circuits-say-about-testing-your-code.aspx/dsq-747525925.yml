@@ -1,0 +1,6 @@
+id: dsq-747525925
+date: 2011-11-06T19:08:19.0000000-08:00
+author: Gary Woodfine
+email: gary.woodfine@threenine.co.uk
+gravatar: f22fb6b42c39ec3a0483282ed2dfa332
+message: <p>Great post. One more thing to raise is that the database should have it's own set of unit tests. That test that it is preforming correctly. <br>100% on the integration tests, these are different type of tests and are not part of your development unit tests.</p>

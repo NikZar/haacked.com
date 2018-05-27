@@ -1,0 +1,6 @@
+id: dsq-747507639
+date: 2007-12-11T00:04:50.0000000-08:00
+author: PJ
+email: pfryberger@cricketcommunications.com
+gravatar: bbe97fa0be7b3ddb9e9baf4b5b92c1ff
+message: <p>I need to create a increment counter on a phone number in SQL. It would increment/count the phone number by 1 until the number changed within a list and then start the increment over on the new phone number. (Would this need a loop?)  Thanks, PJ</p>

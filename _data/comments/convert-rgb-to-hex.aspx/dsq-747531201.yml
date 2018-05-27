@@ -1,0 +1,6 @@
+id: dsq-747531201
+date: 2009-12-29T14:57:39.0000000-08:00
+author: David Fowler
+email: david.fowler@microsoft.com
+gravatar: 9d6161f7a9eaf37fa9df33b656d870b7
+message: <p><code><br>  var rgb = b | (g &lt;&lt; 8) | (r &lt;&lt; 16)<br></code><br>:)</p>

@@ -1,0 +1,6 @@
+id: dsq-747532028
+date: 2011-06-09T17:48:15.0000000-07:00
+author: ahura mazda
+email: ahura_mazda@wordpress.disqus.net
+gravatar: afe36fffe9c439aff4f483b4ded144fd
+message: <p>I had the same issue; I could not get JSON Arrays or .NET Enums to serialize/deserialize.<br>However, I found a solution using Json.NET. See my blog <a href="http://prefix.teddywino.com/post/ASPNET-MVC-2-and-passing-JSON-objects-to-Actions.aspx" rel="nofollow noopener" title="http://prefix.teddywino.com/post/ASPNET-MVC-2-and-passing-JSON-objects-to-Actions.aspx">post</a> on how to implement it</p>

@@ -1,0 +1,6 @@
+id: dsq-747530676
+date: 2009-11-19T21:55:00.0000000-08:00
+author: Validation of Nested Types
+email: validation_of_nested_types@wordpress.disqus.net
+gravatar: a21ceb310f350bd0d27c12a02ee4956a
+message: <p>I have a viewmodel for Contact, which has a nested type Address.<br>Address type has required fields AddressLine1, ZipCode, City, State.<br>Is there any way to annotate Contact viewmodel, so that the address fields get validated as required only if Address property of Contact is marked required?<br></p>

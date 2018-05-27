@@ -1,0 +1,6 @@
+id: dsq-747519731
+date: 2007-04-19T22:13:33.0000000-07:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Along with the conditional operator, I love the <a href="http://haacked.com/archive/2006/08/07/TinyTrickForViewStateBackedProperties.aspx" rel="nofollow noopener" title="trick for viewstate properties">null coalescing operator</a>.<br>MyClass instance = SomeMethod() ?? GetDefault();</p>

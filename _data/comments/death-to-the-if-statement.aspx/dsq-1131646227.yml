@@ -1,0 +1,6 @@
+id: dsq-1131646227
+date: 2013-11-20T12:02:04.0000000-08:00
+author: Guillaume Lecomte
+email: guillaume86@gmail.com
+gravatar: 12573b671317c06e2abb110f469d5218
+message: <p>You evaluate the source for the .Count(), losing advantages of laziness.</p>

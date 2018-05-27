@@ -1,0 +1,6 @@
+id: dsq-747520411
+date: 2012-08-01T04:50:46.0000000-07:00
+author: JP Hellemons
+email: info@jphellemons.nl
+gravatar: 6dec5eb240c49d979542d7cef64e9a8d
+message: <p>I have had the exact same thing. also had issues when I used IISexpress. Finally found out that I had some global.asax which starts filling (webform) routes with the use of a db connection and found out that the only error I had was the password in the connectionstring... that caused iis to give 503 errors</p>

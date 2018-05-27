@@ -1,0 +1,6 @@
+id: dsq-1114862834
+date: 2013-11-08T21:10:28.0000000-08:00
+author: Chris Hynes
+email: chris@programcsharp.com
+gravatar: 7bad109d0328303759eba09b6be6da25
+message: <p>Sorry, I missed one line. Should have been:</p><p>public IEnumerable&lt;t&gt; PadEnd&lt;t&gt;(this IEnumerable&lt;t&gt; values, T padValue = default(T))<br>{<br>foreach (T value in values)<br>yield return value;</p><p>while (true)<br>yield return padValue;<br>}</p><p>;-)</p><p>Which, I suppose, ends up being the same as using concat/repeat. Can't break myself out of the old procedural habits, can I?</p>

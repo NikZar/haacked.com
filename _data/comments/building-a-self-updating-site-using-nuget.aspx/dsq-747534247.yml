@@ -1,0 +1,6 @@
+id: dsq-747534247
+date: 2011-01-16T02:05:56.0000000-08:00
+author: Corey Coto
+email: corey.coto@gmail.com
+gravatar: 40673e5ea621f468a51bed1c014d3785
+message: <p>Fantastic post! <br>How would this work in a IIS Web Server farm? Would it only update a single instance or all of the nodes in the farm?</p>

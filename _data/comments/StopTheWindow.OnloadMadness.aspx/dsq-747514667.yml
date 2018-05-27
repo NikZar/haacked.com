@@ -1,0 +1,6 @@
+id: dsq-747514667
+date: 2006-06-14T20:22:00.0000000-07:00
+author: Vincent Verbrugh
+email: vincent_verbrugh@wordpress.disqus.net
+gravatar: 8af4ea24716c80c0c0e7fbd4a255cf09
+message: <p>here is an other and shorter solution:<br>if (window.onload) {<br>  var func = window.onload;  <br>  window.onload = function() {<br>    func();<br>    startSlideShows();<br>  }<br>} else {<br>  window.onload = startSlideShows;<br>}</p>

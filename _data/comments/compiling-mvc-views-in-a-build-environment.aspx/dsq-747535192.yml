@@ -1,0 +1,6 @@
+id: dsq-747535192
+date: 2011-09-16T12:53:55.0000000-07:00
+author: Dan M
+email: danspamable@gmail.com
+gravatar: ec326c009186734854c600265b69a6ce
+message: <p>Hi Phil, This solution didn't work for me (I encountered this problem even though I was already using the revised/fixed template). I needed to do &lt;BaseIntermediateOutputPath&gt;[SomeKnownLocationIHaveAccessTo]&lt;/BaseIntermediateOutputPath&gt;. Any idea why that might be? Could it be that I have my WebProjectOutputDir set incorrectly?</p>

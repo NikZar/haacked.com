@@ -1,0 +1,6 @@
+id: dsq-747521187
+date: 2007-12-01T06:02:20.0000000-08:00
+author: Jonas Hovgard
+email: jhovgaard@jhovgaard.dk
+gravatar: 0c272107f69492e4e2901ad3d18c683b
+message: "<p>First, sorry for my bad english, I usally write in Danish :)<br>I was also hitted by this bug, under my developing of a page with div's that got 100% heights.<br>The .NET Form DIV really messed my setup totally up!<br>This is my fix:<br>Instead of just having the &lt;form id=\"form1\" runat=\"server\"&gt; I wrote this:<br>&lt;div id=\"dotnetHide\"&gt;&lt;form id=\"form1\" runat=\"server\"&gt;&lt;/div&gt;<br>In my CSS file I did this:<br>div#dotnetHide div<br>{<br>    visibility: hidden;<br>}<br>This gives me totally control over the Form DIV (And only the ASP.NET Form DIV).<br>Hope it's useful :)<br>Regards..</p>"

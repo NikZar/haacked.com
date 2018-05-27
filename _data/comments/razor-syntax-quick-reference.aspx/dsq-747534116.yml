@@ -1,0 +1,6 @@
+id: dsq-747534116
+date: 2012-07-23T04:22:09.0000000-07:00
+author: I am wondering how can I conve
+email: i_am_wondering_how_can_i_convert@wordpress.disqus.net
+gravatar: 5155ade04e5bc4862f6f136488fe05c0
+message: '<p>&lt;% Html.AjaxForm(s =&gt;<br> { %&gt;<br>&lt;div class="form2"&gt;<br>    &lt;br /&gt;<br>    &lt;label class="smallLabel" for="Name" &gt;<br>        Name : &lt;span id="s_Name"&gt;*&lt;/span&gt;&lt;/label&gt;<br>    &lt;%=Html.TextBox("Name", ViewData.Model.Name, new { @class = "smallTextBox" })%&gt;<br>&lt;/div&gt;<br>&lt;% });%&gt;</p>'

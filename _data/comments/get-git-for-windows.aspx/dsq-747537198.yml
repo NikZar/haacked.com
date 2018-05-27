@@ -1,0 +1,6 @@
+id: dsq-747537198
+date: 2011-12-19T05:45:10.0000000-08:00
+author: John Weldon
+email: johnweldon4@gmail.com
+gravatar: 262d914b9ff3f5b7f599de600cf463a8
+message: <p>I had this in my profile for a while, but I ran into issues with poorly written third party scripts that tried to run my profile in non-interactive sessions, and they would hang on the prompt.<br>I didn't find an easy way to detect a non-interactive session, so I just made a function in my profile that makes it easy to start ssh-agent, and add keys to it.<br><a href="https://gist.github.com/1499642" rel="nofollow noopener" title="https://gist.github.com/1499642">https://gist.github.com/1499642</a> start-sshagent, addkey-sshagent, and helper functions<br></p>

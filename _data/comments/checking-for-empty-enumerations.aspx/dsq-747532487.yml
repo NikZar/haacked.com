@@ -1,0 +1,6 @@
+id: dsq-747532487
+date: 2010-06-09T17:11:19.0000000-07:00
+author: Michael Meadows
+email: michaelmeadows@gmail.com
+gravatar: 954765ec98d01561285873097362e3ee
+message: <p>You might consider flipping the extension method. Instead of IsNullOrEmpty, use HasValues. This creates less double negatives in your code.</p>

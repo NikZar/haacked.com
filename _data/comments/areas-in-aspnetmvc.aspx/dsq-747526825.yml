@@ -1,0 +1,6 @@
+id: dsq-747526825
+date: 2009-04-01T21:59:16.0000000-07:00
+author: $5830036
+email: jay@londonbikers.com
+gravatar: 2b79bc2db7454608c06b9c88e589f15c
+message: <p>Thanks Phil! One thing though; forms. The Html.BeginForm() helper no longer works as it doesn't look in the area for the controller action.<br>Do you have anything for this?</p>

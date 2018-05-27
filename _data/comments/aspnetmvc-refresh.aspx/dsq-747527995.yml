@@ -1,0 +1,6 @@
+id: dsq-747527995
+date: 2009-03-05T22:36:03.0000000-08:00
+author: haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>@Jessica if you're not planning to host your site in a virtual app, I'd just use an absolute path...<br>  <code>/scripts/jQuery-###.js</code><br>But yeah, I agree with the problem of using Url.Content... We'll be looking at ideas to make that better.</p>

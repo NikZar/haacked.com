@@ -1,0 +1,6 @@
+id: dsq-747511235
+date: 2007-03-04T22:04:36.0000000-08:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>You don't need to declare it virtual when implementing an interface. It's "virtual" by virtue of the interface.</p>

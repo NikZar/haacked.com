@@ -1,0 +1,6 @@
+id: dsq-747520131
+date: 2007-09-17T01:40:41.0000000-07:00
+author: Haacked
+email: haacked@gmail.com
+gravatar: cdf546b601bf29a7eb4ca777544d11cd
+message: <p>Yeah, we're really really trying to avoid wildcard mappings in IIS. We're holding out until IIS 7 is more widely adopted. :)</p>

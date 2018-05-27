@@ -1,0 +1,6 @@
+id: dsq-747519093
+date: 2008-07-31T09:13:55.0000000-07:00
+author: Chris
+email: eicastic-mpath1@yahoo.com
+gravatar: abe835f26ad19354ede9e239c63d12ba
+message: <p>Mike, you shouldn't be using the IConfigurationSectionHandler. That's been deprecated since .Net 2.0. The current official mechanism is to inherit from ConfigSection.</p>

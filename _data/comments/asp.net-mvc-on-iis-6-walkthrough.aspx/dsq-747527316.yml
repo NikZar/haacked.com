@@ -1,0 +1,6 @@
+id: dsq-747527316
+date: 2012-09-24T12:36:43.0000000-07:00
+author: bradley
+email: buck.4d2@gmail.com
+gravatar: 2fac426517e2a3d15e534cbf24970445
+message: <p>For all those still getting the "404 page not found error" but can still load up root URL<br>As Mr Haack says in this tut, Go back to that isapi mapping, make sure the "Verify file exists" box is UNCHECKED.   That one got me for a bit.</p>

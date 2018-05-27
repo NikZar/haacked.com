@@ -1,0 +1,6 @@
+id: dsq-2764711300
+date: 2016-07-04T07:27:48.0000000-07:00
+author: Nyerguds
+email: nyerguds@gmail.com
+gravatar: 506a37c8660a6faa6382086e4a538811
+message: <p>Well, to me, it's just about clarity. Why use those aliases at all? The only thing they do is hide information.</p><p>On that note, one could just as well say using an Int32 for a 0-10 for-loop is overkill anyway, and you should just use an Int16 (or, heck, a byte), but the only reason you're using the Int32 is because of the alias ;)</p>

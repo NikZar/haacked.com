@@ -1,0 +1,6 @@
+id: dsq-747527679
+date: 2009-01-07T22:43:37.0000000-08:00
+author: Troy Goode
+email: tgoode@squaredroot.com
+gravatar: d970e9a9176eb12a764647485b447abf
+message: "<p>@Billy: if you're using jQuery and specify a return type of \"json\", jQuery is smart enough to automatically append an accept-type header of \"application/json\" out of the box</p>"

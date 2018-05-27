@@ -1,0 +1,6 @@
+id: dsq-747534923
+date: 2011-05-31T20:53:02.0000000-07:00
+author: Hardy Wang
+email: hardywang@hotmail.com
+gravatar: c1548a3f08f1d1c07ba18f2cc6cd89c3
+message: <p>Just not working. I installed from NuGet, added Microsoft.Web.Infrastructure.dll reference in my MVC3/.Net 4 project.<br>After I launched my application, nothing about routing information showed up.</p>

@@ -1,0 +1,6 @@
+id: dsq-747512771
+date: 2005-07-29T06:10:00.0000000-07:00
+author: Kevin Marks
+email: kevin_marks@wordpress.disqus.net
+gravatar: b79334822ed93e486abf4cadb1c593d9
+message: <p>One way microformats could help with your (slightly contrived) example would be to use a Javascript post-processer to compile the presentation of 'current' events from the cleaner xhtml microformat representation, thus you only have one file to maintain.<br><br><br><br>See  <a href="http://web.mit.edu/glasser/www/JSCalendar/" rel="nofollow noopener" title="http://web.mit.edu/glasser/www/JSCalendar/">http://web.mit.edu/glasser/www/JSCalendar/</a> for an example of this approach.</p>

@@ -1,0 +1,6 @@
+id: dsq-747527839
+date: 2009-01-27T06:40:24.0000000-08:00
+author: Michael Carr
+email: mcarr@umich.edu
+gravatar: e5611f5d7b1c9dafda9776e916c1050f
+message: <p>I made what I believe is a slight improvement to the default ContentPlaceHolder "head".<br>Old default (from your code above):<br>&lt;asp:ContentPlaceHolder ID="head" runat="server"&gt;<br>  &lt;title&gt;&lt;/title&gt;<br>&lt;/asp:ContentPlaceHolder&gt;<br>New default:<br>&lt;asp:ContentPlaceHolder ID="head" runat="server"&gt;<br>  &lt;title&gt;&lt;%= Page.Title %&gt;&lt;/title&gt;<br>&lt;/asp:ContentPlaceHolder&gt;<br>Then, for 99% of my views I can set the title like this:<br>&lt;%@ Page Title="My Page Title" Language="C#" ... %&gt;<br>For the minority of views that need special treatment, I can override the default by implementing a distinct content control for "head".<br></p>

@@ -1,0 +1,6 @@
+id: dsq-747530694
+date: 2009-11-22T01:20:00.0000000-08:00
+author: Vijay Santhanam
+email: vijay_santhanam@wordpress.disqus.net
+gravatar: 55ed3e66c7e2d8dc9e0a17692edb40e3
+message: <p>What about IoC injection for attributes and Validators?<br>I'm seeing a terrible pattern with some MVC features. You guys are ignoring IoC for some things (like ModelBinderAttribute in v1).<br>Validators (especially) contain business logic and should be injectable without having to access a singleton IoC accessor.<br></p>

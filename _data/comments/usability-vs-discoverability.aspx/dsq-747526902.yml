@@ -1,0 +1,6 @@
+id: dsq-747526902
+date: 2008-11-06T05:04:53.0000000-08:00
+author: Erik van Brakel
+email: e.van.brakel@gmail.com
+gravatar: 6fbbb03d57d4b5d7501326f06e252942
+message: <p>@ Ayende:<br>That's what I was thinking as well. I guess the API now is a result of thinking in interfaces too much, while neglecting the fact that using an abstract base class still IS a valid option in a lot of cases?</p>

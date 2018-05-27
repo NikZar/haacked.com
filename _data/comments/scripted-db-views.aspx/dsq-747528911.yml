@@ -1,0 +1,6 @@
+id: dsq-747528911
+date: 2009-04-22T21:17:00.0000000-07:00
+author: Dody Gunawinata
+email: dody_gunawinata@wordpress.disqus.net
+gravatar: c2d8940dcc294ec4ff7436ae245aeea1
+message: <p>Override the caching lookup in VirtualFile to zero so you will not have a cache issue. The problem is that you are pretty much recompiling the view on the fly for every request.</p>

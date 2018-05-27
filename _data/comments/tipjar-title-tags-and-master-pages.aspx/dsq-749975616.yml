@@ -1,0 +1,6 @@
+id: dsq-749975616
+date: 2012-12-28T14:59:02.0000000-08:00
+author: Andrew Newey
+email: andrew@acenet.net.au
+gravatar: eaa101248a3b514b3f3f62360cd9963d
+message: <p>Hi, just a quick update for those also looking to do this with their description tags, this also works with the following example implementation:<br>On master page, where you can specify default description on all pages:  &lt;asp:contentplaceholder id="tagDescription" runat="server"&gt; &lt;meta name="description" content="insert a default description here"/&gt;  &lt;/asp:contentplaceholder&gt;<br>On each page where you want to specify an individual description:&lt;asp:content contentplaceholderid="tagDescription" runat="server"&gt; &lt;meta name="description" content="insert custom description here"/&gt;&lt;/asp:content&gt;</p>

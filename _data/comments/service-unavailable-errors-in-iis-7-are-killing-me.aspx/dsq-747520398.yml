@@ -1,0 +1,6 @@
+id: dsq-747520398
+date: 2010-12-12T15:49:21.0000000-08:00
+author: Nikita G.
+email: nikitagon@yahoo.com
+gravatar: e88a3ae9f4711c344e54085e8388f4c8
+message: <p>This can happen after you changed your account password.<br>In this case, do the following:<br>1. Go to services, sort them by log on account and set new password for the ones that are run using your account (not built-in one)<br>2. Go to app pool properties and re-set your account name and password.</p>

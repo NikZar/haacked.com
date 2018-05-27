@@ -1,0 +1,6 @@
+id: dsq-933199608
+date: 2013-06-17T08:55:37.0000000-07:00
+author: Robert Schroeder
+email: rmschroeder@hotmail.com
+gravatar: 9e82d48c0289442b140b958091f0f97c
+message: <p>mutability -- is it necessary, how to limit it, how to ensure it is valid.<br>unintended state - can the stateful variables be set to invalid combinations (if a == true, b SHOULD be x, y , or x, but in some cases could be NULL).</p>

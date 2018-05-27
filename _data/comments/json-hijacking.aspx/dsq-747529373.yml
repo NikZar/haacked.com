@@ -1,0 +1,6 @@
+id: dsq-747529373
+date: 2009-06-25T23:10:00.0000000-07:00
+author: Andrey Shchekin
+email: andrey_shchekin@wordpress.disqus.net
+gravatar: d418f286f836f6417608dc11ccb456f7
+message: <p>Would this work under IE8 if you use Object.defineProperty?<br><a href="http://msdn.microsoft.com/en-us/library/dd229916" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/dd229916">http://msdn.microsoft.com/en-us/library/dd229916</a>(VS.85).aspx</p>
